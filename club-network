@@ -32,10 +32,6 @@ http://tv.teleclub.xyz/stream/Infantil/BITME/index.m3u8
 http://tv.teleclub.xyz/stream/Infantil/CARTOONITO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Infantil", Gogoplay TV
 http://tv.teleclub.xyz/stream/Infantil/GOGOPLAY/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="Infantil", CARTOON NETWORK LATINO 1
-http://tv.teleclub.xyz/stream/Infantil/CN_LA/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="Infantil", CARTOON NETWORK LATINO 2
-http://tv.teleclub.xyz/stream/Infantil/CN2_LA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="Mundo", CNN en Español
 http://tv.teleclub.xyz/stream/Mundo/CNN_ESPANOL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Mundo", CNN
@@ -52,18 +48,13 @@ http://tv.teleclub.xyz/stream/Mundo/MASCHIC/index.m3u8
 http://tv.teleclub.xyz/stream/Mundo/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="Mundo", ADN40
 http://tv.teleclub.xyz/stream/Mundo/ADN40/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rP8UBPq.png" group-title="Mundo", RCN
-http://tv.teleclub.xyz/stream/Mundo/RCN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Mundo", Telefe
-http://tv.teleclub.xyz/stream/Mundo/TELEFE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="Mundo", HolaTV
 http://tv.teleclub.xyz/stream/Mundo/HOLATV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Mundo", Las Estrellas
 http://tv.teleclub.xyz/stream/Mundo/LAS_ESTRELLAS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RPDq82Q.png" group-title="Mundo", Canal E!
 http://tv.teleclub.xyz/stream/Mundo/CANAL_E/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6nPAF0Q.png" group-title="Mundo", Caracol TV
-http://tv.teleclub.xyz/stream/Mundo/CARACOLTV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png" group-title="Mundo", Telemundo
 http://tv.teleclub.xyz/stream/Mundo/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Mundo", Azteca7
@@ -180,22 +171,15 @@ http://tv.teleclub.xyz/stream/Entretenimiento/A3CINE_LAT/index.m3u8
 http://tv.teleclub.xyz/stream/Musica/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica", MTV Hits
 http://tv.teleclub.xyz/stream/Musica/MTV_HITS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica", MTV Live
-http://tv.teleclub.xyz/stream/Musica/MTV_LIVE/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica", MTV Classic
 http://tv.teleclub.xyz/stream/Musica/MTV_CLASSIC/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ddaqvnR.png" group-title="Musica", Bandamax
 http://tv.teleclub.xyz/stream/Musica/BANDAMAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y3C9Jkb.png" group-title="Musica", Nick Music
 http://tv.teleclub.xyz/stream/Musica/NICK_MUSIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RiI6SCb.png" group-title="Musica", Retro Plus 1
-http://tv.teleclub.xyz/stream/Musica/RETRO_PLUS_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RiI6SCb.png" group-title="Musica", Retro Plus 2
-http://tv.teleclub.xyz/stream/Musica/RETRO_PLUS_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png" group-title="Deportes", TUDN
-http://tv.teleclub.xyz/stream/Deportes/TUDN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LLWkHuv.png" group-title="Deportes", Afizzionados
-http://tv.teleclub.xyz/stream/Deportes/AFIZZIONADOS/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deportes", Claro Sports
 http://tv.teleclub.xyz/stream/Deportes/CLARO_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="Deportes", GolTV
