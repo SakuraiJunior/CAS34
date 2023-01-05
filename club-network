@@ -179,59 +179,9 @@ http://tv.teleclub.xyz/stream/24_7/CHESPIRITO/index.m3u8
 
 
 
-:-1 tvg-logo="https://i2.paste.pics/49116db7b95befdabb207ccbd2bb94b6.png" group-title="TV Chile", NTV
-http://tv.teleclub.xyz/stream/Chile/NTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cLe1X-6sOWM/XqtZ-zhsGYI/AAAAAAAAydY/AFIEb1ZL-HEceewpnqr3m9QxC3_3_KzIwCK8BGAsYHg/s0/2020-04-30.png" group-title="TV Chile", Pichilemu TV
-http://tv.teleclub.xyz/stream/Chile/PICHILEMU_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/3a66236cd4d5f46b440f80ccc87129f1.png" group-title="TV Chile", Exprezion TV
-http://tv.teleclub.xyz/stream/Chile/EXPREZION_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d091b495e5432ae25bfab9dd4624cc6d.png" group-title="TV Chile", G Vision
-http://tv.teleclub.xyz/stream/Chile/G_VISION/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XPA8QBfVGSA/YLEWvahvgkI/AAAAAAABCjo/sVxl7r4_EQgdvmviKMozcvmxwajFgdLcgCJEEGAsYHg/s512/2021-05-28.jpg" group-title="TV Chile", Wapp
-http://tv.teleclub.xyz/stream/Chile/WAPP/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg" group-title="TV Chile", La Red
-http://tv.teleclub.xyz/stream/Chile/LA_RED/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OyqOBTEx-1E/XyA3AZwIgTI/AAAAAAAA3jQ/aDMZaLOx3mQuXBqjDKAF0X7dxExKFzawACK8BGAsYHg/s0/2020-07-28.png" group-title="TV Chile", TV+
-http://tv.teleclub.xyz/stream/Chile/TV+/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/f37083fc717ad290191a24b61ee7eec7.png" group-title="TV Chile", TVMas2
-http://tv.teleclub.xyz/stream/Chile/TVMAS2/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" group-title="TV Chile", Mega
-http://tv.teleclub.xyz/stream/Chile/MEGA/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png" group-title="TV Chile", CHV Contigo
-http://tv.teleclub.xyz/stream/Chile/CHV_CONTIGO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png" group-title="TV Chile", 13 Cultura
-http://tv.teleclub.xyz/stream/Chile/13_CULTURA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png" group-title="TV Chile", 13 Entretencion
-http://tv.teleclub.xyz/stream/Chile/13_ENTRETENCION/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png" group-title="TV Chile", 13 Prime
-http://tv.teleclub.xyz/stream/Chile/13_PRIME/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png" group-title="TV Chile", 13 Teleseries
-http://tv.teleclub.xyz/stream/Chile/13_TELESERIES/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/2336e0cef4642213124e4192f019ccfd.png" group-title="TV Chile", U Chile TV
-http://tv.teleclub.xyz/stream/Chile/U_CHILE_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png" group-title="TV Chile", UCV
-http://tv.teleclub.xyz/stream/Chile/UCV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png" group-title="TV Chile", UCV 2
-http://tv.teleclub.xyz/stream/Chile/UCV_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-02uPrXnaZuY/Xk_sz_MIaEI/AAAAAAAAwVo/wwJD8vjW0ScrhAp-BVHSElUKIOUN_CqJgCK8BGAsYHg/s0/2020-02-21.png" group-title="TV Chile", STGO.TV
-http://tv.teleclub.xyz/stream/Chile/STGO.TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pW3OtBR0N4A/Xl5Y7H0fi7I/AAAAAAAAwjg/gdqG0LJ8DP42Md2rGIh2qHs1vNF7AYopACK8BGAsYHg/s0/2020-03-03.png" group-title="TV Chile", Campus TV
-http://tv.teleclub.xyz/stream/Chile/CAMPUS_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a399853d40d3e97454b0e04d423d47a9.png" group-title="TV Chile", TVU
-http://tv.teleclub.xyz/stream/Chile/TVU/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/4f091f5c6fccbcd410cdc98e452bcb3b.png" group-title="TV Chile", Universidad Autonoma TV
-http://tv.teleclub.xyz/stream/Chile/UNIVERSIDAD_AUTONOMA_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b5STpV7frCc/YHxqEk9aHxI/AAAAAAABBqs/CXWLe5jLyfgXXBgOSzhqb5sSUpn_A6K8ACK8BGAsYHg/s512/2021-04-18.png" group-title="TV Chile", TV UCT
-http://tv.teleclub.xyz/stream/Chile/TV_UCT/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mt7LVY0X3kE/XlBdyl_hwFI/AAAAAAAAwW0/vqFU9wiyuawEn3E39ERyYaOkVZ3TVterACK8BGAsYHg/s0/2020-02-21.png" group-title="TV Chile", U Los Lagos
-http://tv.teleclub.xyz/stream/Chile/U_LOS_LAGOS/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-0NppS8zHXRU/XbC2cN4qlAI/AAAAAAAArmY/g4gYZKyGhHglj_lyBKSaRw-tBMgzO0NmACK8BGAsYHg/s0/2019-10-23.png" group-title="TV Chile", UMAG TV
-http://tv.teleclub.xyz/stream/Chile/UMAG_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-0NppS8zHXRU/XbC2cN4qlAI/AAAAAAAArmY/g4gYZKyGhHglj_lyBKSaRw-tBMgzO0NmACK8BGAsYHg/s0/2019-10-23.png" group-title="TV Chile", UMAG TV 2
-http://tv.teleclub.xyz/stream/Chile/UMAG_TV_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/360c8f7659accc54b1013b0b2b7669b6.png" group-title="TV Chile", UesTV
-http://tv.teleclub.xyz/stream/Chile/UESTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/8ac54ede0184c4fd9e872231a6d673b3.png" group-title="TV Chile", Camara de Diputados
+
+#EXTINF:-1 " group-title="TV Chile", Pich
+#EXTINlogo="https://i2.paste.pics/8ac54ede0184c4fd9e872231a6d673b3.png" group-title="TV Chile", Camara de Diputados
 http://tv.teleclub.xyz/stream/Chile/CAMARA_DE_DIPUTADOS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/ee6b562807f06f0139f28cd160a82a8f.png" group-title="TV Chile", TV Senado
 http://tv.teleclub.xyz/stream/Chile/TV_SENADO/index.m3u8
