@@ -76,7 +76,6 @@ http://tv.teleclub.xyz/stream/Cultura/COMEDYCENTRAL/index.m3u8
 http://tv.teleclub.xyz/stream/Cultura/LOVE_NATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png" group-title="Cultura", TLNovelas
 http://tv.teleclub.xyz/stream/Cultura/TLNovelas/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Entretenimiento", Star Channel
 http://tv.teleclub.xyz/stream/Entretenimiento/STAR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento", Universal TV
@@ -123,24 +122,10 @@ http://tv.teleclub.xyz/stream/Musica/MTV/index.m3u8
 http://tv.teleclub.xyz/stream/Musica/MTV_HITS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica", MTV Classic
 http://tv.teleclub.xyz/stream/Musica/MTV_CLASSIC/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ddaqvnR.png" group-title="Musica", Bandamax
-http://tv.teleclub.xyz/stream/Musica/BANDAMAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y3C9Jkb.png" group-title="Musica", Nick Music
 http://tv.teleclub.xyz/stream/Musica/NICK_MUSIC/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deportes", Claro Sports
 http://tv.teleclub.xyz/stream/Deportes/CLARO_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="Deportes", GolTV
-http://tv.teleclub.xyz/stream/Deportes/GOLTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="Deportes", Directv
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="Deportes", Directv 2
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="Deportes", Directv +
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV_PLUS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMo03Pz.png" group-title="Deportes", GolPeru
-http://tv.teleclub.xyz/stream/Deportes/GOLPERU/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN MX
 http://tv.teleclub.xyz/stream/Deportes/ESPN_MX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN 2 MX
@@ -153,46 +138,10 @@ http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_MX/index.m3u8
 http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_2_MX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sports 3 MX
 http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_3_MX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN Sur
-http://tv.teleclub.xyz/stream/Deportes/ESPN_SUR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN 2 Sur
-http://tv.teleclub.xyz/stream/Deportes/ESPN_2_SUR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN 3 Sur
-http://tv.teleclub.xyz/stream/Deportes/ESPN_3_SUR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sports Sur
-http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_SUR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sports 2 Sur
-http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_2_SUR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sports 3 Sur
-http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_3_SUR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D06tacN.png" group-title="Deportes", Bein Sports
-http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" group-title="Deportes", Win Sports
-http://tv.teleclub.xyz/stream/Deportes/WIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" group-title="Deportes", Win Sports +
-http://tv.teleclub.xyz/stream/Deportes/WIN_SPORTS_PLUS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN Extra
-http://tv.teleclub.xyz/stream/Deportes/ESPN_EXTRA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zKwneZ3.png" group-title="Deportes", TyC Sports
-http://tv.teleclub.xyz/stream/Deportes/TYC_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IEQHphW.jpg" group-title="Deportes", WWE & WWF
-http://tv.teleclub.xyz/stream/Deportes/WWE_WWF/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yTaEw8U.png" group-title="Deportes", ESPN 4
-http://tv.teleclub.xyz/stream/Deportes/ESPN4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/29l9xsm.png" group-title="Deportes", DAZN
-http://tv.teleclub.xyz/stream/Deportes/DAZN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="Deportes", DirecTV Sports (ARG)
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV_ARG/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FvNnvA9.png" group-title="Deportes", Real Madrid TV (ES)
-http://tv.teleclub.xyz/stream/Deportes/RM_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Deportes", Manchester United TV
-http://tv.teleclub.xyz/stream/Deportes/MAN_UNITEDTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="Deportes", NFL Channel
-http://tv.teleclub.xyz/stream/Deportes/NFL_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png" group-title="Deportes", Tigo Sports CR
-http://tv.teleclub.xyz/stream/Deportes/Tigo_Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="Deportes", Adrenalina Sports Network
 http://tv.teleclub.xyz/stream/Deportes/ADRENALINA/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c62d925b201bdb9d034e4d582d62abf2.png" group-title="Deportes", MZ Sports CR
 http://tv.teleclub.xyz/stream/Deportes/MZ_SPORTSCR/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports BR
