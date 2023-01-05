@@ -1,4 +1,6 @@
 #EXTM3U
+#
+#Playlist: 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="About", AGOSTO | Latino | teleclub!
 http://tv.teleclub.xyz/hls/welcome.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", Canal 01
@@ -37,17 +39,17 @@ http://tv.teleclub.xyz/stream/Mundo/TRUTV/index.m3u8
 http://tv.teleclub.xyz/stream/Mundo/MASCHIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="Mundo", Lifetime
 http://tv.teleclub.xyz/stream/Mundo/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="Mundo", ADN40
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="Mexico", ADN40
 http://tv.teleclub.xyz/stream/Mundo/ADN40/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="Mundo", HolaTV
 http://tv.teleclub.xyz/stream/Mundo/HOLATV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Mundo", Las Estrellas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Mexico", Las Estrellas
 http://tv.teleclub.xyz/stream/Mundo/LAS_ESTRELLAS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RPDq82Q.png" group-title="Mundo", Canal E!
 http://tv.teleclub.xyz/stream/Mundo/CANAL_E/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png" group-title="Mundo", Telemundo
 http://tv.teleclub.xyz/stream/Mundo/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Mundo", Azteca7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Mexico", Azteca7
 http://tv.teleclub.xyz/stream/Mundo/AZTECA7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbrBFPQ.png" group-title="Cultura", Food Network
 http://tv.teleclub.xyz/stream/Cultura/FOOD_NETWORK/index.m3u8
@@ -139,7 +141,7 @@ http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_2_MX/index.m3u8
 http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_3_MX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="Deportes", Adrenalina Sports Network
 http://tv.teleclub.xyz/stream/Deportes/ADRENALINA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/8a2bf919d229e094124cd4739b4c6c7c.png" group-title="TV Mexico", Telemax Hermosillo
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/8a2bf919d229e094124cd4739b4c6c7c.png" group-title="Mexico", Telemax Hermosillo
 http://tv.teleclub.xyz/stream/Mexico/TELEMAX_HERMOSILLO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24_7", Los Simpsons 1
 http://tv.teleclub.xyz/stream/24_7/LOS_SIMPSONS_1/index.m3u8
