@@ -34,12 +34,10 @@ http://tv.teleclub.xyz/stream/Infantil/CARTOONITO/index.m3u8
 http://tv.teleclub.xyz/stream/Infantil/GOGOPLAY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="Mundo", CNN en Español
 http://tv.teleclub.xyz/stream/Mundo/CNN_ESPANOL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Mundo", CNN
-http://tv.teleclub.xyz/stream/Mundo/CNN/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9shfcbz.png" group-title="Mundo", Glitz
 http://tv.teleclub.xyz/stream/Mundo/GLITZ/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="Mundo", RT en Español
-http://tv.teleclub.xyz/stream/Mundo/RT_ESPANOL/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2ViWPe.png" group-title="Mundo", TruTV
 http://tv.teleclub.xyz/stream/Mundo/TRUTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rQOOHA2.png" group-title="Mundo", MasChic
@@ -59,22 +57,14 @@ http://tv.teleclub.xyz/stream/Mundo/CANAL_E/index.m3u8
 http://tv.teleclub.xyz/stream/Mundo/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Mundo", Azteca7
 http://tv.teleclub.xyz/stream/Mundo/AZTECA7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sCMrEpW.png" group-title="Mundo", Univision
-http://tv.teleclub.xyz/stream/Mundo/UNIVISION/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0A0KkZ2.png" group-title="Mundo", Antena 3
 http://tv.teleclub.xyz/stream/Mundo/ANTENA3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbrBFPQ.png" group-title="Cultura", Food Network
 http://tv.teleclub.xyz/stream/Cultura/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura", Discovery Channel
 http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dCIf15Q.jpg" group-title="Cultura", Discovery Theater
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_THEATER/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8yegix.jpg" group-title="Cultura", Discovery World
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_WORLD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura", Discovery Turbo
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_TURBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MyPyuM2.jpg" group-title="Cultura", Discovery Sciences
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_SCIENCES/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aFNCuzq.png" group-title="Cultura", Discovery ID
 http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_ID/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", Discovery H&H
