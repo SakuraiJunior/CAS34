@@ -26,12 +26,10 @@ http://tv.teleclub.xyz/stream/Infantil/NICK/index.m3u8
 http://tv.teleclub.xyz/stream/Infantil/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Infantil", Tooncast
 http://tv.teleclub.xyz/stream/Infantil/TOONCAST/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Infantil", Bitme
-http://tv.teleclub.xyz/stream/Infantil/BITME/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="Infantil", Cartoonito
 http://tv.teleclub.xyz/stream/Infantil/CARTOONITO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Infantil", Gogoplay TV
-http://tv.teleclub.xyz/stream/Infantil/GOGOPLAY/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="Mundo", CNN en Español
 http://tv.teleclub.xyz/stream/Mundo/CNN_ESPANOL/index.m3u8
 
@@ -58,8 +56,6 @@ http://tv.teleclub.xyz/stream/Mundo/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Mundo", Azteca7
 http://tv.teleclub.xyz/stream/Mundo/AZTECA7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0A0KkZ2.png" group-title="Mundo", Antena 3
-http://tv.teleclub.xyz/stream/Mundo/ANTENA3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbrBFPQ.png" group-title="Cultura", Food Network
 http://tv.teleclub.xyz/stream/Cultura/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura", Discovery Channel
@@ -71,8 +67,6 @@ http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_ID/index.m3u8
 http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_HH/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura", History Channel
 http://tv.teleclub.xyz/stream/Cultura/HISTORY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura", H2
-http://tv.teleclub.xyz/stream/Cultura/H2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="Cultura", National Geographic
 http://tv.teleclub.xyz/stream/Cultura/NATGEO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cultura", A&E
@@ -85,14 +79,14 @@ http://tv.teleclub.xyz/stream/Cultura/EL_GOURMET/index.m3u8
 http://tv.teleclub.xyz/stream/Cultura/TLC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRVqHBL.png" group-title="Cultura", ComedyCentral
 http://tv.teleclub.xyz/stream/Cultura/COMEDYCENTRAL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4bBkM3X.png" group-title="Cultura", Distrito Comedia
-http://tv.teleclub.xyz/stream/Cultura/DISTRITO_COMEDIA/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fCegFzr.png" group-title="Cultura", Love Nature
 http://tv.teleclub.xyz/stream/Cultura/LOVE_NATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png" group-title="Cultura", TLNovelas
 http://tv.teleclub.xyz/stream/Cultura/TLNovelas/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="Cultura", Love Nature 4K
-http://tv.teleclub.xyz/stream/Cultura/LOVENATURE_4K/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Entretenimiento", Star Channel
 http://tv.teleclub.xyz/stream/Entretenimiento/STAR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento", Universal TV
@@ -123,8 +117,7 @@ http://tv.teleclub.xyz/stream/Entretenimiento/DEPELICULA/index.m3u8
 http://tv.teleclub.xyz/stream/Entretenimiento/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="Entretenimiento", HBO
 http://tv.teleclub.xyz/stream/Entretenimiento/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="Entretenimiento", HBO 2
-http://tv.teleclub.xyz/stream/Entretenimiento/HBO_2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="Entretenimiento", HBO +
 http://tv.teleclub.xyz/stream/Entretenimiento/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UWB6lC9.jpg" group-title="Entretenimiento", HBO Mundi
@@ -145,6 +138,7 @@ http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_EDGE/index.m3u8
 http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_PREMIER/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Plus
 http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_PLUS/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Entretenimiento", AMC
 http://tv.teleclub.xyz/stream/Entretenimiento/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento", SPACE
