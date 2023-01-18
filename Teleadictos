@@ -3,113 +3,128 @@
 #
 #Playlist: https://raw.githubusercontent.com/SakuraiJunior/CAS34/main/Teleadictos
 
-#EXTINF:-1 ADN40
+#EXTINF:-1 ADN40 , group-title="Nacional"
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 Azteca Uno
+#EXTINF:-1 Azteca Uno , group-title="Nacional"
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 Azteca Siete
+#EXTINF:-1 Azteca Siete , group-title="Nacional"
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1 Multimedios Monterrey
+#EXTINF:-1 Multimedios Monterrey , group-title="Nacional"
 https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-dai/57b4dbf5dbbfc8f16bb63ce1/56a3e60cbd7f4933b1c97937668b884d/f624fec49dadc88894ebeff1d974eab019af7757/media.m3u8?aid=579bd29dc99290cf08362c3b&pid=7RA6OJ4tVZLHWb0b7Xmpx7WJTj07dDGe&sid=icxo3J1YHHe4aQmzGKhgJ2Isu9nU9pIy&uid=ixlbGzjb3WASKaBZ3xUCElNW8QId24p8&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1674014904051&ot=3GHmOY8s9QY8A_oRcrV-7Q&proto=https&pz=us
 
-#EXTINF:-1 MilenioTV
+#EXTINF:-1 MilenioTV , group-title="Nacional"
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 Las Estrellas -1HR
+#EXTINF:-1 Las Estrellas -1HR , group-title="Nacional"
 https://linear-414.frequency.stream/dist/vix/414/hls/master/playlist.m3u8
 
-#EXTINF:-1 ForoTV
+#EXTINF:-1 ForoTV , group-title="Nacional"
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-#EXTINF:-1 Canal 5
+#EXTINF:-1 Canal 5 , group-title="Nacional"
 https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 
-#EXTINF:-1 El Nu9ve
+#EXTINF:-1 El Nu9ve , group-title="Nacional"
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-#EXTINF:-1 Los SimpsonsTV
+#EXTINF:-1 Los SimpsonsTV , group-title="Maraton"
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
-#EXTINF:-1 Bayres TV
+#EXTINF:-1 Bayres TV , group-title="Entretenimiento"
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-#EXTINF:-1 Kanade TV
+#EXTINF:-1 Kanade TV , group-title="Infantil"
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 
-#EXTINF:-1 Lim TV
+#EXTINF:-1 Lim TV , group-title="Entretenimiento"
 https://live.limplay.ml/limtv.m3u8
 
-#EXTINF:-1 LocomotionTV
+#EXTINF:-1 LocomotionTV , group-title="Infantil"
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 Anime Zone TV
+#EXTINF:-1 Anime Zone TV , group-title="Infantil"
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 Boomerang
+#EXTINF:-1 Boomerang , group-title="Infantil"
 http://161.97.152.4:81/hls/boomerang.m3u8
 
-#EXTINF:-1 ACS Network TV
+#EXTINF:-1 ACS Network TV , group-title="Entretenimiento"
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
-#EXTINF:-1 Magic Kids TV
+#EXTINF:-1 Magic Kids TV , group-title="Infantil"
 https://stmvideo1.livecastv.com/magic-2023/magic-2023/playlist.m3u8
 
-#EXTINF:-1 EnerGeek Retro
+#EXTINF:-1 EnerGeek Retro , group-title="Infantil"
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
-#EXTINF:-1 FanpopTV
+#EXTINF:-1 FanpopTV , group-title="Infantil"
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
-#EXTINF:-1 EnerGeek
+#EXTINF:-1 EnerGeek , group-title="Infantil"
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 
-#EXTINF:-1 VariedTV
+#EXTINF:-1 VariedTV , group-title="Entretenimiento"
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
-#EXTINF:-1 Latino Kids TV
+#EXTINF:-1 Latino Kids TV , group-title="Infantil"
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
-#EXTINF:-1 Mi TV Television Clasica
+#EXTINF:-1 Mi TV Television Clasica , group-title="Entretenimiento"
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
-#EXTINF:-1 Zaz TV
+#EXTINF:-1 Zaz TV , group-title="Infantil"
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701
 
-#EXTINF:-1 Tele Estrella
+#EXTINF:-1 Tele Estrella , group-title="Entretenimiento"
 https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
 
-#EXTINF:-1 Teleritmo
+#EXTINF:-1 Teleritmo , group-title="Musica"
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
 
-#EXTINF:-1 Afizzionados
+#EXTINF:-1 Afizzionados , group-title="Deportes"
 https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 
-#EXTINF:-1 WOWTV
+#EXTINF:-1 WOWTV , group-title="Entretenimiento"
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
 
-#EXTINF:-1 MTV Latino
+#EXTINF:-1 MTV Latino , group-title="Musica"
 https://stitcher.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
 
-#EXTINF:-1 AMC
+#EXTINF:-1 AMC , group-title="Entretenimiento"
 https://stitcher.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
 
-#EXTINF:-1 EstrellaTV
+#EXTINF:-1 EstrellaTV , group-title="Entretenimiento"
 https://stitcher.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
 
-#EXTINF:-1 Comedy Central
+#EXTINF:-1 Comedy Central , group-title="Entretenimiento"
 https://stitcher.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
 
-#EXTINF:-1 Nick Junior
+#EXTINF:-1 Nick Junior , group-title="Infantil"
 https://stitcher.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
 
-#EXTINF:-1 Nickelodeon
+#EXTINF:-1 Nickelodeon , group-title="Infantil"
 https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
 
-#EXTINF:-1 Pelis y Popcorn
+#EXTINF:-1 Pelis y Popcorn , group-title="Entretenimiento"
 https://stitcher.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
 
-#EXTINF:-1 VEVO Latino
+#EXTINF:-1 Telexitos , group-title="Entretenimiento"
+https://v-px.mybtv.net/live/47.m3u8
+
+#EXTINF:-1 VEVO Latino , group-title="Musica"
 https://linear-494.frequency.stream/494/hls/master/playlist.m3u8
+
+#EXTINF:-1 Acapulco Shore , group-title="Maraton"
+https://stitcher.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
+
+#EXTINF:-1 The Walking Dead , group-title="Maraton"
+https://stitcher.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
+
+#EXTINF:-1 Liga MX , group-title="Maraton"
+https://linear-193.frequency.stream/dist/localnow/193/hls/master/playlist.m3u8
+
+#EXTINF:-1 NMas , group-title="Maraton"
+https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
