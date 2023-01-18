@@ -39,6 +39,9 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 Los SimpsonsTV , group-title="Maraton"
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
+#EXTINF:-1 ALF , group-title="Maraton"
+https://srv5.zcast.com.br/alf/alf/playlist.m3u8
+
 #EXTINF:-1 Bayres TV , group-title="Entretenimiento"
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
@@ -132,6 +135,12 @@ https://linear-494.frequency.stream/494/hls/master/playlist.m3u8
 #EXTINF:-1 MusicTop , group-title="Musica"
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 FilmStream , group-title="Entretenimiento"
+https://stitcher.pluto.tv/stitch/hls/channel/5fcea359e533cb0007215c71/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6a444e-7a32-11ed-b988-ee45f0bf4c01
+
+#EXTINF:-1 Bob Esponja , group-title="Maraton"
+https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6a444e-7a32-11ed-b988-ee45f0bf4c01
+
 #EXTINF:-1 Acapulco Shore , group-title="Maraton"
 https://stitcher.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
 
@@ -146,3 +155,6 @@ https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
 #EXTINF:-1 40y20 , group-title="Maraton"
 https://linear-340.frequency.stream/340/hls/master/playlist.m3u8
+
+#EXTINF:-1 South Park , group-title="Maraton"
+https://stitcher.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6a444e-7a32-11ed-b988-ee45f0bf4c01
