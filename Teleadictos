@@ -136,45 +136,32 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 group-title="Noticias" , tvg-chnno="225" , NMas Media
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="" , tvg-chnno="230"
-#EXTINF:-1 group-title="" , tvg-chnno="235"
-#EXTINF:-1 group-title="" , tvg-chnno="240"
-#EXTINF:-1 group-title="" , tvg-chnno="245"
-#EXTINF:-1 group-title="" , tvg-chnno="250"
-#EXTINF:-1 group-title="" , tvg-chnno="255"
-#EXTINF:-1 group-title="" , tvg-chnno="260"
-#EXTINF:-1 group-title="" , tvg-chnno="265"
-#EXTINF:-1 group-title="" , tvg-chnno="270"
-#EXTINF:-1 group-title="" , tvg-chnno="275"
-#EXTINF:-1 group-title="" , tvg-chnno="280"
-#EXTINF:-1 group-title="" , tvg-chnno="285"
-#EXTINF:-1 group-title="" , tvg-chnno="290"
-#EXTINF:-1 group-title="" , tvg-chnno="295"
-#EXTINF:-1 group-title="" , tvg-chnno="300"
+#EXTINF:-1 group-title="" , tvg-chnno="230" , BitMe
+https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Maraton" , Bob Esponja
+#EXTINF:-1 group-title="Maraton" , tvg-chnno="002" , Bob Esponja
 https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6a444e-7a32-11ed-b988-ee45f0bf4c01
 
-#EXTINF:-1 group-title="Maraton" , Acapulco Shore
+#EXTINF:-1 group-title="Maraton" , tvg-chnno="003" , Acapulco Shore
 https://stitcher.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
 
-#EXTINF:-1 group-title="Maraton" , The Walking Dead
+#EXTINF:-1 group-title="Maraton" , tvg-chnno="004" , The Walking Dead
 https://stitcher.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
 
-#EXTINF:-1 group-title="Maraton" , Liga MX
+#EXTINF:-1 group-title="Maraton" , tvg-chnno="005 , Liga MX
 https://linear-193.frequency.stream/dist/localnow/193/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Maraton" , One Piece
+#EXTINF:-1 group-title="Maraton" , tvg-chnno="006 , One Piece
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING&already_redirected=true
 
-#EXTINF:-1 group-title="Maraton" , 40y20
+#EXTINF:-1 group-title="Maraton" , tvg-chnno="007" , 40y20
 https://linear-340.frequency.stream/340/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Maraton" , South Park
+#EXTINF:-1 group-title="Maraton" , tvg-chnno="008" , South Park
 https://stitcher.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6a444e-7a32-11ed-b988-ee45f0bf4c01
 
-#EXTINF:-1 group-title="Maraton" , Los Simpson
+#EXTINF:-1 group-title="Maraton" , tvg-chnno="009" , Los Simpson
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
-#EXTINF:-1 group-title="Maraton" , ALF
+#EXTINF:-1 group-title="Maraton" , tvg-chnno="010" , ALF
 https://srv5.zcast.com.br/alf/alf/playlist.m3u8
