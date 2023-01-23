@@ -133,11 +133,14 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?Playl
 #EXTINF:-1 group-title="Informativo" , tvg-chnno="215" , DW Latino
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="Noticias" , tvg-chnno="225" , NMas Media
+#EXTINF:-1 group-title="Informativo" , tvg-chnno="220" , NMas Media
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="" , tvg-chnno="230" , BitMe
+#EXTINF:-1 group-title="Entretenimiento" , tvg-chnno="225" , BitMe
 https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento" , tvg-chnno="230" , Univision Arizona
+https://v-px.mybtv.net/live/28.m3u8
 
 #EXTINF:-1 group-title="Maraton" , Bob Esponja
 https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6a444e-7a32-11ed-b988-ee45f0bf4c01
