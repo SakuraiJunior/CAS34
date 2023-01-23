@@ -4,31 +4,31 @@
 #Actualizado: 23/ENERO/2023
 #Playlist: https://raw.githubusercontent.com/SakuraiJunior/CAS34/main/Teleadictos
 
-#EXTINF:-1 group-title="Nacional" , tvg-chno="05" , ADN40
+#EXTINF:-1 group-title="Nacional" , tvg-chno="005" , ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 group-title="Nacional" , tvg-chno="10" , Azteca Uno
+#EXTINF:-1 group-title="Nacional" , tvg-chno="010" , Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 group-title="Nacional" , tvg-chno="15" , Azteca Siete
+#EXTINF:-1 group-title="Nacional" , tvg-chno="015" , Azteca Siete
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1 group-title="Nacional" , tvg-chno="20" , Amas
+#EXTINF:-1 group-title="Nacional" , tvg-chno="020" , Amas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 group-title="Nacional" , tvg-chno="25" , Multimedios
+#EXTINF:-1 group-title="Nacional" , tvg-chno="025" , Multimedios
 https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-dai/57b4dbf5dbbfc8f16bb63ce1/56a3e60cbd7f4933b1c97937668b884d/f624fec49dadc88894ebeff1d974eab019af7757/media.m3u8?aid=579bd29dc99290cf08362c3b&pid=7RA6OJ4tVZLHWb0b7Xmpx7WJTj07dDGe&sid=icxo3J1YHHe4aQmzGKhgJ2Isu9nU9pIy&uid=ixlbGzjb3WASKaBZ3xUCElNW8QId24p8&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1674014904051&ot=3GHmOY8s9QY8A_oRcrV-7Q&proto=https&pz=us
 
-#EXTINF:-1 group-title="Informativo" , tvg-chno="30" ,  MilenioTV
+#EXTINF:-1 group-title="Informativo" , tvg-chno="030" ,  MilenioTV
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 group-title="Nacional" , tvg-chno="35" , Las Estrellas -1hr
+#EXTINF:-1 group-title="Nacional" , tvg-chno="035" , Las Estrellas -1hr
 https://linear-414.frequency.stream/dist/vix/414/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Informativo" , tvg-chno="40" , ForoTV
+#EXTINF:-1 group-title="Informativo" , tvg-chno="040" , ForoTV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-#EXTINF:-1 group-title="Nacional" , tvg-chno="45" , Canal 5
+#EXTINF:-1 group-title="Nacional" , tvg-chno="045" , Canal 5
 https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Nacional" , tvg-chno="50" , El Nu9ve
@@ -58,7 +58,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 #EXTINF:-1 group-title="Entretenimiento" , tvg-chno="90" , ACS Network
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
-#EXTINF:-1 group-title="Infantil" , tvg-chno="95" , Magic Kids TV
+#EXTINF:-1 group-title="Infantil" , tvg-chno="095" , Magic Kids TV
 https://stmvideo1.livecastv.com/magic-2023/magic-2023/playlist.m3u8
 
 #EXTINF:-1 group-title="Infantil" , tvg-chno="100" , KanadeTV
