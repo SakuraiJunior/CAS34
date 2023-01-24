@@ -1,0 +1,8 @@
+#EXTM3U
+#Disponible para iOs,Android,TVBox,SmartTV,VLC,IPTV
+#
+#Actualizado: 23/ENERO/2023
+#Playlist: 
+
+EXTINF:-1 MiamiTV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
