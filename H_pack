@@ -4,5 +4,7 @@
 #Actualizado: 23/ENERO/2023
 #Playlist: 
 
-EXTINF:-1 MiamiTV
+EXTINF:-1 group-title="Adultos" , tvg-chno="234" ,  MiamiTV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+
+E
