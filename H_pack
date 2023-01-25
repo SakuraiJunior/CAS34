@@ -8,11 +8,16 @@
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 
 #EXTINF:-1 group-title="Adultos" , tvg-chno="251" , AST
-https://www.ast.tv/stream/1/cellular.m3u8
+https://www.ast.tv/stream/1/master.m3u8
 
 #EXTINF:-1 group-title="Adultos" , tvg-chno="252" , Visit X-TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Adultos" , tvg-chno="253" , ch_name
-#EXTINF:-1 group-title="Adultos" , tvg-chno="254" , ch_name
-#EXTINF:-1 group-title="Adultos" , tvg-chno="255" , ch_name
+#EXTINF:-1 group-title="Adultos" , tvg-chno="253" , Lesbian
+http://live.adultiptv.net/lesbian.m3u8
+
+#EXTINF:-1 group-title="Adultos" , tvg-chno="254" , Latinas
+http://live.adultiptv.net/latina.m3u8
+
+#EXTINF:-1 group-title="Adultos" , tvg-chno="255" , Los Pornos
+http://live.adultiptv.net/pornstar.m3u8
