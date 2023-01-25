@@ -4,11 +4,11 @@
 #Actualizado: 23/ENERO/2023
 #Playlist: 
 
-#EXTINF:-1 group-title="Adultos" , tvg-chno="240" ,  MiamiTV
+#EXTINF:-1 group-title="Adultos" , tvg-chno="250" ,  MiamiTV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 
-#EXTINF:-1 group-title="Adultos" , tvg-chno="241" , AST
+#EXTINF:-1 group-title="Adultos" , tvg-chno="251" , AST
 https://www.ast.tv/stream/1/cellular.m3u8
 
-#EXTINF:-1 group-title="Adultos" , tvg-chno="242" , Visit X-TV
+#EXTINF:-1 group-title="Adultos" , tvg-chno="252" , Visit X-TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
