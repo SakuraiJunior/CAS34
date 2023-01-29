@@ -60,31 +60,31 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Infantil" , tvg-chno="065" , Retromagico
+#EXTINF:-1 group-title="Infantil" , Retromagico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-#EXTINF:-1 group-title="Infantil" , tvg-chno="075" , LocomotionTV
+#EXTINF:-1 group-title="Infantil" , LocomotionTV
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 group-title="Infantil" , tvg-chno="080" , Anime Zone TV
+#EXTINF:-1 group-title="Infantil" , Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 group-title="Infantil" , tvg-chno="085" , Cartoonito
+#EXTINF:-1 group-title="Infantil" , Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
-#EXTINF:-1 group-title="Infantil" , tvg-chno="095" , Magic Kids TV
+#EXTINF:-1 group-title="Infantil" , Magic Kids TV
 https://stmvideo1.livecastv.com/magic-2023/magic-2023/playlist.m3u8
-#EXTINF:-1 group-title="Infantil" , tvg-chno="100" , KanadeTV
+#EXTINF:-1 group-title="Infantil" , KanadeTV
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
-#EXTINF:-1 group-title="Infantil" , tvg-chno="105" , Fanpop
+#EXTINF:-1 group-title="Infantil" , Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1 group-title="Infantil" , tvg-chno="110" , EnerGeek
+#EXTINF:-1 group-title="Infantil" , EnerGeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
-#EXTINF:-1 group-title="Infantil" , tvg-chnno="120" , LatinoKidsTV
+#EXTINF:-1 group-title="Infantil" , LatinoKidsTV
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-#EXTINF:-1 group-title="Infantil" , tvg-chnno="130" , ZazTV
+#EXTINF:-1 group-title="Infantil" , ZazTV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701
-#EXTINF:-1 group-title="Infantil" , tvg-chnno="185" , Nick Junior
+#EXTINF:-1 group-title="Infantil" , Nick Junior
 https://stitcher.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
-#EXTINF:-1 group-title="Infantil" , tvg-chnno="190" , Nickelodeon
+#EXTINF:-1 group-title="Infantil" , Nickelodeon
 https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
-#EXTINF:-1 group-title="Infantil" , tvg-chnno="225" , BitMe
+#EXTINF:-1 group-title="Infantil" , BitMe
 https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Musica" , Teleritmo
