@@ -1,41 +1,41 @@
 #EXTM3U
 #Disponible para iOs,Android,TVBox,SmartTV,VLC,IPTV
 #
-#Actualizado: 26/ENERO/2023
+#Actualizado: 29/ENERO/2023
 #Playlist: https://raw.githubusercontent.com/SakuraiJunior/CAS34/main/Maratones_247
 
-#EXTINF:-1 group-title="Infantil" , tvg-chno="231" , Bob Esponja
+#EXTINF:-1 group-title="Infantil" , tvg-chno="11" , Bob Esponja
 https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6a444e-7a32-11ed-b988-ee45f0bf4c01
 
-#EXTINF:-1 group-title="Reality" , tvg-chnno="232" , Acapulco Shore
+#EXTINF:-1 group-title="Reality" , tvg-chnno="12" , Acapulco Shore
 https://stitcher.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
 
-#EXTINF:-1 group-title="Serie" , tvg-chnno="233" , The Walking Dead
+#EXTINF:-1 group-title="Serie" , tvg-chnno="13" , The Walking Dead
 https://stitcher.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
 
-#EXTINF:-1 group-title="Reality" , tvg-chnno="234" , Liga MX
+#EXTINF:-1 group-title="Reality" , tvg-chnno="14" , Liga MX
 https://linear-193.frequency.stream/dist/localnow/193/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Infantil" , tvg-chnno="235" , One Piece
+#EXTINF:-1 group-title="Infantil" , tvg-chnno="15" , One Piece
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING&already_redirected=true
 
-#EXTINF:-1 group-title="Serie" , tvg-chnno="236" , 40y20
+#EXTINF:-1 group-title="Serie" , tvg-chnno="16" , 40y20
 https://linear-340.frequency.stream/340/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Infantil" , tvg-chnno="237" , South Park
+#EXTINF:-1 group-title="Infantil" , tvg-chnno="17" , South Park
 https://stitcher.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6a444e-7a32-11ed-b988-ee45f0bf4c01
 
-#EXTINF:-1 group-title="Infantil" , tvg-chnno="238" , Los Simpson
+#EXTINF:-1 group-title="Infantil" , tvg-chnno="18" , Los Simpson
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
-#EXTINF:-1 group-title="Serie" , tvg-chnno="239" , ALF
+#EXTINF:-1 group-title="Serie" , tvg-chnno="19" , ALF
 https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 
-#EXTINF:-1 group-title="Infantil" , tvg-chnno="240" , Rugrats Crecidos
+#EXTINF:-1 group-title="Infantil" , tvg-chnno="20" , Rugrats Crecidos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF:-1 group-title="Series" , tvg-chnno="241" , La Niñera
+#EXTINF:-1 group-title="Series" , tvg-chnno="21" , La Niñera
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f58f2278490000079bc47b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF:-1 group-title="Reality" , tvg-chnno="242" , LoMasVixto
+#EXTINF:-1 group-title="Reality" , tvg-chnno="22" , LoMasVixto
 https://linear-446.frequency.stream/dist/vix/446/hls/master/playlist.m3u8
