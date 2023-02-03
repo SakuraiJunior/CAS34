@@ -59,7 +59,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 group-title="Informativo" , NMas Media
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Infantil" , Retromagico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 group-title="Infantil" , LocomotionTV
@@ -106,3 +105,18 @@ https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist.m3u8
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559.m3u8
 #EXTINF:-1 group-title="Deportes" , Bein Sports
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+
+#EXTINF:-1 group-title="Internacional" , Toonami Aftermath
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=180&amp;useHttps=true
+#EXTINF:-1 group-title="Internacional" , Live Action Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8?useHttps=true
+#EXTINF:-1 group-title="Internacional" , Galicia TV America
+http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+#EXTINF:-1 group-title="Internacional" , NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="Internacional" , William Stream
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+#EXTINF:-1 group-title="Internacional" , CBS
+https://stitcher.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=486658df-a373-11ed-accc-529173d61eb6
+#EXTINF:-1 group-title="Internacional" , TYT Network
+https://stitcher.pluto.tv/stitch/hls/channel/5331d5fb753499095a00045a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=486658df-a373-11ed-accc-529173d61eb6
