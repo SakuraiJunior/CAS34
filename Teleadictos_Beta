@@ -105,6 +105,8 @@ https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist.m3u8
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559.m3u8
 #EXTINF:-1 group-title="Deportes" , Bein Sports
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 group-title="Deportes" , FiteTV
+
 
 #EXTINF:-1 group-title="Internacional" , Toonami Aftermath
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=180&amp;useHttps=true
