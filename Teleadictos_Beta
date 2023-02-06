@@ -1,5 +1,5 @@
 #EXTM3U
-#Disponible para iOs,Android,TVBox,SmartTV,VLC,IPTV,Roku
+#Disponible para iOs,Android,TVBox,SmartTV,VLC,IPTV
 #
 #Actualizado: 3/FEBRERO/2023
 #Playlist: https://raw.githubusercontent.com/SakuraiJunior/CAS34/main/Teleadictos_Beta
@@ -46,7 +46,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u
 #EXTINF:-1 group-title="Entretenimiento" , Telexitos
 https://v-px.mybtv.net/live/47.m3u8
 #EXTINF:-1 group-title="Entretenimiento" , Univision Arizona
-https://v-px.mybtv.net/live/28.m3u8
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Informativo" , MilenioTV
