@@ -136,6 +136,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u
 https://csm-e-cetubiausw2live204-0f60593ffe9c36bcf.csm.tubi.video/csm/extlive/tubiprd01,p-KSAZ-Monetizer.m3u8?yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
 #EXTINF:-1 group-title="Internacional" , NFL Network
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6livestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
+#EXTINF:-1 group-title="Internacional" , Noticias Univision
+https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" , NHK Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 
 #EXTINF:-1 group-title="247" , Bob Esponja
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -147,3 +151,5 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a9
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:-1 group-title="247" , Kenal y Kel
 https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e9a804d8-7af1-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="247" , MTVShore
+https://stitcher.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=661275d3-a633-11ed-ab11-f2842f6c559f
