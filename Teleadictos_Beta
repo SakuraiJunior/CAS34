@@ -124,3 +124,5 @@ http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=486658df-a373-11ed-accc-529173d61eb6
 #EXTINF:-1 group-title="Internacional" , TYT Network
 https://stitcher.pluto.tv/stitch/hls/channel/5331d5fb753499095a00045a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=486658df-a373-11ed-accc-529173d61eb6
+#EXTINF:-1 group-title="Internacional" , NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
