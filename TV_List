@@ -132,8 +132,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5331d5fb753499095a00045a/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f805655-a59c-11ed-85d2-325f9a8c85f7
 #EXTINF:-1 group-title="Internacional" , Sky News
 https://stitcher.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f805655-a59c-11ed-85d2-325f9a8c85f7
-#EXTINF:-1 group-title="Internacional" , FOX10
-https://csm-e-cetubiausw2live204-0f60593ffe9c36bcf.csm.tubi.video/csm/extlive/tubiprd01,p-KSAZ-Monetizer.m3u8?yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+#EXTINF:-1 group-title="Internacional" , FOX Phoenix
+https://v-px.mybtv.net/live/14/1280x720.m3u8
 #EXTINF:-1 group-title="Internacional" , NFL Network
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6livestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
 #EXTINF:-1 group-title="Internacional" , Noticias Univision
