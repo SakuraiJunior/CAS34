@@ -20,7 +20,7 @@ https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-dai/57b4dbf5dbbfc8f16bb63ce1/5
 https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Nacional" , El Nu9ve
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-
+##########
 #EXTINF:-1 group-title="Entretenimiento" , Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 group-title="Entretenimiento" , Lim TV
@@ -45,11 +45,11 @@ https://stitcher.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
 #EXTINF:-1 group-title="Entretenimiento" , Telexitos
 https://v-px.mybtv.net/live/47.m3u8
-#EXTINF:-1 group-title="Entretenimiento" , Univision Arizona
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Entretenimiento" , Chic Magazine
 https://paneltv.online:1936/8056/8056/chunklist_w1184672531.m3u8
-
+#EXTINF:-1 group-title="Entretenimiento" , HolaTV
+https://rakuten-hola-2-es.samsung.wurl.tv:443/3000.m3u8
+##########
 #EXTINF:-1 group-title="Informativo" , MilenioTV
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 group-title="Informativo" , ForoTV
@@ -60,7 +60,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Informativo" , NMas Media
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
-
+##########
 #EXTINF:-1 group-title="Infantil" , Retromagico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 group-title="Infantil" , LocomotionTV
@@ -87,7 +87,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
 #EXTINF:-1 group-title="Infantil" , BitMe
 https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist.m3u8
-
+##########
 #EXTINF:-1 group-title="Musica" , Teleritmo
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
 #EXTINF:-1 group-title="Musica" , Videorola
@@ -98,7 +98,7 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 https://linear-494.frequency.stream/494/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Musica" , MusicTop
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-
+##########
 #EXTINF:-1 group-title="Deportes" , Afizzionados
 https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Deportes" , VIX Liga MX
@@ -111,7 +111,7 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 group-title="Deportes" , FightNetwork
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-
+##########
 #EXTINF:-1 group-title="Internacional" , Toonami Aftermath
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=180&amp;useHttps=true
 #EXTINF:-1 group-title="Internacional" , Live Action Movies
@@ -122,25 +122,27 @@ http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 group-title="Internacional" , NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="Internacional" , NBC Los Angeles
+https://v-la.mybtv.net/live/82/1280x720.m3u8
+#EXTINF:-1 group-title="Internacional" , ABC New York
+https://v-ny.MyBTv.net/live/554/1280x720.m3u8
 #EXTINF:-1 group-title="Internacional" , William Stream
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
-#EXTINF:-1 group-title="Internacional" , CBS
-https://stitcher.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=486658df-a373-11ed-accc-529173d61eb6
+#EXTINF:-1 group-title="Internacional" , SkyNews
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1 group-title="Internacional" , TYT Network
 https://stitcher.pluto.tv/stitch/hls/channel/5331d5fb753499095a00045a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=486658df-a373-11ed-accc-529173d61eb6
 #EXTINF:-1 group-title="Internacional" , TODAY
 https://stitcher.pluto.tv/stitch/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f805655-a59c-11ed-85d2-325f9a8c85f7
-#EXTINF:-1 group-title="Internacional" , Sky News
-https://stitcher.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f805655-a59c-11ed-85d2-325f9a8c85f7
-#EXTINF:-1 group-title="Internacional" , FOX Phoenix
-https://v-px.mybtv.net/live/14/1280x720.m3u8
 #EXTINF:-1 group-title="Internacional" , NFL Network
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6livestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
-#EXTINF:-1 group-title="Internacional" , Noticias Univision
-https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" , Univision New York
+https://v-ny.MyBTv.net/live/643/1280x720.m3u8
 #EXTINF:-1 group-title="Internacional" , NHK Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
-
+#EXTINF:-1 group-title="Internacional" , EstrellaTV Los Angeles
+https://v-sd.mybtv.net/live/490/1280x720.m3u8
+##########
 #EXTINF:-1 group-title="247" , Bob Esponja
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 group-title="247" , La familia del barrio
