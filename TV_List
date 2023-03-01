@@ -1,8 +1,8 @@
 #EXTM3U
 #Disponible para iOs,Android,TVBox,SmartTV,VLC,IPTV
 #
-#Actualizado: 6/FEBRERO/2023
-#Playlist: 
+#Actualizado: 28/FEBRERO/2023
+#Playlist: https://raw.githubusercontent.com/SakuraiJunior/CAS34/main/TV_List
 
 #EXTINF:-1 group-title="Nacional" , ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
