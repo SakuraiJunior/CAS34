@@ -20,7 +20,7 @@ https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-dai/57b4dbf5dbbfc8f16bb63ce1/5
 https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Nacional" , El Nu9ve
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8 
-##########
+####################################################################
 #EXTINF:-1 group-title="Entretenimiento" , Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 group-title="Entretenimiento" , Lim TV
@@ -51,7 +51,7 @@ https://paneltv.online:1936/8056/8056/chunklist_w1184672531.m3u8
 https://rakuten-hola-2-es.samsung.wurl.tv:443/3000.m3u8
 #EXTINF:-1 group-title="Entretenimiento" , VivoPlay
 https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
-##########
+###########################################################################
 #EXTINF:-1 group-title="Informativo" , MilenioTV
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 group-title="Informativo" , ForoTV
@@ -66,7 +66,7 @@ https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Informativo" , RAINews
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-##########
+#################################################################################################
 #EXTINF:-1 group-title="Infantil" , Retromagico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 group-title="Infantil" , LocomotionTV
@@ -93,7 +93,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
 #EXTINF:-1 group-title="Infantil" , BitMe
 https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist.m3u8
-##########
+#################################################################################################
 #EXTINF:-1 group-title="Musica" , Teleritmo
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
 #EXTINF:-1 group-title="Musica" , Videorola
@@ -104,7 +104,7 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 https://linear-494.frequency.stream/494/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Musica" , MusicTop
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-##########
+#################################################################################################
 #EXTINF:-1 group-title="Deportes" , Afizzionados
 https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Deportes" , VIX Liga MX
@@ -117,7 +117,7 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 group-title="Deportes" , FightNetwork
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-##########
+####################################################################
 #EXTINF:-1 group-title="Internacional" , Galicia TV America
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 group-title="Internacional" , AragonTV
@@ -143,7 +143,9 @@ https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Internacional" , TN23 Guatemala
 https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
-##########
+#EXTINF:-1 group-title="Internacional" , Telemundo PuertoRico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#######################################
 #EXTINF:-1 group-title="247" , Bob Esponja
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 group-title="247" , La familia del barrio
@@ -160,7 +162,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 group-title="247" , ICarly
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-##########
+##########################################################
 #EXTINF:-1 group-title="USA" , NBC Los Angeles
 https://v-la.mybtv.net/live/82/1280x720.m3u8
 #EXTINF:-1 group-title="USA" , ABC New York
@@ -173,3 +175,8 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8?useHttps=true
 https://v-ny.MyBTv.net/live/643/1280x720.m3u8
 #EXTINF:-1 group-title="USA" , EstrellaTV Los Angeles
 https://v-sd.mybtv.net/live/490/1280x720.m3u8
+#EXTINF:-1 group-title="USA" , FOX Phoenix
+https://v-px.mybtv.net/live/14/1280x720.m3u8
+#EXTINF:-1 group-title="USA" , CBS New York
+https://v-ny.MyBTv.net/live/545/1920x1080.m3u8
+
