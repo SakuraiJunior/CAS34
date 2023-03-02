@@ -75,8 +75,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 group-title="Infantil" , Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
-#EXTINF:-1 group-title="Infantil" , Magic Kids TV
-https://stmvideo1.livecastv.com/magic-2023/magic-2023/playlist.m3u8
 #EXTINF:-1 group-title="Infantil" , KanadeTV
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 #EXTINF:-1 group-title="Infantil" , Fanpop
@@ -181,5 +179,3 @@ https://v-px.mybtv.net/live/14/1280x720.m3u8
 https://v-ny.MyBTv.net/live/545/1920x1080.m3u8
 #EXTINF:-1 group-title="USA" , KTLA Los Angeles
 https://v-la.mybtv.net/live/164/1280x720.m3u8
-#EXTINF:-1 group-title="USA" , Telemundo Los Angeles
-https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
