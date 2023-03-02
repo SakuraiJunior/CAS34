@@ -163,8 +163,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f
 #EXTINF:-1 group-title="247" , One Piece
 https://stitcher.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 ##########################################################
-#EXTINF:-1 group-title="USA" , NBC Los Angeles
-https://v-la.mybtv.net/live/82/1280x720.m3u8
+#EXTINF:-1 group-title="USA" , NBC New York
+https://v-ny.MyBTv.net/live/548/1920x1080.m3u8
 #EXTINF:-1 group-title="USA" , ABC New York
 https://v-ny.MyBTv.net/live/554/1280x720.m3u8
 #EXTINF:-1 group-title="USA" , Toonami Aftermath East
@@ -179,3 +179,7 @@ https://v-sd.mybtv.net/live/490/1280x720.m3u8
 https://v-px.mybtv.net/live/14/1280x720.m3u8
 #EXTINF:-1 group-title="USA" , CBS New York
 https://v-ny.MyBTv.net/live/545/1920x1080.m3u8
+#EXTINF:-1 group-title="USA" , KTLA Los Angeles
+https://v-la.mybtv.net/live/164/1280x720.m3u8
+#EXTINF:-1 group-title="USA" , Telemundo Los Angeles
+https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
