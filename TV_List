@@ -71,8 +71,6 @@ https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/pla
 #################################################################################################
 #EXTINF:-1 group-title="Infantil" , Retromagico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-#EXTINF:-1 group-title="Infantil" , LocomotionTV
-http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 group-title="Infantil" , Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 group-title="Infantil" , Cartoonito
@@ -107,8 +105,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?Playl
 https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Deportes" , VIX Liga MX
 https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Deportes" , GolTV
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559.m3u8
 #EXTINF:-1 group-title="Deportes" , Bein Sports
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 group-title="Deportes" , FuelTV
