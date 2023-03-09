@@ -1,7 +1,7 @@
 #EXTM3U
 #Disponible para iOs,Android,TVBox,SmartTV,VLC,IPTV
 #
-#Actualizado: 07/MARZO/2023
+#Actualizado: 08/MARZO/2023
 #Playlist: https://raw.githubusercontent.com/SakuraiJunior/CAS34/main/TV_List
 
 #EXTINF:-1 group-title="Nacional" , ADN40
@@ -19,7 +19,9 @@ http://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-dai/57b4dbf5dbbfc8f16bb63ce1/56
 #EXTINF:-1 group-title="Nacional" , Canal 5
 https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Nacional" , El Nu9ve
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8 
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 group-title="Nacional" , Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
 ####################################################################
 #EXTINF:-1 group-title="Entretenimiento" , Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
@@ -118,9 +120,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078cad
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 group-title="Internacional" , AragonTV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 group-title="Internacional" , NHK World
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-.MyBTv.net/live/554/1280x720.m3u8
 #EXTINF:-1 group-title="Internacional" , William Stream
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 #EXTINF:-1 group-title="Internacional" , SkyNews
