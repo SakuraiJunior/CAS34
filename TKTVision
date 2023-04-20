@@ -3,5 +3,23 @@
 #Ultima Actualizacion: 20/Abril/2023
 #url="raw.githubsercontent.com/SakuraiJunior/CAS34/main/TKTVision"
 
-#EXTINF:-1 tvg-logo="https//:i.imgur.com/vFJ0Gr8.jpg" , Toonizaki
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" , Toonizaki
 https://acl-server.linky.com.co/hls/toonizaki.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlGfWW5.jpg" , KanadeTV
+https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QGby81g.png" , LimTV
+https://live.limplay.ml/limtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z780GyN.png" , Animestation
+https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/87odp70.png" , Retromagico
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3ucl/logo/1019_Latino_Kids_TV.png" , LatinoKids
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fG5dyw3.png" , Wow Tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/Once.png/revision/latest?cb=20190422183143" , Canal Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://newslinereport.com/online/nota_dw-latinoamerica-pasa-a-llamarse-dwespaol.jpg" , DW Español
+https://dwamstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://images.plutotv/channels/60d3583ef310610007fb02b1/featuredImaged.jpg" , Euronews HD
+http://euronews-euronews-spanish-2-mx.samsung.wurl.tv/playlist.m3u8
