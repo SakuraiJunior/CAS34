@@ -17,6 +17,8 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fG5dyw3.png" , Wow Tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
+#EXTINF:-1 tvg-logo="" , Energeek
+wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/Once.png/revision/latest?cb=20190422183143" , Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://newslinereport.com/online/nota_dw-latinoamerica-pasa-a-llamarse-dwespaol.jpg" , DW Español
@@ -24,5 +26,8 @@ https://dwamstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/stream
 #EXTINF:-1 tvg-logo="https://images.plutotv/channels/60d3583ef310610007fb02b1/featuredImaged.jpg" , Euronews HD
 http://euronews-euronews-spanish-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" , Azteca7
-
-
+https://mdstrm.com/live-stream-playlist/609ad46a7a4411370107d7a81.m3u8
+#EXTINF:-1 tvg-logo="" , Multimedios MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo="i.imgur.com/oNmtnby.png" , ACS Network
+https://vdo2.streamgato.us:3273/live/acsnetworklive.m3u8
