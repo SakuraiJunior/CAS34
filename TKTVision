@@ -246,7 +246,7 @@ https://rtmp.info/canal38/envivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="MUSICA", The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-100x70.png" group-title="MUSICA",Tvg Musigal
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-100x70.png" group-title="MUSICA",TVG Musigal
 http://musigal-crtvg.flumotion.com/crtvg/musigal/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICA",Retro Plus TV HD
@@ -258,7 +258,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/retro-tv.png" group-title="MUSICA",Retro Music TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1626750675_b750000.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/341870944_780657023257038_2305493136756304556_n.png?stp=dst-png_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=RqpMwUHjGH0AX8Ke16b&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AfDNM3EGhCbIONmkXBbQSOWHhOrpp3-W_Ye0rFiHEfwv0g&oe=64ACFAD2" group-title="MEXICO" , Multimedios
+#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/341870944_780657023257038_2305493136756304556_n.png?stp=dst-png_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=RqpMwUHjGH0AX8Ke16b&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AfDNM3EGhCbIONmkXBbQSOWHhOrpp3-W_Ye0rFiHEfwv0g&oe=64ACFAD2" group-title="MEXICO" , Multimedios MTY
 http://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-dai/57b4dbf5dbbfc8f16bb63ce1/56a3e60cbd7f4933b1c97937668b884d/f624fec49dadc88894ebeff1d974eab019af7757/media.m3u8?aid=579bd29dc99290cf08362c3b&pid=6DDd9V6OrIqx7908dAMi0HQx8Gi2C1ST&sid=8sUngZ2TwNdPb5b2mFGeUCUrfTpV262G&uid=ZkHUZbWgJ1m1Kk9HRRRJoWfvRJYOygLO&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1688773172108&ot=LgaaoPLR-unvoM2PW8v8AQ&proto=http&pz=us
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT Espanol
