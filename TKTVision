@@ -285,11 +285,5 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 group-title="VIX" , Las Estrellas -1hr
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6214c82929e3748a736b1047/d2c9bb1043ecc1ed6ef398334f24cb1b?tr=q-80&w=750" group-title="VIX", LevelUp
-https://linear-263.frequency.stream/263/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="VIX",Adrenalina Sport
-https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="VIX",Golden Edge
 https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
