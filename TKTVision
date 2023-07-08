@@ -30,19 +30,19 @@ https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gb9K6i9.png" group-title="Familiares",Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Familiares",Magic Kids TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Infantil",Magic Kids TV
 https://acl-server.linky.com.co/hls/magictv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Familiares",Magic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Infantil",Magic
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Infantil",Retro Magico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Familiares",Retro Infantil
+#EXTINF:-1 tvg-logo="" group-title="Infantil",Retro Infantil
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Infantil",Latino Kids TV
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCtEVPc.jpg" group-title="Familiares",Teleclasica
@@ -60,19 +60,19 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="Familiares",Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="Familiares",PlanetaTV Kids
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="Infantil",PlanetaTV Kids
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1873823699.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wct9jsp.png" group-title="Familiares",Moni TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wct9jsp.png" group-title="Infantil",Moni TV HD
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bBkw36s.png" group-title="Familiares",Xabarin TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBkw36s.png" group-title="Infantil",Xabarin TV
 http://infantil-crtvg.flumotion.com/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jvr8HBD.png" group-title="Familiares",Xabarin TV Pequerrechoas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jvr8HBD.png" group-title="Infantil",Xabarin TV Pequerrechoas
 http://xabarintv-r1-crtvg.flumotion.com/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="Familiares",Planeta Junior TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="Infantil",Planeta Junior TV
 http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="Familiares",Rakuten TV Familia
@@ -81,7 +81,7 @@ http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="Familiares",Chiquilines HD
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="Familiares",Paka Paka
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="Infantil",Paka Paka
 http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/55Juhdx.jpg" group-title="LATINO",Canal Punto 99 Series Retro
@@ -192,6 +192,9 @@ https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick Clasico" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Nick Clasico
 https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Nickteen" tvg-logo="" tvg-shift="0" group-title='Pluto TV Latino",Nickteen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-id="" tvg-name="Rugrats Crecidos" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Rugrats Crecidos
 https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
 
@@ -276,11 +279,20 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LATINO", EstrellaTV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VIX", Golden Plus
+#EXTINF:-1 tvg-logo="" group-title="Bics", Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="MEXICO", MilenioTV 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 group-title="VIX" , Las Estrellas -1hr
+#EXTINF:-1 group-title="Bics" , Las Estrellas -1hr
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 group-title="Bics" , NMas
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" , CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 group-title="
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
