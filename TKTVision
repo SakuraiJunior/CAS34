@@ -294,5 +294,11 @@ https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS" , CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 group-title="
+#EXTINF:-1 group-title="JOVENES Y ADULTOS" , AMC
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/600px-Espn_deportes.svg.png" group-title="DEPORTES" , ESPN Deportes
+http://66.70.176.103:8081/LATINO%7CESPNDEPORTESR/LATINO%7CESPNDEPORTESR/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/50827_750.jpg" group-title="DEPORTES" , Fox Sports Premium
+http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8 
