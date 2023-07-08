@@ -284,6 +284,3 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 #EXTINF:-1 group-title="VIX" , Las Estrellas -1hr
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="VIX",Golden Edge
-https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
