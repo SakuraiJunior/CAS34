@@ -204,6 +204,9 @@ https://i.mjh.nz/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV TokuSato" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",TokuSato
 https://i.mjh.nz/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV
+
+
 #EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logorealmadridtv.jpg" group-title="DEPORTES",Real Madrid Tv HD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
@@ -282,7 +285,7 @@ https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS" , CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 group-title="JOVENES Y ADULTOS" , AMC
+#EXTINF:-1 group-title="JOVENES Y ADULTOS" , AMC LATAM
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/600px-Espn_deportes.svg.png" group-title="DEPORTES" , ESPN Deportes
@@ -293,3 +296,5 @@ http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 
 #EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/325958477_487083586892351_7982293451113180766_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=3R9kn8pIdC4AX_S-Hbf&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AfCSrZrxZIeiXqJ5vJB1bFM-PF9rHh6fqQx6EHd_jOWWbA&oe=64AF4A03" group-title="LATINO" , FashionTV
 https://fashs043.cloudycdn.services/scte/pg18/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="JOVENES Y ADULTOS",Locomotion
