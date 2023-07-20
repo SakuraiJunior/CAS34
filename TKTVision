@@ -296,3 +296,6 @@ http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 
 #EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/325958477_487083586892351_7982293451113180766_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=3R9kn8pIdC4AX_S-Hbf&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AfCSrZrxZIeiXqJ5vJB1bFM-PF9rHh6fqQx6EHd_jOWWbA&oe=64AF4A03" group-title="LATINO" , FashionTV
 https://fashs043.cloudycdn.services/scte/pg18/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" , CNN MX
+https://list.iptvcat.com/my_list/s/a7bccd0e0608807a68b10b7752be86d5.m3u8
