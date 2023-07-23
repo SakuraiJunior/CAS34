@@ -162,7 +162,7 @@ https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
 #EXTINF:-1 tvg-logo="https://solidariatv.com.ar/wp-content/uploads/2018/09/IMAGOGRANDE.png" group-title="E",Solidaria tv Argentina
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LATINO", Runtime
+#EXTINF:-1 tvg-logo="" group-title="M", Runtime
 https://ammo-espanol-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Anime Latino" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Anime Latino
@@ -210,13 +210,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d
 #EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logorealmadridtv.jpg" group-title="DEPORTES",Real Madrid Tv HD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dIUj28w.png" group-title="DEPORTES",SEO TV 5 DEPORTES HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dIUj28w.png" group-title="M",SEO TV 5 DEPORTES HD
 https://live.seo.tv.bo/live/5SEO.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tmaFaJg.png" group-title="DEPORTES",CRTV Chile
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tmaFaJg.png" group-title="M",CRTV Chile
 https://vdo.panelstreaming.live:3540/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hoDIGIY.png" group-title="DEPORTES",Esports Max
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hoDIGIY.png" group-title="M",Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w1MA5fb.png" group-title="NOTICIAS",7MN Galicia
