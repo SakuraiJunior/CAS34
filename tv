@@ -256,7 +256,7 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1626750675_b750
 #EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/341870944_780657023257038_2305493136756304556_n.png?stp=dst-png_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=RqpMwUHjGH0AX8Ke16b&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AfDNM3EGhCbIONmkXBbQSOWHhOrpp3-W_Ye0rFiHEfwv0g&oe=64ACFAD2" group-title="RP" , Multimedios MTY
 http://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-dai/57b4dbf5dbbfc8f16bb63ce1/56a3e60cbd7f4933b1c97937668b884d/f624fec49dadc88894ebeff1d974eab019af7757/media.m3u8?aid=579bd29dc99290cf08362c3b&pid=6DDd9V6OrIqx7908dAMi0HQx8Gi2C1ST&sid=8sUngZ2TwNdPb5b2mFGeUCUrfTpV262G&uid=ZkHUZbWgJ1m1Kk9HRRRJoWfvRJYOygLO&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1688773172108&ot=LgaaoPLR-unvoM2PW8v8AQ&proto=http&pz=us
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="AO", RT Espanol
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="M", RT Espanol
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z7cueNf.png" group-title="T", Top Latino
@@ -301,7 +301,7 @@ http://66.70.176.103:8081/LATINO%7CESPNDEPORTESR/LATINO%7CESPNDEPORTESR/chunks.m
 #EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/50827_750.jpg" group-title="M" , Fox Sports Premium
 http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/325958477_487083586892351_7982293451113180766_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=3R9kn8pIdC4AX_S-Hbf&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AfCSrZrxZIeiXqJ5vJB1bFM-PF9rHh6fqQx6EHd_jOWWbA&oe=64AF4A03" group-title="AO" , FashionTV
+#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/325958477_487083586892351_7982293451113180766_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=3R9kn8pIdC4AX_S-Hbf&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AfCSrZrxZIeiXqJ5vJB1bFM-PF9rHh6fqQx6EHd_jOWWbA&oe=64AF4A03" group-title="M" , FashionTV
 https://fashs043.cloudycdn.services/scte/pg18/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/679_Telemax_Hermosillo_Roku.png" group-title="RP" , Telemax Hermosillo
@@ -309,5 +309,3 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="E", AMas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-
-#EXTINF:-1
