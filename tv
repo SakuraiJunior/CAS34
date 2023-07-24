@@ -1,5 +1,6 @@
 #EXTM3U
 #
+#Actualizacion 23/JUL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QGby81g.png" group-title="T",Lim TV
 https://live.limplay.ml/limtv.m3u8
 
@@ -228,83 +229,85 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Rai_News_24_Logo.png" group-title="RP",Rai News 24
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQAd38m.jpg" group-title="MUSICA",Kmk RTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQAd38m.jpg" group-title="T",Kmk RTV
 https://cloudvideo.servers10.com:8081/8120/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rx9doyD.jpg" group-title="MUSICA",Lena RTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rx9doyD.jpg" group-title="T",Lena RTV
 https://live.teledomdr.com:3736/live/lenatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="MUSICA",Canal 38 HD
+#EXTINF:-1 tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="T",Canal 38 HD
 https://rtmp.info/canal38/envivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="MUSICA", The Retro Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="M", The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-100x70.png" group-title="MUSICA",TVG Musigal
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-100x70.png" group-title="E",TVG Musigal
 http://musigal-crtvg.flumotion.com/crtvg/musigal/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICA",Retro Plus TV HD
+#EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="T",Retro Plus TV HD
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1432837088.m3u8
 
-#EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICA",Retro Plus TV 2 HD
+#EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="T",Retro Plus TV 2 HD
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w195497615.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/retro-tv.png" group-title="MUSICA",Retro Music TV
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/retro-tv.png" group-title="T",Retro Music TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1626750675_b750000.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/341870944_780657023257038_2305493136756304556_n.png?stp=dst-png_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=RqpMwUHjGH0AX8Ke16b&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AfDNM3EGhCbIONmkXBbQSOWHhOrpp3-W_Ye0rFiHEfwv0g&oe=64ACFAD2" group-title="MEXICO" , Multimedios MTY
+#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/341870944_780657023257038_2305493136756304556_n.png?stp=dst-png_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=RqpMwUHjGH0AX8Ke16b&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AfDNM3EGhCbIONmkXBbQSOWHhOrpp3-W_Ye0rFiHEfwv0g&oe=64ACFAD2" group-title="RP" , Multimedios MTY
 http://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-dai/57b4dbf5dbbfc8f16bb63ce1/56a3e60cbd7f4933b1c97937668b884d/f624fec49dadc88894ebeff1d974eab019af7757/media.m3u8?aid=579bd29dc99290cf08362c3b&pid=6DDd9V6OrIqx7908dAMi0HQx8Gi2C1ST&sid=8sUngZ2TwNdPb5b2mFGeUCUrfTpV262G&uid=ZkHUZbWgJ1m1Kk9HRRRJoWfvRJYOygLO&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1688773172108&ot=LgaaoPLR-unvoM2PW8v8AQ&proto=http&pz=us
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT Espanol
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="AO", RT Espanol
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z7cueNf.png" group-title="MUSICA", Top Latino
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z7cueNf.png" group-title="T", Top Latino
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oiW6vgk.jpg" group-title="LATINO", Litus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiW6vgk.jpg" group-title="T", Litus
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MEXICO", Azteca7
+#EXTINF:-1 tvg-logo="" group-title="RP", Azteca7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LATINO", EstrellaTV
+#EXTINF:-1 tvg-logo="" group-title="M", EstrellaTV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bics", Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MEXICO", MilenioTV 
+#EXTINF:-1 group-title="AO", MilenioTV 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 group-title="MEXICO" , Las Estrellas -1hr
+#EXTINF:-1 group-title="RP" , Las Estrellas -1hr
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 group-title="MEXICO", Azteca Uno
+#EXTINF:-1 group-title="RP", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 group-title="Musica", Videorola
+#EXTINF:-1 group-title="E", Videorola
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 
 #EXTINF:-1 group-title="Bics" , NMas
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS" , CNN
+#EXTINF:-1 group-title="AO" , CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 group-title="JOVENES Y ADULTOS" , AMC LATAM
+#EXTINF:-1 group-title="M" , AMC LATAM
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/600px-Espn_deportes.svg.png" group-title="DEPORTES" , ESPN Deportes
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/600px-Espn_deportes.svg.png" group-title="M" , ESPN Deportes
 http://66.70.176.103:8081/LATINO%7CESPNDEPORTESR/LATINO%7CESPNDEPORTESR/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/50827_750.jpg" group-title="DEPORTES" , Fox Sports Premium
+#EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/50827_750.jpg" group-title="M" , Fox Sports Premium
 http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/325958477_487083586892351_7982293451113180766_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=3R9kn8pIdC4AX_S-Hbf&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AfCSrZrxZIeiXqJ5vJB1bFM-PF9rHh6fqQx6EHd_jOWWbA&oe=64AF4A03" group-title="LATINO" , FashionTV
+#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/325958477_487083586892351_7982293451113180766_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=3R9kn8pIdC4AX_S-Hbf&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AfCSrZrxZIeiXqJ5vJB1bFM-PF9rHh6fqQx6EHd_jOWWbA&oe=64AF4A03" group-title="AO" , FashionTV
 https://fashs043.cloudycdn.services/scte/pg18/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/679_Telemax_Hermosillo_Roku.png" group-title="MEXICO" , Telemax Hermosillo
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/679_Telemax_Hermosillo_Roku.png" group-title="RP" , Telemax Hermosillo
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="E", AMas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1
