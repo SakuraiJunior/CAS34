@@ -1,6 +1,6 @@
 #EXTM3U
 #
-#Actualizacion 30/JUL
+#Actualizacion 3/AGO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QGby81g.png" group-title="T",Lim TV
 https://live.limplay.ml/limtv.m3u8
 
@@ -171,6 +171,9 @@ https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="M", Runtime
 https://ammo-espanol-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="T",Toonizaki
+https://stream-linkyprojects.linky.com.co/hls/toonizaki.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Anime Latino" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Anime Latino
 https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
