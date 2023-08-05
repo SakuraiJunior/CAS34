@@ -1,7 +1,7 @@
 #EXTM3U
 #
 #Actualizacion 4/AGO
-#EXTINF:-1 tvg-logo="" group-title="T", Toonizaki 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="T", Toonizaki
 https://streaming.zappix.live:3538/live/toonizakilive.m3u8?fbclid=IwAR0d0Daz0mN82Z52FiMR2Te4bBENHYh-g8JT-NOBOp4wJrNWYX0OWP_UfF8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QGby81g.png" group-title="T",Lim TV
