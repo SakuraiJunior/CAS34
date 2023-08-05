@@ -1,6 +1,6 @@
 #EXTM3U
 #
-#Actualizacion 4/AGO
+#Actualizacion 5/AGO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="T", Toonizaki
 https://streaming.zappix.live:3538/live/toonizakilive.m3u8?fbclid=IwAR0d0Daz0mN82Z52FiMR2Te4bBENHYh-g8JT-NOBOp4wJrNWYX0OWP_UfF8
 
@@ -336,3 +336,18 @@ https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bics",Cocina TV
 https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", EVENTO 01
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", EVENTO 02
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_02/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", EVENTO 03
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_03/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", EVENTO 04
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_04/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", EVENTO 05
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_05/index.m3u8
