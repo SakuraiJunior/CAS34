@@ -130,15 +130,6 @@ http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 #EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/325958477_487083586892351_7982293451113180766_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=3R9kn8pIdC4AX_S-Hbf&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AfCSrZrxZIeiXqJ5vJB1bFM-PF9rHh6fqQx6EHd_jOWWbA&oe=64AF4A03" group-title="M" , FashionTV
 https://fashs043.cloudycdn.services/scte/pg18/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/679_Telemax_Hermosillo_Roku.png" group-title="RP" , Telemax Hermosillo
-http://s5.mexside.net:1935/telemax/telemax/.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="E", AMas
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="RP" , AMX Noticias 
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Pluto TV Latino", South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
