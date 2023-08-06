@@ -58,14 +58,17 @@ https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1873823699.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wct9jsp.png" group-title="E",Moni TV HD
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bBkw36s.png" group-title="T",Xabarin TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBkw36s.png" group-title="E",Xabarin TV
 http://infantil-crtvg.flumotion.com/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="E",Planeta Junior TV
 http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="E10",Rakuten TV Familia
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="T",Rakuten TV Familia
 http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRVqHBL.png" group-title="T", ComedyCentral
+http://tv.teleclub.xyz/envivo/Cultura/COMEDYCENTRAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="E",Chiquilines HD
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
@@ -99,12 +102,6 @@ https://live.seo.tv.bo/live/4SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="E",Juntos HD
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zKWk5Ea.jpg" group-title="T",Panc TV HD
-https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oEQDTdu.jpg" group-title="M",Ticavision TV HD
-https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mItch0M.png" group-title="M",Canal 6 Posadas
 https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
