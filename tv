@@ -19,7 +19,8 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="E", Nick
 http://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="E", Tooncast
+http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45Ll5LZ.jpg" group-title="T",TV Costa
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
@@ -153,13 +154,13 @@ https://ammo-espanol-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rugrats Crecidos" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Rugrats Crecidos
 https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Latino" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Bob Esponja Latino
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Bob Esponja
 https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Kenan y Kel" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Kenan y Kel
 https://i.mjh.nz/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV TokuSato" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",TokuSato
+#EXTINF:-1 tvg-id="" tvg-name="TokuSato" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",TokuSato
 https://i.mjh.nz/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dIUj28w.png" group-title="E10",SEO TV 5 DEPORTES HD
@@ -261,7 +262,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="M",TUDN
+#EXTINF:-1 tvg-logo="" group-title="Bics",TUDN
 http://tv.teleclub.xyz/envivo/Deportes/TUDN/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bics",Cocina TV
@@ -270,7 +271,8 @@ https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="T", Bitme
 http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="M", SPACE
+http://tv.teleclub.xyz/envivo/Entretenimiento/SPACE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", EVENTO 01
 http://tv.teleclub.xyz/envivo/Eventos/EVENTO_01/index.m3u8
