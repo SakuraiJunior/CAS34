@@ -76,9 +76,6 @@ https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="E",Paka Paka
 http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/55Juhdx.jpg" group-title="M",Canal Punto 99 Series Retro
-https://stmv1.zcasthn.com.br/juanantunez/juanantunez/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IkbtlmX.png" group-title="M",Canal 74
 https://stmv1.zcasthn.com.br/canal74hd/canal74hd/playlist.m3u8
 
@@ -102,12 +99,6 @@ https://live.seo.tv.bo/live/4SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="E",Juntos HD
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mItch0M.png" group-title="M",Canal 6 Posadas
-https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SXTD6Iu.jpg" group-title="M",FMTV HD
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2PComT.png" group-title="M",Global TV HD
 https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
@@ -204,6 +195,9 @@ https://secure-streams.akamaized.net/rt-esp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z7cueNf.png" group-title="T", Top Latino
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="M", Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oiW6vgk.jpg" group-title="T", Litus
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
