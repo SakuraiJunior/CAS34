@@ -47,17 +47,11 @@
 #EXTINF:-1 tvg-name=" Cartoonito" tvg-logo="", Cartoonito
  http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8
 
-#EXTINF:-1 tvg-name=" Boing" tvg-logo="", Boing
- http://tv.teleclub.xyz/envivo/Infantil/BOING_TV/index.m3u8
-
 #EXTINF:-1 tvg-name=" EnerGeek Retro" tvg-logo="", EnerGeek Retro
  http://tv.teleclub.xyz/envivo/Infantil/ENERGEEK_RETRO/index.m3u8
 
 #EXTINF:-1 tvg-name=" CNN en Español" tvg-logo="", CNN en Español
  http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
-
-#EXTINF:-1 tvg-name=" CNN" tvg-logo="", CNN
- http://tv.teleclub.xyz/envivo/Mundo/CNN/index.m3u8
 
 #EXTINF:-1 tvg-name=" Glitz" tvg-logo="", Glitz
  http://tv.teleclub.xyz/envivo/Mundo/GLITZ/index.m3u8
@@ -100,9 +94,6 @@
 
 #EXTINF:-1 tvg-name=" Azteca7" tvg-logo="", Azteca7
  http://tv.teleclub.xyz/envivo/Mundo/AZTECA7/index.m3u8
-
-#EXTINF:-1 tvg-name=" Univision" tvg-logo="", Univision
- http://tv.teleclub.xyz/envivo/Mundo/UNIVISION/index.m3u8
 
 #EXTINF:-1 tvg-name=" Antena 3" tvg-logo="", Antena 3
  http://tv.teleclub.xyz/envivo/Mundo/ANTENA3/index.m3u8
@@ -167,7 +158,7 @@
 #EXTINF:-1 tvg-name=" TLNovelas" tvg-logo="", TLNovelas
  http://tv.teleclub.xyz/envivo/Cultura/TLNovelas/index.m3u8
 
-#EXTINF:-1 tvg-name=" Discovery Familia" tvg-logo="", Discovery Familia
+#EXTINF:-1 tvg-name=" Discovery Family" tvg-logo="", Discovery Family
  http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_FAMILIA/index.m3u8
 
 #EXTINF:-1 tvg-name=" HGTV" tvg-logo="", HGTV
@@ -293,80 +284,48 @@
 #EXTINF:-1 tvg-name=" TUDN" tvg-logo="", TUDN
  http://tv.teleclub.xyz/envivo/Deportes/TUDN/index.m3u8
 
-#EXTINF:-1 tvg-name=" Afizzionados" tvg-logo="", Afizzionados
- http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
-
 #EXTINF:-1 tvg-name=" Claro Sports" tvg-logo="", Claro Sports
  http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-name=" GolTV" tvg-logo="", GolTV
  http://tv.teleclub.xyz/envivo/Deportes/GOLTV/index.m3u8
+
 #EXTINF:-1 tvg-name=" ESPN MX" tvg-logo="", ESPN MX
  http://tv.teleclub.xyz/envivo/Deportes/ESPN_MX/index.m3u8
+
 #EXTINF:-1 tvg-name=" ESPN 2 MX" tvg-logo="", ESPN 2 MX
  http://tv.teleclub.xyz/envivo/Deportes/ESPN_2_MX/index.m3u8
+
 #EXTINF:-1 tvg-name=" ESPN 3 MX" tvg-logo="", ESPN 3 MX
  http://tv.teleclub.xyz/envivo/Deportes/ESPN_3_MX/index.m3u8
+
 #EXTINF:-1 tvg-name=" Fox Sports MX" tvg-logo="", Fox Sports MX
  http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_MX/index.m3u8
+
 #EXTINF:-1 tvg-name=" Fox Sports 2 MX" tvg-logo="", Fox Sports 2 MX
  http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_MX/index.m3u8
+
 #EXTINF:-1 tvg-name=" Fox Sports 3 MX" tvg-logo="", Fox Sports 3 MX
  http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_MX/index.m3u8
-#EXTINF:-1 tvg-name=" ESPN Sur" tvg-logo="", ESPN Sur
- http://tv.teleclub.xyz/envivo/Deportes/ESPN_SUR/index.m3u8
-#EXTINF:-1 tvg-name=" ESPN 2 Sur" tvg-logo="", ESPN 2 Sur
- http://tv.teleclub.xyz/envivo/Deportes/ESPN_2_SUR/index.m3u8
-#EXTINF:-1 tvg-name=" ESPN 3 Sur" tvg-logo="", ESPN 3 Sur
- http://tv.teleclub.xyz/envivo/Deportes/ESPN_3_SUR/index.m3u8
-#EXTINF:-1 tvg-name=" Fox Sports Sur" tvg-logo="", Fox Sports Sur
- http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_SUR/index.m3u8
-#EXTINF:-1 tvg-name=" Fox Sports 2 Sur" tvg-logo="", Fox Sports 2 Sur
- http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_SUR/index.m3u8
-#EXTINF:-1 tvg-name=" Fox Sports 3 Sur" tvg-logo="", Fox Sports 3 Sur
- http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_SUR/index.m3u8
+
 #EXTINF:-1 tvg-name=" Bein Sports" tvg-logo="", Bein Sports
  http://tv.teleclub.xyz/envivo/Deportes/BEING_SPORTS/index.m3u8
-#EXTINF:-1 tvg-name=" Win Sports" tvg-logo="", Win Sports
- http://tv.teleclub.xyz/envivo/Deportes/WIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-name=" Win Sports +" tvg-logo="", Win Sports +
- http://tv.teleclub.xyz/envivo/Deportes/WIN_SPORTS_PLUS/index.m3u8
-#EXTINF:-1 tvg-name=" ESPN Extra" tvg-logo="", ESPN Extra
- http://tv.teleclub.xyz/envivo/Deportes/ESPN_EXTRA/index.m3u8
+
 #EXTINF:-1 tvg-name=" TyC Sports" tvg-logo="", TyC Sports
  http://tv.teleclub.xyz/envivo/Deportes/TYC_SPORTS/index.m3u8
+
 #EXTINF:-1 tvg-name=" WWE & WWF" tvg-logo="", WWE & WWF
  http://tv.teleclub.xyz/envivo/Deportes/WWE_WWF/index.m3u8
-#EXTINF:-1 tvg-name=" ESPN 4" tvg-logo="", ESPN 4
- http://tv.teleclub.xyz/envivo/Deportes/ESPN4/index.m3u8
-#EXTINF:-1 tvg-name=" DAZN F1" tvg-logo="", DAZN F1
- http://tv.teleclub.xyz/envivo/Deportes/DAZN/index.m3u8
-#EXTINF:-1 tvg-name=" Real Madrid TV (ES)" tvg-logo="", Real Madrid TV (ES)
- http://tv.teleclub.xyz/envivo/Deportes/RM_TV/index.m3u8
-#EXTINF:-1 tvg-name=" Manchester United TV" tvg-logo="", Manchester United TV
- http://tv.teleclub.xyz/envivo/Deportes/MAN_UNITEDTV/index.m3u8
+
 #EXTINF:-1 tvg-name=" NFL Network" tvg-logo="", NFL Network
  http://tv.teleclub.xyz/envivo/Deportes/NFL_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-name=" TNT Sports BR" tvg-logo="", TNT Sports BR
- http://tv.teleclub.xyz/envivo/Deportes/TNTSPORTS_BR/index.m3u8
+
 #EXTINF:-1 tvg-name=" Fox Sports Premium" tvg-logo="", Fox Sports Premium
  http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
-#EXTINF:-1 tvg-name=" Tigo Sports BO" tvg-logo="", Tigo Sports BO
- http://tv.teleclub.xyz/envivo/Deportes/TIGO_BO/index.m3u8
+
 #EXTINF:-1 tvg-name=" ESPN Deportes" tvg-logo="", ESPN Deportes
  http://tv.teleclub.xyz/envivo/Deportes/ESPN_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-name=" BeinSports Ñ Extra" tvg-logo="", BeinSports Ñ Extra
- http://tv.teleclub.xyz/envivo/Deportes/BEINSPORTS_EXTRA/index.m3u8
-#EXTINF:-1 tvg-name=" VTV Plus" tvg-logo="", VTV Plus
- http://tv.teleclub.xyz/envivo/Deportes/VTV_PLUS/index.m3u8
-#EXTINF:-1 tvg-name=" TNT Sports" tvg-logo="", TNT Sports
- http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8
-#EXTINF:-1 tvg-name=" Liga 1 Max" tvg-logo="", Liga 1 Max
- http://tv.teleclub.xyz/envivo/Deportes/LIGA1_MAX/index.m3u8
-#EXTINF:-1 tvg-name=" Tigo Sports CR" tvg-logo="", Tigo Sports CR
- http://tv.teleclub.xyz/envivo/Deportes/TIGO_SPORTS_CR/index.m3u8
-#EXTINF:-1 tvg-name=" ESPN Premium" tvg-logo="", ESPN Premium
- http://tv.teleclub.xyz/envivo/Deportes/ESPN_PREMIUM/index.m3u8
+
 #EXTINF:-1 tvg-name=" Principe del Rap" tvg-logo="", Principe del Rap
  http://tv.teleclub.xyz/envivo/24_7/PRINCIPE_DEL_RAP/index.m3u8
 #EXTINF:-1 tvg-name=" Correcaminos" tvg-logo="", Correcaminos
