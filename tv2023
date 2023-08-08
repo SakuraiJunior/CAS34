@@ -2,7 +2,7 @@
 #Disponible en TV,PC,Android,IOS,Roku,Chromecast
 #APP only acortar.link/vFhfQA
 #
-#Actualizacion 6/AGO
+#Actualizacion 8/AGO
 
 #EXTM3U
 #EXTINF:-1 tvg-name=" EVENTO 01" tvg-logo="", EVENTO 01
@@ -328,39 +328,57 @@ http://tv.teleclub.xyz/envivo/Deportes/ESPN_DEPORTES/index.m3u8
 
 #EXTINF:-1 tvg-name="Principe del Rap" tvg-logo="", Principe del Rap
  http://tv.teleclub.xyz/envivo/24_7/PRINCIPE_DEL_RAP/index.m3u8
+
 #EXTINF:-1 tvg-name="Correcaminos" tvg-logo="", Correcaminos
  http://tv.teleclub.xyz/envivo/24_7/CORRECAMINOS/index.m3u8
+
 #EXTINF:-1 tvg-name="Dinosaurios" tvg-logo="", Dinosaurios
  http://tv.teleclub.xyz/envivo/24_7/DINOSAURIOS/index.m3u8
+
 #EXTINF:-1 tvg-name="Ben 10" tvg-logo="", Ben 10
  http://tv.teleclub.xyz/envivo/24_7/BEN_10/index.m3u8
+
 #EXTINF:-1 tvg-name="Los Simpsons" tvg-logo="", Los Simpsons
  http://tv.teleclub.xyz/envivo/24_7/SIMPSONS_247/index.m3u8
+
 #EXTINF:-1 tvg-name="Dragon Ball" tvg-logo="", Dragon Ball
  http://tv.teleclub.xyz/envivo/24_7/DRAGON_BALL/index.m3u8
+
 #EXTINF:-1 tvg-name="South Park" tvg-logo="", South Park
  http://tv.teleclub.xyz/envivo/24_7/SOUTH_PARK/index.m3u8
+
 #EXTINF:-1 tvg-name="ALF" tvg-logo="", ALF
  http://tv.teleclub.xyz/envivo/24_7/ALF/index.m3u8
+
 #EXTINF:-1 tvg-name="Familia Peluche" tvg-logo="", Familia Peluche
  http://tv.teleclub.xyz/envivo/24_7/FAMILIA_PELUCHE/index.m3u8
+
 #EXTINF:-1 tvg-name="Chavo del 8" tvg-logo="", Chavo del 8
  http://tv.teleclub.xyz/envivo/24_7/CHAVO_8/index.m3u8
+
 #EXTINF:-1 tvg-name="CHESPIRITO" tvg-logo="", CHESPIRITO
  http://tv.teleclub.xyz/envivo/24_7/CHESPIRITO/index.m3u8
+
 #EXTINF:-1 tvg-name="Don Gato y su Pandilla" tvg-logo="", Don Gato y su Pandilla
  http://tv.teleclub.xyz/envivo/24_7/DON_GATO/index.m3u8
+
 #EXTINF:-1 tvg-name="Mi Bella Genio" tvg-logo="", Mi Bella Genio
  http://tv.teleclub.xyz/envivo/24_7/BELLA_GENIO/index.m3u8
+
 #EXTINF:-1 tvg-name="El Chapulin Colorado" tvg-logo="", El Chapulin Colorado
  http://tv.teleclub.xyz/envivo/24_7/CHAPULIN_COLORADO/index.m3u8
+
 #EXTINF:-1 tvg-name="Digimon" tvg-logo="", Digimon
  http://tv.teleclub.xyz/envivo/24_7/DIGIMON/index.m3u8
+
 #EXTINF:-1 tvg-name="Terror 24/7" tvg-logo="", Terror 24/7
  http://tv.teleclub.xyz/envivo/24_7/TERROR_247/index.m3u8
+
 #EXTINF:-1 tvg-name="LOONEY TOONS" tvg-logo="", LOONEY TOONS
  http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
+
 #EXTINF:-1 tvg-name="Alerta Aeropuerto" tvg-logo="", Alerta Aeropuerto
  http://tv.teleclub.xyz/envivo/24_7/ALERTA_AEROPUERTO/index.m3u8
+
 #EXTINF:-1 tvg-name="La Rosa de Guadalupe" tvg-logo="", La Rosa de Guadalupe
  http://tv.teleclub.xyz/envivo/24_7/LAROSA_DEGUADALUPE/index.m3u8
