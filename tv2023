@@ -81,7 +81,7 @@ http://tv.teleclub.xyz/envivo/Mundo/TELEFE/index.m3u8
 http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8
 
 #EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="", Las Estrellas
-http://tv.teleclub.xyz/envivo/Mundo/LAS_ESTRELLAS/index.m3u8
+
 
 #EXTINF:-1 tvg-name="Canal E!" tvg-logo="", Canal E!
 http://tv.teleclub.xyz/envivo/Mundo/CANAL_E/index.m3u8
@@ -93,7 +93,7 @@ http://tv.teleclub.xyz/envivo/Mundo/CARACOLTV/index.m3u8
 http://tv.teleclub.xyz/envivo/Mundo/TELEMUNDO/index.m3u8
 
 #EXTINF:-1 tvg-name="Azteca7" tvg-logo="", Azteca7
-http://tv.teleclub.xyz/envivo/Mundo/AZTECA7/index.m3u8
+
 
 #EXTINF:-1 tvg-name="Antena 3" tvg-logo="", Antena 3
 http://tv.teleclub.xyz/envivo/Mundo/ANTENA3/index.m3u8
