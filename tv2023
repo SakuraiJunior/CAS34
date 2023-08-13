@@ -47,8 +47,8 @@ http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
 #EXTINF:-1 tvg-name="Cartoonito" tvg-logo="", Cartoonito
 http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8
 
-#EXTINF:-1 tvg-name="EnerGeek Retro" tvg-logo="", EnerGeek Retro
-http://tv.teleclub.xyz/envivo/Infantil/ENERGEEK_RETRO/index.m3u8
+#EXTINF:-1 tvg-name="Multimedios" tvg-logo="", Multimedios
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 #EXTINF:-1 tvg-name="CNN en Español" tvg-logo="", CNN en Español
 http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
