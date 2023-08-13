@@ -326,9 +326,6 @@ http://tv.teleclub.xyz/envivo/Deportes/NFL_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="Fox Sports Premium" tvg-logo="", Fox Sports Premium
 http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
 
-#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="", ESPN Deportes
-http://tv.teleclub.xyz/envivo/Deportes/ESPN_DEPORTES/index.m3u8
-
 #EXTINF:-1 tvg-name="Principe del Rap" tvg-logo="", Principe del Rap
 http://tv.teleclub.xyz/envivo/24_7/PRINCIPE_DEL_RAP/index.m3u8
 
