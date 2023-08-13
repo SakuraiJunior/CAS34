@@ -99,7 +99,7 @@ http://tv.teleclub.xyz/envivo/Mundo/AZTECA7/index.m3u8
 http://tv.teleclub.xyz/envivo/Mundo/ANTENA3/index.m3u8
 
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="", Azteca Uno
-http://tv.teleclub.xyz/envivo/Mundo/AZTECA_UNO/index.m3u8
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-name="DW en Español" tvg-logo="", DW en Español
 http://tv.teleclub.xyz/envivo/Mundo/DW_Spanish/index.m3u8
