@@ -93,7 +93,7 @@ http://tv.teleclub.xyz/envivo/Mundo/CARACOLTV/index.m3u8
 http://tv.teleclub.xyz/envivo/Mundo/TELEMUNDO/index.m3u8
 
 #EXTINF:-1 tvg-name="Azteca7" tvg-logo="", Azteca7
-
+https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/93584fb9-083f-4112-9b66-db23108eeb08:CBF2/master.m3u8
 
 #EXTINF:-1 tvg-name="Antena 3" tvg-logo="", Antena 3
 http://tv.teleclub.xyz/envivo/Mundo/ANTENA3/index.m3u8
