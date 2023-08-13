@@ -2,7 +2,7 @@
 #Disponible en TV,PC,Android,IOS,Roku,Chromecast
 #APP only http://m3u-ip.tv/browser/
 #
-#Actualizacion 10/AGO
+#Actualizacion 12/AGO
 
 #EXTM3U
 #EXTINF:-1 tvg-name="EVENTO 01" tvg-logo="", EVENTO 01
@@ -69,7 +69,7 @@ http://tv.teleclub.xyz/envivo/Mundo/MASCHIC/index.m3u8
 http://tv.teleclub.xyz/envivo/Mundo/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-name="ADN40" tvg-logo="", ADN40
-http://tv.teleclub.xyz/envivo/Mundo/ADN40/index.m3u8
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-name="RCN" tvg-logo="", RCN
 http://tv.teleclub.xyz/envivo/Mundo/RCN/index.m3u8
