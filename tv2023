@@ -5,6 +5,31 @@
 #Actualizacion 14/AGO
 
 #EXTM3U
+
+#EXTINF:-1 tvg-name="ImagenTV" tvg-logo="" , ImagenTV
+http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EfektoTV" tvg-logo="" , EfektoTV
+https://cdn.jwplayer.com/manifests/bez1terN.m3u8
+
+#EXTINF:-1 tvg-name="Multimedios" tvg-logo="", Multimedios
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-name="ForoTV" tvg-logo="", ForoTV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
+#EXTINF:-1 tvg-name="ADN40" tvg-logo="", ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="", Las Estrellas
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+
+#EXTINF:-1 tvg-name="Azteca7" tvg-logo="", Azteca7
+https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/f9c3a859-bed0-4807-909f-e01bb496a62e:TUL/master.m3u8
+
+#EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="", Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
 #EXTINF:-1 tvg-name="EVENTO 01" tvg-logo="", EVENTO 01
 http://tv.teleclub.xyz/envivo/Eventos/EVENTO_01/index.m3u8
 
@@ -19,9 +44,6 @@ http://tv.teleclub.xyz/envivo/Eventos/EVENTO_04/index.m3u8
 
 #EXTINF:-1 tvg-name="EVENTO 05" tvg-logo="", EVENTO 05
 http://tv.teleclub.xyz/envivo/Eventos/EVENTO_05/index.m3u8
-
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="", Cartoon Network
-http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="", Disney Channel
 http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8
@@ -47,18 +69,6 @@ http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
 #EXTINF:-1 tvg-name="Cartoonito" tvg-logo="", Cartoonito
 http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8
 
-#EXTINF:-1 tvg-name="ImagenTV" tvg-logo="" , ImagenTV
-http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="EfektoTV" tvg-logo="" , EfektoTV
-https://cdn.jwplayer.com/manifests/bez1terN.m3u8
-
-#EXTINF:-1 tvg-name="Multimedios" tvg-logo="", Multimedios
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-
-#EXTINF:-1 tvg-name="ForoTV" tvg-logo="", ForoTV
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-
 #EXTINF:-1 tvg-name="CNN en Español" tvg-logo="", CNN en Español
 http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
 
@@ -77,9 +87,6 @@ http://tv.teleclub.xyz/envivo/Mundo/MASCHIC/index.m3u8
 #EXTINF:-1 tvg-name="Lifetime" tvg-logo="", Lifetime
 http://tv.teleclub.xyz/envivo/Mundo/LIFETIME/index.m3u8
 
-#EXTINF:-1 tvg-name="ADN40" tvg-logo="", ADN40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
 #EXTINF:-1 tvg-name="RCN" tvg-logo="", RCN
 http://tv.teleclub.xyz/envivo/Mundo/RCN/index.m3u8
 
@@ -88,9 +95,6 @@ http://tv.teleclub.xyz/envivo/Mundo/TELEFE/index.m3u8
 
 #EXTINF:-1 tvg-name="HolaTV" tvg-logo="", HolaTV
 http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8
-
-#EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="", Las Estrellas
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
 #EXTINF:-1 tvg-name="Canal E!" tvg-logo="", Canal E!
 http://tv.teleclub.xyz/envivo/Mundo/CANAL_E/index.m3u8
@@ -101,14 +105,8 @@ http://tv.teleclub.xyz/envivo/Mundo/CARACOLTV/index.m3u8
 #EXTINF:-1 tvg-name="Telemundo" tvg-logo="", Telemundo
 http://tv.teleclub.xyz/envivo/Mundo/TELEMUNDO/index.m3u8
 
-#EXTINF:-1 tvg-name="Azteca7" tvg-logo="", Azteca7
-https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/f9c3a859-bed0-4807-909f-e01bb496a62e:TUL/master.m3u8
-
 #EXTINF:-1 tvg-name="Antena 3" tvg-logo="", Antena 3
 http://tv.teleclub.xyz/envivo/Mundo/ANTENA3/index.m3u8
-
-#EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="", Azteca Uno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-name="DW en Español" tvg-logo="", DW en Español
 http://tv.teleclub.xyz/envivo/Mundo/DW_Spanish/index.m3u8
@@ -356,8 +354,14 @@ http://tv.teleclub.xyz/envivo/24_7/DIGIMON/index.m3u8
 #EXTINF:-1 tvg-name="Terror 24/7" tvg-logo="", Terror 24/7
 http://tv.teleclub.xyz/envivo/24_7/TERROR_247/index.m3u8
 
-#EXTINF:-1 tvg-name="LOONEY TOONS" tvg-logo="", LOONEY TOONS
+#EXTINF:-1 tvg-name="Looney Toons" tvg-logo="", Looney Toons
 http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
 
 #EXTINF:-1 tvg-name="La Rosa de Guadalupe" tvg-logo="", La Rosa de Guadalupe
 http://tv.teleclub.xyz/envivo/24_7/LAROSA_DEGUADALUPE/index.m3u8
+
+#EXTINF:-1 tvg-name="Kenan y Kel" tvg-logo="", Kenan y Kel
+https://i.mjh.nz/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
+
+#EXTINF:-1 tvg-name="One Piece" tvg-logo="", One Piece
+https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
