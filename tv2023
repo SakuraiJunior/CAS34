@@ -113,17 +113,8 @@ http://tv.teleclub.xyz/envivo/Cultura/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="", Discovery Channel
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="", Discovery Theater
-http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_THEATER/index.m3u8
-
-#EXTINF:-1 tvg-name="Discovery World" tvg-logo="", Discovery World
-http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_WORLD/index.m3u8
-
 #EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="", Discovery Turbo
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_TURBO/index.m3u8
-
-#EXTINF:-1 tvg-name="Discovery Sciences" tvg-logo="", Discovery Sciences
-http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_SCIENCES/index.m3u8
 
 #EXTINF:-1 tvg-name="Discovery ID" tvg-logo="", Discovery ID
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_ID/index.m3u8
@@ -160,9 +151,6 @@ http://tv.teleclub.xyz/envivo/Cultura/DISTRITO_COMEDIA/index.m3u8
 
 #EXTINF:-1 tvg-name="TLNovelas" tvg-logo="", TLNovelas
 http://tv.teleclub.xyz/envivo/Cultura/TLNovelas/index.m3u8
-
-#EXTINF:-1 tvg-name="Discovery Family" tvg-logo="", Discovery Family
-http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_FAMILIA/index.m3u8
 
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="", HGTV
 http://tv.teleclub.xyz/envivo/Cultura/HGTV/index.m3u8
@@ -359,9 +347,6 @@ http://tv.teleclub.xyz/envivo/24_7/CHAVO_8/index.m3u8
 #EXTINF:-1 tvg-name="Chespirito" tvg-logo="", Chespirito
 http://tv.teleclub.xyz/envivo/24_7/CHESPIRITO/index.m3u8
 
-#EXTINF:-1 tvg-name="Don Gato y su Pandilla" tvg-logo="", Don Gato y su Pandilla
-http://tv.teleclub.xyz/envivo/24_7/DON_GATO/index.m3u8
-
 #EXTINF:-1 tvg-name="Mi Bella Genio" tvg-logo="", Mi Bella Genio
 http://tv.teleclub.xyz/envivo/24_7/BELLA_GENIO/index.m3u8
 
@@ -376,9 +361,6 @@ http://tv.teleclub.xyz/envivo/24_7/TERROR_247/index.m3u8
 
 #EXTINF:-1 tvg-name="LOONEY TOONS" tvg-logo="", LOONEY TOONS
 http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
-
-#EXTINF:-1 tvg-name="Alerta Aeropuerto" tvg-logo="", Alerta Aeropuerto
-http://tv.teleclub.xyz/envivo/24_7/ALERTA_AEROPUERTO/index.m3u8
 
 #EXTINF:-1 tvg-name="La Rosa de Guadalupe" tvg-logo="", La Rosa de Guadalupe
 http://tv.teleclub.xyz/envivo/24_7/LAROSA_DEGUADALUPE/index.m3u8
