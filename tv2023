@@ -323,8 +323,8 @@ http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
 #EXTINF:-1 tvg-name="Principe del Rap" tvg-logo="", Principe del Rap
 http://tv.teleclub.xyz/envivo/24_7/PRINCIPE_DEL_RAP/index.m3u8
 
-#EXTINF:-1 tvg-name="Correcaminos" tvg-logo="", Correcaminos
-http://tv.teleclub.xyz/envivo/24_7/CORRECAMINOS/index.m3u8
+#EXTINF:-1 tvg-name="YuGiOh" tvg-logo="", Yu-Gi-Oh
+https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72b1fd3f-7af2-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-name="Dinosaurios" tvg-logo="", Dinosaurios
 http://tv.teleclub.xyz/envivo/24_7/DINOSAURIOS/index.m3u8
@@ -349,15 +349,6 @@ http://tv.teleclub.xyz/envivo/24_7/FAMILIA_PELUCHE/index.m3u8
 
 #EXTINF:-1 tvg-name="Chavo del 8" tvg-logo="", Chavo del 8
 http://tv.teleclub.xyz/envivo/24_7/CHAVO_8/index.m3u8
-
-#EXTINF:-1 tvg-name="Chespirito" tvg-logo="", Chespirito
-http://tv.teleclub.xyz/envivo/24_7/CHESPIRITO/index.m3u8
-
-#EXTINF:-1 tvg-name="Mi Bella Genio" tvg-logo="", Mi Bella Genio
-http://tv.teleclub.xyz/envivo/24_7/BELLA_GENIO/index.m3u8
-
-#EXTINF:-1 tvg-name="El Chapulin Colorado" tvg-logo="", El Chapulin Colorado
-http://tv.teleclub.xyz/envivo/24_7/CHAPULIN_COLORADO/index.m3u8
 
 #EXTINF:-1 tvg-name="Digimon" tvg-logo="", Digimon
 http://tv.teleclub.xyz/envivo/24_7/DIGIMON/index.m3u8
