@@ -4,6 +4,9 @@
 #
 #Actualizacion 23/AGO
 
+#EXTINF:-1 tvg-name="Amas" tvg-logo="" group-title="G"
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
 #EXTINF:-1 tvg-name="El5" tvg-logo="" group-title="G"
 http://166.0.208.26:4481/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
@@ -54,6 +57,9 @@ https://i.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 
 #EXTINF:-1 tvg-name="Golden Plus" tvg-logo="" group-title="T"
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NMas Media" tvg-logo="" group-title="M"
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 
 #EXTINF:-1 tvg-name="EstrellaTV" tvg-logo="" group-title="M"
 https://estrellatv-plex.amagi.tv/playlist.m3u8
