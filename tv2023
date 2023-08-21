@@ -91,3 +91,5 @@ https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/in
 #EXTINF:-1 tvg-name="AMC" tvg-logo="" group-title="M"
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="ESPN MX" tvg-logo="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/ESPN-Deportes-900x0.png" group-title="M"
+http://66.70.176.103:8081/LATINO%7CESPNDEPORTESR/LATINO%7CESPNDEPORTESR/chunks.m3u8
