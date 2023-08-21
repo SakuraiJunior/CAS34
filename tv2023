@@ -2,7 +2,7 @@
 #Disponible en TV,PC,Android,IOS,Roku,Chromecast
 #APP only http://m3u-ip.tv
 #
-#Actualizacion 22/AGO
+#Actualizacion 23/AGO
 
 #EXTINF:-1 tvg-name="ImagenTV" tvg-logo="" group-title="G"
 http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
@@ -28,7 +28,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="" group-title="G"
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-EXTINF:-1 tvg-name="Energeek1" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="T"
+EXTINF:-1 tvg-name="Energeek1" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="E"
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Fanpop" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="T"
@@ -64,5 +64,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d0
 #EXTINF:-1 tvg-name="MTV Latino" tvg-logo="" group-title="T"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
+#EXTINF:-1 tvg-name="Nickteen" tvg-logo="" group-title="T"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-
+#EXTINF:-1 tvg-name="Cartoonito" tvg-logo="" group-title="E"
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
