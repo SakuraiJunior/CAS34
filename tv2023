@@ -2,7 +2,7 @@
 #Disponible en TV,PC,Android,IOS,Roku,Chromecast
 #APP only http://m3u-ip.tv
 #
-#Actualizacion 24/AGO
+#Actualizacion 25/AGO
 
 #EXTINF:-1 tvg-name="Amas" tvg-logo="" group-title="G"
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -93,3 +93,6 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ESPN MX" tvg-logo="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/ESPN-Deportes-900x0.png" group-title="M"
 http://66.70.176.103:8081/LATINO%7CESPNDEPORTESR/LATINO%7CESPNDEPORTESR/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sport Premium" tvg-logo="" group-title="M"
+http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
