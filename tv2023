@@ -34,6 +34,9 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="" group-title="G"
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
+#EXTINF:-1 tvg-name="AMX Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="G"
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
 EXTINF:-1 tvg-name="Energeek1" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="E"
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
