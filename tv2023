@@ -37,5 +37,9 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-name="LIMtv" tvg-logo="https://i.imgur.com/QGby81g.png" group-title="T"
 https://tv.invasivamedia.com/hls/limtv.m3u8
 
+#EXTINF:-1 tvg-name="BayresTV" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="T"
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
 #EXTINF:-1 tvg-name="Golden Plus" tvg-logo="" group-title="T"
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
