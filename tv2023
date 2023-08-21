@@ -2,28 +2,36 @@
 #Disponible en TV,PC,Android,IOS,Roku,Chromecast
 #APP only http://m3u-ip.tv
 #
-#Actualizacion 19/AGO
+#Actualizacion 20/AGO
 
-#EXTINF:-1 tvg-name="ImagenTV" tvg-logo="" , ImagenTV
+#EXTINF:-1 tvg-name="ImagenTV" tvg-logo="" group-title="G"
 http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="EfektoTV" tvg-logo="" , EfektoTV
+#EXTINF:-1 tvg-name="EfektoTV" tvg-logo="" group-title="G"
 https://cdn.jwplayer.com/manifests/bez1terN.m3u8
 
-#EXTINF:-1 tvg-name="Multimedios" tvg-logo="", Multimedios
+#EXTINF:-1 tvg-name="Multimedios" tvg-logo="" group-title="G"
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
-#EXTINF:-1 tvg-name="ForoTV" tvg-logo="", ForoTV
+#EXTINF:-1 tvg-name="ForoTV" tvg-logo="" group-title="G"
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-#EXTINF:-1 tvg-name="ADN40" tvg-logo="", ADN40
+#EXTINF:-1 tvg-name="ADN40" tvg-logo="" group-title="G"
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="", Las Estrellas
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="" group-title="G"
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
-#EXTINF:-1 tvg-name="Azteca7" tvg-logo="", Azteca7
+#EXTINF:-1 tvg-name="Azteca7" tvg-logo="" group-title="G"
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="", Azteca Uno
+#EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="" group-title="G"
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+EXTINF:-1 tvg-name="Energeek1" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="T"
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fanpop" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="T"
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=""
