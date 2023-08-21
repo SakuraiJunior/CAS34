@@ -2,7 +2,7 @@
 #Disponible en TV,PC,Android,IOS,Roku,Chromecast
 #APP only http://m3u-ip.tv
 #
-#Actualizacion 23/AGO
+#Actualizacion 24/AGO
 
 #EXTINF:-1 tvg-name="Amas" tvg-logo="" group-title="G"
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -82,3 +82,5 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d433
 #EXTINF:-1 tvg-name="Cartoonito" tvg-logo="" group-title="E"
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
+#EXTINF:-1 tvg-name="Videorola" tvg-logo="" group-title="T"
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
