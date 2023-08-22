@@ -111,3 +111,7 @@ https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
 
 #EXTINF:-1 tvg-name="Anime Accion" tvg-logo="https://i.imgur.com/VzX9t3v.png" group-title="T"
 https://i.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
+
+EXTINF:-1 tvg-name="SEO TV Peliculas" tvg-logo="https://i.imgur.com/816xTc2.png" group-title="T"
+https://live.seo.tv.bo/live/4SEO.m3u8
+
