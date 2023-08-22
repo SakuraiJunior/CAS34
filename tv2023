@@ -115,3 +115,9 @@ https://i.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
 EXTINF:-1 tvg-name="SEO TV Peliculas" tvg-logo="https://i.imgur.com/816xTc2.png" group-title="T"
 https://live.seo.tv.bo/live/4SEO.m3u8
 
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/featuredImage.jpg" group-title="M"
+http://euronews-euronews-spanish-2-mx.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DW Latino" tvg-logo="https://www.newslinereport.com/online/nota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg" group-title="M"
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
