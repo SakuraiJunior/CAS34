@@ -127,6 +127,24 @@ https://live.obslivestream.com/planetatv/index.m3u8?fbclid=IwAR2T51nzeIp6W3TMlr6
 #EXTINF:-1 tvg-name="ACS Network" tvg-logo="" group-title="M"
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8?fbclid=IwAR0lAwgjTOXjZGi2FGuPPPSh8GDCdgRHNH0X-9c-P981urQPEi6j7S47eLk
 
+#EXTINF:-1 tvg-name="JuntosHD" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="E"
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+
+#EXTINF:-1 tvg-name="Tu Cine" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="T"
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+
+#EXTINF:-1 tvg-name="Cine Sureño" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="M"
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+
+#EXTINF:-1 tvg-name="Cine real" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="T"
+https://cinereal-plex.amagi.tv/CineReal/master.m3u8
+
+#EXTINF:-1 tvg-name="Horrorfy HD" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="M"
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+
+
+
+
 #EXTINF:-1 tvg-name="Bob Esponja" tvg-logo="" group-title="247"
 https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 
