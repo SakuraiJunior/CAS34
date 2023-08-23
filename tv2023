@@ -154,6 +154,9 @@ https://i.mjh.nz/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
 #EXTINF:-1 tvg-name="Yu-Gi-Oh" tvg-logo="https://i.imgur.com/JHdIJBM.jpg" group-title="247"
 https://i.mjh.nz/PlutoTV/63eb96754e83e70008ab8941-alt.m3u8
 
+#EXTINF:-1 tvg-name="BabyShark" tvg-logo="https://eu-images.contentstack.com/v3/assets/blt781c383a1983f673/bltd6f5c79ef93b7354/621c716caa56997a20e1f161/babysharkk_0.png?width=734&auto=webp&format=png" group-title="247"
+https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
+
 #EXTINF:-1 tvg-name="5" tvg-logo="https://i.imgur.com/JHdIJBM.jpg" group-title="247"
 https://i.mjh.nz/PlutoTV/63eb96754e83e70008ab8941-alt.m3u8
 
