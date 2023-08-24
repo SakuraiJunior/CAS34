@@ -166,8 +166,8 @@ https://i.mjh.nz/PlutoTV/628751bb7154a40007168843-alt.m3u8
 #EXTINF:-1 tvg-name="Rugrats" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="247"
 https://i.mjh.nz/PlutoTV/610c09219fc0430007a3fce6-alt.m3u8
 
-#EXTINF:-1 tvg-name="8" tvg-logo="" group-title="247"
-
+#EXTINF:-1 tvg-name="Padrinos Magicos" tvg-logo="https://images.pluto.tv/channels/6304f626d1a0ac00083a05c5/colorLogoPNG.png" group-title="247"
+https://i.mjh.nz/PlutoTV/6304f626d1a0ac00083a05c5-alt.m3u8
 
 #EXTINF:-1 tvg-name="9" tvg-logo="" group-title="247"
 
