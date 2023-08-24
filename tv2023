@@ -148,6 +148,9 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ATVPlus" tvg-logo="" group-title="M"
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-name="ITV Deportes" tvg-logo="" group-title="M"
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com
+
 #EXTINF:-1 tvg-name="Death Note" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="247"
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -179,10 +182,5 @@ https://i.mjh.nz/PlutoTV/6304f626d1a0ac00083a05c5-alt.m3u8
 https://i.mjh.nz/PlutoTV/6181404ef48321000797bc41-alt.m3u8
 
 #EXTINF:-1 tvg-name="10" tvg-logo="" group-title="247"
-
-
 #EXTINF:-1 tvg-name="11" tvg-logo="" group-title="247"
-
-
 #EXTINF:-1 tvg-name="12" tvg-logo="" group-title="247"
-
