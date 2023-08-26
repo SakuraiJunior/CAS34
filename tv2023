@@ -1,7 +1,7 @@
 #EXTM3U
 #Disponible en TV,Roku,Chromecast,m3u-ip.tv,VLC
 #
-#Actualizacion 24/AGO
+#Actualizacion 25/AGO
 
 #EXTINF:-1 tvg-name="Amas" tvg-logo="" group-title="G" Amas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -156,36 +156,40 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat
 tvg-name="Musictop" , tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png" , Musictop
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Death Note" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="247"
+#EXTINF:-1 tvg-name="Death Note" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="247" , Death Note
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-name="Bob Esponja" tvg-logo="" group-title="247"
+#EXTINF:-1 tvg-name="Bob Esponja" tvg-logo="" group-title="247" , Bob Esponja 
 https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 
-#EXTINF:-1 tvg-name="Kenan y Kel" tvg-logo="" group-title="247"
+#EXTINF:-1 tvg-name="Kenan y Kel" tvg-logo="" group-title="247" , Kenan y Kel
 https://i.mjh.nz/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
 
-#EXTINF:-1 tvg-name="Yu-Gi-Oh" tvg-logo="https://i.imgur.com/JHdIJBM.jpg" group-title="247"
+#EXTINF:-1 tvg-name="Yu-Gi-Oh" tvg-logo="https://i.imgur.com/JHdIJBM.jpg" group-title="247" , Yu-Gi-Oh
 https://i.mjh.nz/PlutoTV/63eb96754e83e70008ab8941-alt.m3u8
 
-#EXTINF:-1 tvg-name="BabyShark" tvg-logo="https://eu-images.contentstack.com/v3/assets/blt781c383a1983f673/bltd6f5c79ef93b7354/621c716caa56997a20e1f161/babysharkk_0.png?width=734&auto=webp&format=png" group-title="247"
+#EXTINF:-1 tvg-name="BabyShark" tvg-logo="https://eu-images.contentstack.com/v3/assets/blt781c383a1983f673/bltd6f5c79ef93b7354/621c716caa56997a20e1f161/babysharkk_0.png?width=734&auto=webp&format=png" group-title="247" , BabyShark
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-name="Rocket Power" tvg-logo="" group-title="247"
+#EXTINF:-1 tvg-name="Rocket Power" tvg-logo="" group-title="247" , Rocket Power
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6202ab549654c800076ee13f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="South Park" tvg-logo="" group-title="247"
+#EXTINF:-1 tvg-name="South Park" tvg-logo="" group-title="247" , South Park
 https://i.mjh.nz/PlutoTV/628751bb7154a40007168843-alt.m3u8
 
-#EXTINF:-1 tvg-name="Rugrats" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="247"
+#EXTINF:-1 tvg-name="Rugrats" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="247" , Rugrats
 https://i.mjh.nz/PlutoTV/610c09219fc0430007a3fce6-alt.m3u8
 
-#EXTINF:-1 tvg-name="Padrinos Magicos" tvg-logo="https://images.pluto.tv/channels/6304f626d1a0ac00083a05c5/colorLogoPNG.png" group-title="247"
+#EXTINF:-1 tvg-name="Padrinos Magicos" tvg-logo="https://images.pluto.tv/channels/6304f626d1a0ac00083a05c5/colorLogoPNG.png" group-title="247" , Padrinos Magicos
 https://i.mjh.nz/PlutoTV/6304f626d1a0ac00083a05c5-alt.m3u8
 
-#EXTINF:-1 tvg-name="ICarly" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" group-title="247"
+#EXTINF:-1 tvg-name="ICarly" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" group-title="247" , ICarly
 https://i.mjh.nz/PlutoTV/6181404ef48321000797bc41-alt.m3u8
 
-#EXTINF:-1 tvg-name="10" tvg-logo="" group-title="247"
-#EXTINF:-1 tvg-name="11" tvg-logo="" group-title="247"
+#EXTINF:-1 tvg-name="Jimmy Neutron" tvg-logo="" group-title="247" , Jimmy Neutron
+http://lbxc10.budtv-ultra.com:2546/live/bud-185308/acbd5173b7/12015.m3u8?token=HRNfAEBQEwMVUVRXUAYCDVIJX1IFDwpYVgIHUwBSDlJQBlQCCgBXCAIVHUMQF0dQUlxmWVUaAwhUAwdQSRNNEQNDaAhXGgsbBgACWVFBGRdHWFRVEwIJFURDXwFHCxpTUAQOVhEUE1xPQ1QTDQJZaldUT1lSXRsDCEZaCUkTVww5VVIMUlZVGw0VAUNPQVxGQxMDXkRUVRVEUV8RF1BMB0QLFVQDCxMVFVReFA0XR0wRCxt9aRoVGwNLQgALQlENCBMNQ14LRAEVGxMIEDxHUEBFS1VQVVxLRAkUVUcdGg8HSWgCXFZfXFRDWA4NEBcPEQIbHBNVVlcPR1kXOkFRBkQLFVUEAAAbSg==
+
+#EXTINF:-1 tvg-name="Familia Peluche" tvg-logo="" group-title="247" , Familia Peluche
+http://lbxc10.budtv-ultra.com:2546/live/bud-185308/acbd5173b7/2360.m3u8?token=HRNfAEBQEwMVAVIFVlUHDQEEXAZTAQsLUQAEXFwBClRWCARQVwFQXAUVHUMQF0dQUlxmWVUaAwtVBQZJR0RLBxRuXgURAhMIAAQJU0FPF0FaXFwSCwgVGxZaUkdfEwpQVQUPQx8aVEFDUkMPAg9qUVZHUFNUGgNXE19aSUdeVj0CVFoAXVwTAxUHE01BCkZFEQtXRV1UFRsEWkIXBEVdQFwTAFEBGh0bVFhEDxcRTBcJE3RoExQbXB5HUwsWWFcMRAsVDABNCRsbFVgSPBFQRkdDXFFcXUsbXBEGR0kTVQMeblQOXVZUWkNeXg8QQQ8XABMVElxXV1ASXEQ6FVhcQFwTDlYADRNE
+
 #EXTINF:-1 tvg-name="12" tvg-logo="" group-title="247"
