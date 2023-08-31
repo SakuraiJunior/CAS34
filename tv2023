@@ -42,8 +42,8 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="G", Canal Catorce
 https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p6SrZoE.png" group-title="PV", Los Simpsons
-http://tv.teleclub.xyz/envivo/24_7/SIMPSONS_247/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="PV", teleclub! 
+http://tv.teleclub.xyz/hls/welcome.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="E", Cartoon Network 
 http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8
