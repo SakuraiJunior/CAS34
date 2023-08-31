@@ -291,12 +291,6 @@ http://tv.teleclub.xyz/envivo/Musica/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Yj2d1q.png" group-title="T", MTV 00s
 http://tv.teleclub.xyz/envivo/Musica/MTV_00s/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png" group-title="M", TUDN
-http://tv.teleclub.xyz/envivo/Deportes/TUDN/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LLWkHuv.png" group-title="M", Afizzionados
-http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="M", Claro Sports
 http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8 
 
