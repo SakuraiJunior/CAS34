@@ -1,7 +1,7 @@
 #EXTM3U
 #Disponible en TV,Roku,Chromecast,m3u-ip.tv,VLC
 #
-#Actualizacion 30/AGO
+#Actualizacion 31/AGO
 
 #EXTINF:-1 tvg-logo="" group-title="G", Amas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -42,6 +42,9 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="G", Canal Catorce
 https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p6SrZoE.png" group-title="PV", Los Simpsons
+http://tv.teleclub.xyz/envivo/24_7/SIMPSONS_247/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="E", Cartoon Network 
 http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8
 
@@ -68,6 +71,9 @@ http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="E", Cartoonito 
 http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="PV", teleclub! 
+http://tv.teleclub.xyz/hls/welcome.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="M", CNN en Español 
 http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8 
@@ -132,6 +138,9 @@ http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_SCIENCES/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aFNCuzq.png" group-title="M", Discovery ID 
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_ID/index.m3u8 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="PV", teleclub! 
+http://tv.teleclub.xyz/hls/welcome.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="T", Discovery H&H 
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8 
 
@@ -172,7 +181,10 @@ http://tv.teleclub.xyz/envivo/Cultura/LOVENATURE_4K/index.m3u8
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_FAMILIA/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u14ElrR.png" group-title="M", HGTV 
-http://tv.teleclub.xyz/envivo/Cultura/HGTV/index.m3u8 
+http://tv.teleclub.xyz/envivo/Cultura/HGTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="PV", teleclub! 
+http://tv.teleclub.xyz/hls/welcome.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="T", Star Channel 
 http://tv.teleclub.xyz/envivo/Entretenimiento/STAR_CHANNEL/index.m3u8
@@ -270,6 +282,9 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wmb5sIF.png" group-title="T", SYFY 
 http://tv.teleclub.xyz/envivo/Entretenimiento/SYFY/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="PV", teleclub! 
+http://tv.teleclub.xyz/hls/welcome.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="T", MTV 
 http://tv.teleclub.xyz/envivo/Musica/MTV/index.m3u8 
 
@@ -290,6 +305,9 @@ http://tv.teleclub.xyz/envivo/Musica/NICK_MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Yj2d1q.png" group-title="T", MTV 00s
 http://tv.teleclub.xyz/envivo/Musica/MTV_00s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="PV", teleclub! 
+http://tv.teleclub.xyz/hls/welcome.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="M", Claro Sports
 http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8 
