@@ -12,9 +12,6 @@ http://166.0.208.26:4481/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/fbPkCsvbzzaR5kKX6" group-title="G" ImagenTV
 http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXzhTvU4Of2a34GHbtaz9GmnnT33R0usbL8w&usqp=CAU" group-title="G" EfektoTV
-https://cdn.jwplayer.com/manifests/bez1terN.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg" group-title="G" Multimedios
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
