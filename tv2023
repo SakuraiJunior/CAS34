@@ -6,10 +6,10 @@
 #EXTINF:-1 tvg-logo="" group-title="G", Amas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="G" El5
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/zD9pjHB9amTgoFYv9" group-title="G" El5
 http://166.0.208.26:4481/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="G" ImagenTV
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/fbPkCsvbzzaR5kKX6" group-title="G" ImagenTV
 http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="G" EfektoTV
