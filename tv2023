@@ -120,6 +120,9 @@ http://tv.teleclub.xyz/envivo/Mundo/ANTENA3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d2SXEFp.png" group-title="M", DW en Español 
 http://tv.teleclub.xyz/envivo/Mundo/DW_Spanish/index.m3u8 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="PV", teleclub! 
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_01/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbrBFPQ.png" group-title="M", Food Network 
 http://tv.teleclub.xyz/envivo/Cultura/FOOD_NETWORK/index.m3u8 
 
@@ -136,7 +139,7 @@ http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_SCIENCES/index.m3u8
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_ID/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="PV", teleclub! 
-http://tv.teleclub.xyz/hls/welcome.m3u8
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_02/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="T", Discovery H&H 
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8 
@@ -181,7 +184,7 @@ http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_FAMILIA/index.m3u8
 http://tv.teleclub.xyz/envivo/Cultura/HGTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="PV", teleclub! 
-http://tv.teleclub.xyz/hls/welcome.m3u8
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_04/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="T", Star Channel 
 http://tv.teleclub.xyz/envivo/Entretenimiento/STAR_CHANNEL/index.m3u8
@@ -280,7 +283,7 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_COMEDY/index.m3u8
 http://tv.teleclub.xyz/envivo/Entretenimiento/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="PV", teleclub! 
-http://tv.teleclub.xyz/hls/welcome.m3u8
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_05/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="T", MTV 
 http://tv.teleclub.xyz/envivo/Musica/MTV/index.m3u8 
