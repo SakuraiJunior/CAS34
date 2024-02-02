@@ -9,6 +9,7 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/300px-Milenio_Television.png", Milenio https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png", Cartoonito http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg", Cartoon Network http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg", Nick http://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Retro-2023.png", EnerGeek Retro http://tv.teleclub.xyz/envivo/Infantil/ENERGEEK_RETRO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png", CNN en Español http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png", RT en Español http://tv.teleclub.xyz/envivo/Mundo/RT_ESPANOL/index.m3u8
@@ -59,7 +60,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png", TUDN http://tv.teleclub.xyz/envivo/Deportes/TUDN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LLWkHuv.png", Afizzionados http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jb1eOCi.jpg", Claro Sports http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/d9iC8v1.jpg", ESPN 1 MX http://tv.teleclub.xyz/envivo/Deportes/ESPN_MX/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9iC8v1.jpg", ESPN 1 MX http://tv.teleclub.xyz/envivo/Deportes/ESPN_MX/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8lWxsCT.jpg", ESPN 2 MX http://tv.teleclub.xyz/envivo/Deportes/ESPN_2_MX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sPhaUD9.jpg", ESPN 3 MX http://tv.teleclub.xyz/envivo/Deportes/ESPN_3_MX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rMt4skq.jpg", Fox Sports 1 MX http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_MX/index.m3u8 
