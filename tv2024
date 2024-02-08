@@ -15,11 +15,10 @@
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1200_Bayres_TV.png", Bayres TV https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/241_Litus_TV.png", Litus TV https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1364_Retro_Magico.png", Retro Magico https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
-#
-#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL ✪ | CL
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1513" tvg-name="Kan 11" tvg-logo="https://cdn.m3u.cl/logo/1513_Kan_11.png", Kan 11 ✪ | IL
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/212_Link_TV.png", Link TV https://panel.dattalive.com:443/8128_1/8128_1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1277_Flash___Freetv_com.png", Flash https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-id="1512" tvg-name="Palestine TV" tvg-logo="https://cdn.m3u.cl/logo/1512_Palestine_TV.png", Palestine TV ✪ | PS
 https://pbc.furrera.ps/palestinehd/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1421" tvg-name="13 Kids" tvg-logo="https://cdn.m3u.cl/logo/1421_13_Kids.png", 13 Kids | CL
