@@ -28,3 +28,6 @@
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png", Cartoon Network http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png", BitMe http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png", Distrito Comedia http://45.5.117.182:8000/play/ihf9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/3d543690d890b9a5918a8025aebcf2bc.png", Terror TV https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_e37a1e904f894f27bec3a475e98ba136~mv2.jpg", My Time Network https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AdsItgE.png", EnerGeek Fanpop https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
