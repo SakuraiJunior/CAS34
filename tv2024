@@ -17,6 +17,8 @@
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1364_Retro_Magico.png", Retro Magico https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/212_Link_TV.png", Link TV https://panel.dattalive.com:443/8128_1/8128_1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1277_Flash___Freetv_com.png", Flash https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/97_Canela_TV.png", Canela TV https://59d39900ebfb8.streamlock.net:443/canelatv/canelatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/98_CineCable_TV.png", CineCable TV https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-id="1512" tvg-name="Palestine TV" tvg-logo="https://cdn.m3u.cl/logo/1512_Palestine_TV.png", Palestine TV ✪ | PS
