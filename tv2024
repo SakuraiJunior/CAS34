@@ -1,6 +1,5 @@
 #EXTM3U
-#playlist: https://raw.githubusercontent.com/SakuraiJunior/CAS34/main/tv2024.m3u
-Disponible para ProgTV, IOS, Android, TV, Roku
+#Disponible para ProgTV, IOS, Android, TV, Roku
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png", ADN 40 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Azteca_Uno_%282020%29.svg", Azteca Uno https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
