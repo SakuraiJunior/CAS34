@@ -40,4 +40,4 @@
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072018/untitled-1_217.png?PZIaGxeEBXOkzEkCwtjpABr1vGTwUv2u&itok=0mfJ1Jvm", NU9VE https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png", Cine Premium http://191.97.60.193:10000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png", Estrella TV https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Retro-2023.png", EnerGeek Retro https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Retro-2023.png", EnerGeek https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
