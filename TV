@@ -1,0 +1,171 @@
+#EXTINF:-1 group-title="Entretenimiento", ComedyCentral
+http://181.78.105.146:2000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Infantil", CartoonNetwork
+http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="Infantil", Discovery kids
+http://181.78.105.146:2000/play/a015/index.m3u8
+#EXTINF:-1 group-title="Infantil", NICKELODEON
+http://181.78.105.146:2000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Vanidad", Home&Health
+http://181.78.105.146:2000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento", TNT Series
+http://181.78.105.146:2000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Cine", TNT
+http://181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento", SONY
+http://181.78.105.146:2000/play/a002/index.m3u8
+#EXTINF:-1 group-title="TV abierta", Azteca Uno
+http://181.78.105.146:2000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="TV abierta", Las Estrellas
+http://181.78.105.146:2000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="TV abierta", ImagenTV
+http://181.78.105.146:2000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="TV abierta", El5
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 group-title="TV abierta",Multimedios
+http://181.78.105.146:2000/play/a039/index.m3u8
+#EXTINF:-1 group-title="TV abierta", Azteca7
+http://181.78.105.146:2000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="TV abierta", ONCE
+http://181.78.105.146:2000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Canal 14
+http://181.78.105.146:2000/play/a044/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",UNAM
+http://181.78.105.146:2000/play/a045/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Canal22
+http://181.78.105.146:2000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Congreso
+http://181.78.105.146:2000/play/a046/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",MVSTV
+http://181.78.105.146:2000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Universal
+http://181.78.105.146:2000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",WB
+http://181.78.105.146:2000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",FX
+http://181.78.105.146:2000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Space MX
+http://181.78.105.146:2000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",A&E
+http://181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Investigation Discovery La
+http://181.78.105.146:2000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",TLC
+http://181.78.105.146:2000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Lifetime
+http://181.78.105.146:2000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",HOLA
+http://181.78.105.146:2000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",E!
+http://181.78.105.146:2000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",VideRola
+http://181.78.105.146:2000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Teleritmo
+http://181.78.105.146:2000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",OnceKids
+http://181.78.105.146:2000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",DisneyJR
+http://181.78.105.146:2000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",AprendeTV2
+http://181.78.105.146:2000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",IngenioTV
+http://181.78.105.146:2000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Discovery
+http://181.78.105.146:2000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",NatGeo
+http://181.78.105.146:2000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",History
+http://181.78.105.146:2000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",History2
+http://181.78.105.146:2000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Arts
+http://181.78.105.146:2000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Claro Sport
+http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN 2
+http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN3
+http://181.78.105.146:2000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",CNNE
+http://181.78.105.146:2000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Milenio
+http://181.78.105.146:2000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",TVC
+http://181.78.105.146:2000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Judicial
+http://181.78.105.146:2000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",MC
+http://181.78.105.146:2000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",CineCanal O
+http://181.78.105.146:2000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Films
+http://181.78.105.146:2000/play/a08i/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",StudioUniversal
+http://181.78.105.146:2000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",Paramount
+http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", AGROTENDENCIA
+http://181.78.105.146:2000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", Azteca 7
+http://181.78.105.146:2000/play/a08z/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", BANDAMAX
+http://181.78.105.146:2000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", CTV CANAL
+http://181.78.105.146:2000/play/a08s/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", Canal 27 GT
+http://181.78.105.146:2000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", Caracol TV
+http://181.78.105.146:2000/play/a092/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", DE PELICULA
+http://181.78.105.146:2000/play/a090/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", Distrito Comedia
+http://181.78.105.146:2000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", Fox Deportes
+http://181.78.105.146:2000/play/a093/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", GOLDEN EDGE
+http://181.78.105.146:2000/play/a08k/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", Gol TV
+http://181.78.105.146:2000/play/a094/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", SKY
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", STARZ 1
+http://181.78.105.146:2000/play/a097/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", TELENOVELAS
+http://181.78.105.146:2000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", TN23
+http://181.78.105.146:2000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", TUDN
+http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", Tele Hit
+http://181.78.105.146:2000/play/a091/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", Telemundo Miami
+http://181.78.105.146:2000/play/a096/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", TyC Sports
+http://181.78.105.146:2000/play/a095/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", UNICABLE
+http://181.78.105.146:2000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", canal 13 Guate
+http://181.78.105.146:2000/play/a08p/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", rf
+http://181.78.105.146:2000/play/a098/index.m3u8
+#EXTINF:-1 group-title="Bics Variados", t13
+http://181.78.105.146:2000/play/a08c/index.m3u8
+
+#EXTINF:-1 group-title="Bics Variados",ABC
+http://livex.pop-app.live/s4n/poplive/ch340/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ACCN ESPN
+http://livex.pop-app.live/s4n/poplive/ch573/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",AFIZZIONADOS MX
+http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",AMC
+http://livex.pop-app.live/s4n/poplive/ch549/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ANIMAL PLANET
+http://livex.pop-app.live/s4n/poplive/ch208/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ANTENA3
+http://livex.pop-app.live/s4n/poplive/ch351/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",AXS TV
+http://livex.pop-app.live/s4n/poplive/ch564/playlist.m3u8
