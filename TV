@@ -1,144 +1,35 @@
-#EXTINF:-1 group-title="TV abierta", Nu9ve
-https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento", ComedyCentral
-http://181.78.105.146:2000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="Infantil", CartoonNetwork
-http://181.78.105.146:2000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="Infantil", Discovery kids
-http://181.78.105.146:2000/play/a015/index.m3u8
-#EXTINF:-1 group-title="Infantil", Nick
-http://181.78.105.146:2000/play/a014/index.m3u8
-#EXTINF:-1 group-title="Vanidad", Home&Health
-http://181.78.105.146:2000/play/a03g/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento", TNT Series
-http://181.78.105.146:2000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Cine", TNT
-http://181.78.105.146:2000/play/a018/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento", SONY
-http://181.78.105.146:2000/play/a002/index.m3u8
-#EXTINF:-1 group-title="TV abierta", Azteca Uno
-http://181.78.105.146:2000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="TV abierta", ADN40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="TV abierta", Las Estrellas
-http://181.78.105.146:2000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="TV abierta", ImagenTV
-http://181.78.105.146:2000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="TV abierta", El5
-http://181.78.105.146:2000/play/a038/index.m3u8
-#EXTINF:-1 group-title="TV abierta",Multimedios
-http://181.78.105.146:2000/play/a039/index.m3u8
-#EXTINF:-1 group-title="TV abierta", Azteca7
-http://181.78.105.146:2000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="TV abierta", ONCE
-http://181.78.105.146:2000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="TV abierta", Canal 14
-http://181.78.105.146:2000/play/a044/index.m3u8
-#EXTINF:-1 group-title="TV abierta", UNAM
-http://181.78.105.146:2000/play/a045/index.m3u8
-#EXTINF:-1 group-title="TV abierta", ForoTV
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1 group-title="Cultura", Canal22
-http://181.78.105.146:2000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento", MVSTV
-http://181.78.105.146:2000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento", Universal
-http://181.78.105.146:2000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento", WarnerTV
-http://181.78.105.146:2000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento", AXN
-http://181.78.105.146:2000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento", FX
-http://181.78.105.146:2000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento", Space MX
-http://181.78.105.146:2000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento", A&E
-http://181.78.105.146:2000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento", Discovery ID
-http://181.78.105.146:2000/play/a04y/index.m3u8
-#EXTINF:-1 group-title="Educacion", TLC
-http://181.78.105.146:2000/play/a03h/index.m3u8
-#EXTINF:-1 group-title="Vanidad", Lifetime
-http://181.78.105.146:2000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="Vanidad", HOLA
-http://181.78.105.146:2000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Vanidad", E!
-http://181.78.105.146:2000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="Musica", VideRola
-http://181.78.105.146:2000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="Musica", Teleritmo
-http://181.78.105.146:2000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="Infantil", OnceNinos
-http://181.78.105.146:2000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="Infantil", DisneyJR
-http://181.78.105.146:2000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="Educacion", AprendeTV2
-http://181.78.105.146:2000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="Educacion", IngenioTV
-http://181.78.105.146:2000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="Cultura", Discovery
-http://181.78.105.146:2000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="Educacion", NatGeo
-http://181.78.105.146:2000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="Educacion", History
-http://181.78.105.146:2000/play/a017/index.m3u8
-#EXTINF:-1 group-title="Cultura", History2
-http://181.78.105.146:2000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Cultura", Arts
-http://181.78.105.146:2000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="Deportes", Claro Sport
-http://181.78.105.146:2000/play/a053/index.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN 2
-http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN
-http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN3
-http://181.78.105.146:2000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Deportes", Adrenalina
-https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Noticias", CNNE
-http://181.78.105.146:2000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="Noticias", Milenio
-http://181.78.105.146:2000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Noticias", TVC
-http://181.78.105.146:2000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="Cine", MC
-http://181.78.105.146:2000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Cine", CineCanal
-http://181.78.105.146:2000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="Cine", Films
-http://181.78.105.146:2000/play/a08i/index.m3u8
-#EXTINF:-1 group-title="Cine", StudioUniversal
-http://181.78.105.146:2000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="Cine", Paramount
-http://181.78.105.146:2000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Cultura", Agrotendencia 
-http://181.78.105.146:2000/play/a08b/index.m3u8
-#EXTINF:-1 group-title="Musica", BANDAMAX
-http://181.78.105.146:2000/play/a08h/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento", CTV CANAL
-http://181.78.105.146:2000/play/a08s/index.m3u8
-#EXTINF:-1 group-title="Cine", De Pelicula
-http://181.78.105.146:2000/play/a090/index.m3u8
-#EXTINF:-1 group-title="Cine", Golden Edge
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Entrenamiento", Distrito Comedia
-http://181.78.105.146:2000/play/a08t/index.m3u8
-#EXTINF:-1 group-title="Deportes", Fox Deportes
-http://181.78.105.146:2000/play/a093/index.m3u8
-#EXTINF:-1 group-title="Deportes", Gol TV
-http://181.78.105.146:2000/play/a094/index.m3u8
-#EXTINF:-1 group-title="Deportes", Skysports
-http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="Cultura", Tlnovelas
-http://181.78.105.146:2000/play/a08d/index.m3u8
-#EXTINF:-1 group-title="Deportes", TUDN
-http://181.78.105.146:2000/play/a08j/index.m3u8
-#EXTINF:-1 group-title="Musica", TeleHit
-http://181.78.105.146:2000/play/a091/index.m3u8
-#EXTINF:-1 group-title="Vanidad", Telemundo Miami
-http://181.78.105.146:2000/play/a096/index.m3u8
-#EXTINF:-1 group-title="Vanidad", Unicable
-http://181.78.105.146:2000/play/a08f/index.m3u8
-#EXTINF:-1 group-title="TV abierta", Telemax Sonora
-http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="About", TeleClub http://tv.teleclub.xyz/hls/welcome.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr http://tv.teleclub.xyz/envivo/Infantil/DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="Infantil", Discovery Kids http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", Nick http://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", Nick Jr http://tv.teleclub.xyz/envivo/Infantil/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Infantil", Tooncast http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Infantil", Bitme http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="Infantil", Cartoonito http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Retro-2023.png" group-title="Infantil", EnerGeek Retro http://tv.teleclub.xyz/envivo/Infantil/ENERGEEK_RETRO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="Mundo", CNN en Español http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="Mundo", RT en Español http://tv.teleclub.xyz/envivo/Mundo/RT_ESPANOL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="Mundo", Lifetime http://tv.teleclub.xyz/envivo/Mundo/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="Mundo", HolaTV http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPDq82Q.png" group-title="Mundo", Canal E! http://tv.teleclub.xyz/envivo/Mundo/CANAL_E/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png" group-title="Mundo", Telemundo http://tv.teleclub.xyz/envivo/Mundo/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sCMrEpW.png" group-title="Mundo", Univision http://tv.teleclub.xyz/envivo/Mundo/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0A0KkZ2.png" group-title="Mundo", Antena 3 http://tv.teleclub.xyz/envivo/Mundo/ANTENA3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbrBFPQ.png" group-title="Cultura", Food Network http://tv.teleclub.xyz/envivo/Cultura/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura", Discovery Channel http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFNCuzq.png" group-title="Cultura", Discovery ID http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_ID/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", Discovery H&H http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura", History Channel http://tv.teleclub.xyz/envivo/Cultura/HISTORY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura", H2 http://tv.teleclub.xyz/envivo/Cultura/H2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="Cultura", National Geographic http://tv.teleclub.xyz/envivo/Cultura/NATGEO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cultura", A&E http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
+
+
+#EXTINF:-1 group-title="TV abierta", Telemax Sonora http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="TV abierta", ADN40 http://tv.teleclub.xyz/envivo/Mundo/ADN40/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="TV abierta", Las Estrellas http://tv.teleclub.xyz/envivo/Mundo/LAS_ESTRELLAS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="TV abierta", Azteca7 http://tv.teleclub.xyz/envivo/Mundo/AZTECA7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/skzoiz9.png" group-title="TV abierta", Azteca Uno http://tv.teleclub.xyz/envivo/Mundo/AZTECA_UNO/index.m3u8 
