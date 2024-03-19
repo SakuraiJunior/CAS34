@@ -28,67 +28,67 @@ http://181.78.105.146:2000/play/a039/index.m3u8
 http://181.78.105.146:2000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="TV abierta", ONCE
 http://181.78.105.146:2000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Canal 14
+#EXTINF:-1 group-title="TV abierta",Canal 14
 http://181.78.105.146:2000/play/a044/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",UNAM
+#EXTINF:-1 group-title="TV abierta",UNAM
 http://181.78.105.146:2000/play/a045/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Canal22
+#EXTINF:-1 group-title="TV abierta",Canal22
 http://181.78.105.146:2000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Congreso
+#EXTINF:-1 group-title="Politica",Congreso
 http://181.78.105.146:2000/play/a046/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",MVSTV
+#EXTINF:-1 group-title="Entretenimiento",MVSTV
 http://181.78.105.146:2000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Universal
+#EXTINF:-1 group-title="Entretenimiento",Universal
 http://181.78.105.146:2000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",WB
+#EXTINF:-1 group-title="Entretenimiento",WB
 http://181.78.105.146:2000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",AXN
+#EXTINF:-1 group-title="Entretenimiento",AXN
 http://181.78.105.146:2000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",FX
+#EXTINF:-1 group-title="Entretenimiento",FX
 http://181.78.105.146:2000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Space MX
+#EXTINF:-1 group-title="Entretenimiento",Space MX
 http://181.78.105.146:2000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",A&E
+#EXTINF:-1 group-title="Entretenimiento",A&E
 http://181.78.105.146:2000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Investigation Discovery La
+#EXTINF:-1 group-title="Entretenimiento", Discovery ID
 http://181.78.105.146:2000/play/a04y/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",TLC
+#EXTINF:-1 group-title="Educacion",TLC
 http://181.78.105.146:2000/play/a03h/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Lifetime
+#EXTINF:-1 group-title="Vanidad",Lifetime
 http://181.78.105.146:2000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",HOLA
+#EXTINF:-1 group-title="Vanidad",HOLA
 http://181.78.105.146:2000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",E!
+#EXTINF:-1 group-title="Vanidad",E!
 http://181.78.105.146:2000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",VideRola
+#EXTINF:-1 group-title="Musica",VideRola
 http://181.78.105.146:2000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Teleritmo
+#EXTINF:-1 group-title="Musica",Teleritmo
 http://181.78.105.146:2000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",OnceKids
+#EXTINF:-1 group-title="Infantil",OnceKids
 http://181.78.105.146:2000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",DisneyJR
+#EXTINF:-1 group-title="Infantil",DisneyJR
 http://181.78.105.146:2000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",AprendeTV2
+#EXTINF:-1 group-title="Educacion",AprendeTV2
 http://181.78.105.146:2000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",IngenioTV
+#EXTINF:-1 group-title="Educacion",IngenioTV
 http://181.78.105.146:2000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Discovery
+#EXTINF:-1 group-title="Cultura",Discovery
 http://181.78.105.146:2000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",NatGeo
+#EXTINF:-1 group-title="Educacion",NatGeo
 http://181.78.105.146:2000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",History
+#EXTINF:-1 group-title="Educacion",History
 http://181.78.105.146:2000/play/a017/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",History2
+#EXTINF:-1 group-title="Cultura",History2
 http://181.78.105.146:2000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Arts
+#EXTINF:-1 group-title="Cultura",Arts
 http://181.78.105.146:2000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Claro Sport
+#EXTINF:-1 group-title="Deportes",Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",ESPN 2
+#EXTINF:-1 group-title="Deportes",ESPN 2
 http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",ESPN
+#EXTINF:-1 group-title="Deportes",ESPN
 http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",ESPN3
+#EXTINF:-1 group-title="Deportes",ESPN3
 http://181.78.105.146:2000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="Bics Variados",CNNE
 http://181.78.105.146:2000/play/a00x/index.m3u8
@@ -116,10 +116,6 @@ http://181.78.105.146:2000/play/a08z/index.m3u8
 http://181.78.105.146:2000/play/a08h/index.m3u8
 #EXTINF:-1 group-title="Bics Variados", CTV CANAL
 http://181.78.105.146:2000/play/a08s/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", Canal 27 GT
-http://181.78.105.146:2000/play/a08x/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", Caracol TV
-http://181.78.105.146:2000/play/a092/index.m3u8
 #EXTINF:-1 group-title="Bics Variados", DE PELICULA
 http://181.78.105.146:2000/play/a090/index.m3u8
 #EXTINF:-1 group-title="Bics Variados", Distrito Comedia
@@ -128,16 +124,14 @@ http://181.78.105.146:2000/play/a08t/index.m3u8
 http://181.78.105.146:2000/play/a093/index.m3u8
 #EXTINF:-1 group-title="Bics Variados", GOLDEN EDGE
 http://181.78.105.146:2000/play/a08k/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", Gol TV
+#EXTINF:-1 group-title="Deportes", Gol TV
 http://181.78.105.146:2000/play/a094/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", SKY
+#EXTINF:-1 group-title="Deportes", Skysports
 http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 group-title="Bics Variados", STARZ 1
 http://181.78.105.146:2000/play/a097/index.m3u8
 #EXTINF:-1 group-title="Bics Variados", TELENOVELAS
 http://181.78.105.146:2000/play/a08d/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", TN23
-http://181.78.105.146:2000/play/a08g/index.m3u8
 #EXTINF:-1 group-title="Bics Variados", TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 group-title="Bics Variados", Tele Hit
@@ -148,24 +142,5 @@ http://181.78.105.146:2000/play/a096/index.m3u8
 http://181.78.105.146:2000/play/a095/index.m3u8
 #EXTINF:-1 group-title="Bics Variados", UNICABLE
 http://181.78.105.146:2000/play/a08f/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", canal 13 Guate
-http://181.78.105.146:2000/play/a08p/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", rf
-http://181.78.105.146:2000/play/a098/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", t13
-http://181.78.105.146:2000/play/a08c/index.m3u8
-
-#EXTINF:-1 group-title="Bics Variados",ABC
-http://livex.pop-app.live/s4n/poplive/ch340/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",ACCN ESPN
-http://livex.pop-app.live/s4n/poplive/ch573/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",AFIZZIONADOS MX
-http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",AMC
-http://livex.pop-app.live/s4n/poplive/ch549/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",ANIMAL PLANET
-http://livex.pop-app.live/s4n/poplive/ch208/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",ANTENA3
-http://livex.pop-app.live/s4n/poplive/ch351/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",AXS TV
-http://livex.pop-app.live/s4n/poplive/ch564/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", Telemax Sonora
+http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
