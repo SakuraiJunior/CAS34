@@ -1,10 +1,12 @@
+#EXTINF:-1 group-title="TV abierta", Nu9ve
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento", ComedyCentral
 http://181.78.105.146:2000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Infantil", CartoonNetwork
 http://181.78.105.146:2000/play/a03k/index.m3u8
 #EXTINF:-1 group-title="Infantil", Discovery kids
 http://181.78.105.146:2000/play/a015/index.m3u8
-#EXTINF:-1 group-title="Infantil", NICKELODEON
+#EXTINF:-1 group-title="Infantil", Nick
 http://181.78.105.146:2000/play/a014/index.m3u8
 #EXTINF:-1 group-title="Vanidad", Home&Health
 http://181.78.105.146:2000/play/a03g/index.m3u8
@@ -16,6 +18,8 @@ http://181.78.105.146:2000/play/a018/index.m3u8
 http://181.78.105.146:2000/play/a002/index.m3u8
 #EXTINF:-1 group-title="TV abierta", Azteca Uno
 http://181.78.105.146:2000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="TV abierta", ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 group-title="TV abierta", Las Estrellas
 http://181.78.105.146:2000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="TV abierta", ImagenTV
@@ -28,94 +32,96 @@ http://181.78.105.146:2000/play/a039/index.m3u8
 http://181.78.105.146:2000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="TV abierta", ONCE
 http://181.78.105.146:2000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="TV abierta",Canal 14
+#EXTINF:-1 group-title="TV abierta", Canal 14
 http://181.78.105.146:2000/play/a044/index.m3u8
-#EXTINF:-1 group-title="TV abierta",UNAM
+#EXTINF:-1 group-title="TV abierta", UNAM
 http://181.78.105.146:2000/play/a045/index.m3u8
-#EXTINF:-1 group-title="TV abierta",Canal22
+#EXTINF:-1 group-title="TV abierta", ForoTV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 group-title="Cultura", Canal22
 http://181.78.105.146:2000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Politica",Congreso
-http://181.78.105.146:2000/play/a046/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento",MVSTV
+#EXTINF:-1 group-title="Entretenimiento", MVSTV
 http://181.78.105.146:2000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Universal
+#EXTINF:-1 group-title="Entretenimiento", Universal
 http://181.78.105.146:2000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento",WarnerTV
+#EXTINF:-1 group-title="Entretenimiento", WarnerTV
 http://181.78.105.146:2000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento",AXN
+#EXTINF:-1 group-title="Entretenimiento", AXN
 http://181.78.105.146:2000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento",FX
+#EXTINF:-1 group-title="Entretenimiento", FX
 http://181.78.105.146:2000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Space MX
+#EXTINF:-1 group-title="Entretenimiento", Space MX
 http://181.78.105.146:2000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento",A&E
+#EXTINF:-1 group-title="Entretenimiento", A&E
 http://181.78.105.146:2000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento", Discovery ID
 http://181.78.105.146:2000/play/a04y/index.m3u8
-#EXTINF:-1 group-title="Educacion",TLC
+#EXTINF:-1 group-title="Educacion", TLC
 http://181.78.105.146:2000/play/a03h/index.m3u8
-#EXTINF:-1 group-title="Vanidad",Lifetime
+#EXTINF:-1 group-title="Vanidad", Lifetime
 http://181.78.105.146:2000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="Vanidad",HOLA
+#EXTINF:-1 group-title="Vanidad", HOLA
 http://181.78.105.146:2000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Vanidad",E!
+#EXTINF:-1 group-title="Vanidad", E!
 http://181.78.105.146:2000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="Musica",VideRola
+#EXTINF:-1 group-title="Musica", VideRola
 http://181.78.105.146:2000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="Musica",Teleritmo
+#EXTINF:-1 group-title="Musica", Teleritmo
 http://181.78.105.146:2000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="Infantil",OnceKids
+#EXTINF:-1 group-title="Infantil", OnceNinos
 http://181.78.105.146:2000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="Infantil",DisneyJR
+#EXTINF:-1 group-title="Infantil", DisneyJR
 http://181.78.105.146:2000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="Educacion",AprendeTV2
+#EXTINF:-1 group-title="Educacion", AprendeTV2
 http://181.78.105.146:2000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="Educacion",IngenioTV
+#EXTINF:-1 group-title="Educacion", IngenioTV
 http://181.78.105.146:2000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="Cultura",Discovery
+#EXTINF:-1 group-title="Cultura", Discovery
 http://181.78.105.146:2000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="Educacion",NatGeo
+#EXTINF:-1 group-title="Educacion", NatGeo
 http://181.78.105.146:2000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="Educacion",History
+#EXTINF:-1 group-title="Educacion", History
 http://181.78.105.146:2000/play/a017/index.m3u8
-#EXTINF:-1 group-title="Cultura",History2
+#EXTINF:-1 group-title="Cultura", History2
 http://181.78.105.146:2000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Cultura",Arts
+#EXTINF:-1 group-title="Cultura", Arts
 http://181.78.105.146:2000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="Deportes",Claro Sport
+#EXTINF:-1 group-title="Deportes", Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 2
+#EXTINF:-1 group-title="Deportes", ESPN 2
 http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN
+#EXTINF:-1 group-title="Deportes", ESPN
 http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN3
+#EXTINF:-1 group-title="Deportes", ESPN3
 http://181.78.105.146:2000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Noticias",CNNE
+#EXTINF:-1 group-title="Deportes", Adrenalina
+https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Noticias", CNNE
 http://181.78.105.146:2000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="Noticias",Milenio
+#EXTINF:-1 group-title="Noticias", Milenio
 http://181.78.105.146:2000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Noticias",TVC
+#EXTINF:-1 group-title="Noticias", TVC
 http://181.78.105.146:2000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="Politica",Judicial
-http://181.78.105.146:2000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="Cine",MC
+#EXTINF:-1 group-title="Cine", MC
 http://181.78.105.146:2000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Cine",CineCanal
+#EXTINF:-1 group-title="Cine", CineCanal
 http://181.78.105.146:2000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="Cine",Films
+#EXTINF:-1 group-title="Cine", Films
 http://181.78.105.146:2000/play/a08i/index.m3u8
-#EXTINF:-1 group-title="Cine",StudioUniversal
+#EXTINF:-1 group-title="Cine", StudioUniversal
 http://181.78.105.146:2000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="Cine",Paramount
+#EXTINF:-1 group-title="Cine", Paramount
 http://181.78.105.146:2000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="Cultura", Agrotendencia 
 http://181.78.105.146:2000/play/a08b/index.m3u8
 #EXTINF:-1 group-title="Musica", BANDAMAX
 http://181.78.105.146:2000/play/a08h/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", CTV CANAL
+#EXTINF:-1 group-title="Entretenimiento", CTV CANAL
 http://181.78.105.146:2000/play/a08s/index.m3u8
 #EXTINF:-1 group-title="Cine", De Pelicula
 http://181.78.105.146:2000/play/a090/index.m3u8
+#EXTINF:-1 group-title="Cine", Golden Edge
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Entrenamiento", Distrito Comedia
 http://181.78.105.146:2000/play/a08t/index.m3u8
 #EXTINF:-1 group-title="Deportes", Fox Deportes
