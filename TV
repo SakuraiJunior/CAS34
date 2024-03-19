@@ -40,7 +40,7 @@ http://181.78.105.146:2000/play/a046/index.m3u8
 http://181.78.105.146:2000/play/a03b/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento",Universal
 http://181.78.105.146:2000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento",WB
+#EXTINF:-1 group-title="Entretenimiento",WarnerTV
 http://181.78.105.146:2000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento",AXN
 http://181.78.105.146:2000/play/a05y/index.m3u8
@@ -90,57 +90,49 @@ http://181.78.105.146:2000/play/a063/index.m3u8
 http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN3
 http://181.78.105.146:2000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",CNNE
+#EXTINF:-1 group-title="Noticias",CNNE
 http://181.78.105.146:2000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Milenio
+#EXTINF:-1 group-title="Noticias",Milenio
 http://181.78.105.146:2000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",TVC
+#EXTINF:-1 group-title="Noticias",TVC
 http://181.78.105.146:2000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Judicial
+#EXTINF:-1 group-title="Politica",Judicial
 http://181.78.105.146:2000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",MC
+#EXTINF:-1 group-title="Cine",MC
 http://181.78.105.146:2000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",CineCanal O
+#EXTINF:-1 group-title="Cine",CineCanal
 http://181.78.105.146:2000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Films
+#EXTINF:-1 group-title="Cine",Films
 http://181.78.105.146:2000/play/a08i/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",StudioUniversal
+#EXTINF:-1 group-title="Cine",StudioUniversal
 http://181.78.105.146:2000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Paramount
+#EXTINF:-1 group-title="Cine",Paramount
 http://181.78.105.146:2000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", AGROTENDENCIA
+#EXTINF:-1 group-title="Cultura", Agrotendencia 
 http://181.78.105.146:2000/play/a08b/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", Azteca 7
-http://181.78.105.146:2000/play/a08z/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", BANDAMAX
+#EXTINF:-1 group-title="Musica", BANDAMAX
 http://181.78.105.146:2000/play/a08h/index.m3u8
 #EXTINF:-1 group-title="Bics Variados", CTV CANAL
 http://181.78.105.146:2000/play/a08s/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", DE PELICULA
+#EXTINF:-1 group-title="Cine", De Pelicula
 http://181.78.105.146:2000/play/a090/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", Distrito Comedia
+#EXTINF:-1 group-title="Entrenamiento", Distrito Comedia
 http://181.78.105.146:2000/play/a08t/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", Fox Deportes
+#EXTINF:-1 group-title="Deportes", Fox Deportes
 http://181.78.105.146:2000/play/a093/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", GOLDEN EDGE
-http://181.78.105.146:2000/play/a08k/index.m3u8
 #EXTINF:-1 group-title="Deportes", Gol TV
 http://181.78.105.146:2000/play/a094/index.m3u8
 #EXTINF:-1 group-title="Deportes", Skysports
 http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", STARZ 1
-http://181.78.105.146:2000/play/a097/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", TELENOVELAS
+#EXTINF:-1 group-title="Cultura", Tlnovelas
 http://181.78.105.146:2000/play/a08d/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", TUDN
+#EXTINF:-1 group-title="Deportes", TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", Tele Hit
+#EXTINF:-1 group-title="Musica", TeleHit
 http://181.78.105.146:2000/play/a091/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", Telemundo Miami
+#EXTINF:-1 group-title="Vanidad", Telemundo Miami
 http://181.78.105.146:2000/play/a096/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", TyC Sports
-http://181.78.105.146:2000/play/a095/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", UNICABLE
+#EXTINF:-1 group-title="Vanidad", Unicable
 http://181.78.105.146:2000/play/a08f/index.m3u8
-#EXTINF:-1 group-title="Bics Regionales", Telemax Sonora
+#EXTINF:-1 group-title="TV abierta", Telemax Sonora
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
