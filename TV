@@ -38,3 +38,5 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 group-title="Religion", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Infantil", LatinoKidsTV
+https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
