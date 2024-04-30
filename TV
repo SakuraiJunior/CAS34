@@ -25,7 +25,7 @@
 #EXTINF:-1 group-title="Infantil", LatinoKidsTV https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 #EXTINF:-1 group-title="Infantil", AnimeStation https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 group-title="Infantil", Retromagico https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
-#EXTINF:-1 group-title="Infantil", Cartoon Network 
+#EXTINF:-1 group-title="Entretenimiento", WOWtv https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Nacional", ImagenTV https://www.dailymotion.com/embed/video/x82z4if?autoplay=1
 #EXTINF:-1 group-title="Nacional", El Nueve https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento", AMC Latino https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
