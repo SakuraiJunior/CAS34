@@ -55,6 +55,7 @@
 #EXTINF:-1 group-title="Entretenimiento", DreikoTV https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento", Unicable https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Entretenimiento", Bitme https://linear-401.frequency.stream/dist/studio/401/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Entretenimiento", LocomotionTV http://51.222.85.85:81/hls/loco/index.m3u8?fbclid=IwZXh0bgNhZW0CMTEAAR1W1QsJSOESS5ZMnT6qOd-ffPA2v_7XGZR1gMz0b9zGay_ETNSY-tOWEak_aem_AYeElPdg7YggeCv2flvy8kwJ8OdfNHR4JM_0wNXjm3q-1eZc4vhUPOjJj7oQuz6FVi5WWFUFORTD6fIqjYDyuUc6
 #EXTINF:-1 group-title="Eventos", Canal TNT http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8
 #EXTINF:-1 group-title="Eventos", SpaceHD http://tv.teleclub.xyz/envivo/Entretenimiento/SPACE/index.m3u8
 #EXTINF:-1 group-title="Eventos", Cinemax http://tv.teleclub.xyz/envivo/Entretenimiento/CINEMAX/index.m3u8
