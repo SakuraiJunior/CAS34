@@ -37,6 +37,7 @@
 #EXTINF:-1 group-title="Deportes", MLB Network https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Deportes", Claro Sports https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 group-title="Deportes", Adrenalina https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Deportes", HiSport TV https://ythls-v2.onrender.com/channel/UCpWPnP8s0YbVpzhzg6Pk2iA.m3u8
 #EXTINF:-1 group-title="Infantil", Pandamax https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 group-title="Infantil", LatinoKidsTV https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 #EXTINF:-1 group-title="Infantil", AnimeStation https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
@@ -54,6 +55,7 @@
 #EXTINF:-1 group-title="Musica", TopLatino https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Musica", MTV Latino http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Musica", Videorola https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8
+#EXTINF:-1 group-title="Musica", Bandamax https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Religion", EWTN https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Religion", Mariavision https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 group-title="Religion", Nuestra Vision https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
