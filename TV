@@ -36,9 +36,7 @@
 #EXTINF:-1 group-title="Deportes", Claro Sports https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 group-title="Deportes", Adrenalina https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Deportes", HiSport TV https://ythls-v2.onrender.com/channel/UCpWPnP8s0YbVpzhzg6Pk2iA.m3u8
-#EXTINF:-1 group-title="Infantil", Pandamax https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 group-title="Infantil", LatinoKidsTV https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
-#EXTINF:-1 group-title="Infantil", AnimeStation https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 group-title="Infantil", Retromagico https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 group-title="Infantil", Toonami 90s http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 group-title="Infantil", Boing https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
