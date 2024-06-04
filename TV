@@ -15,7 +15,7 @@
 #EXTINF:-1 group-title="Nacional", El Nueve https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1 group-title="Nacional", El5 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 group-title="Noticias", NHK World https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
-#EXTINF:-1 group-title="Noticias", MilenioTV https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 group-title="Noticias", MilenioTV https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 group-title="Noticias", Galicia America https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="Noticias", NMas Media https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento", MVS https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
