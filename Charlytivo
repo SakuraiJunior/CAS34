@@ -7,3 +7,6 @@
 #EXTINF:-1 Tooncast , http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8
 #EXTINF:-1 Bitme , http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
 #EXTINF:-1 Cartoonito , http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8
+#EXTINF:-1 CNN en Español , http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
+#EXTINF:-1 RT en Español , http://tv.teleclub.xyz/envivo/Mundo/RT_ESPANOL/index.m3u8 
+#EXTINF:-1 Lifetime , http://tv.teleclub.xyz/envivo/Mundo/LIFETIME/index.m3u8
