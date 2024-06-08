@@ -5,7 +5,6 @@
 #EXTINF:-1 Nickelodeon http://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8
 #EXTINF:-1 Nick Jr , http://tv.teleclub.xyz/envivo/Infantil/NICK_JR/index.m3u8
 #EXTINF:-1 Tooncast , http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8
-#EXTINF:-1 Bitme , http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
 #EXTINF:-1 Cartoonito , http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8
 #EXTINF:-1 CNN en Español , http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
 #EXTINF:-1 RT en Español , http://tv.teleclub.xyz/envivo/Mundo/RT_ESPANOL/index.m3u8 
@@ -25,5 +24,10 @@
 #EXTINF:-1 Animal Planet , http://tv.teleclub.xyz/envivo/Cultura/ANIMAL_PLANET/index.m3u8 
 #EXTINF:-1 El Gourmet , http://tv.teleclub.xyz/envivo/Cultura/EL_GOURMET/index.m3u8 
 #EXTINF:-1 TLC , http://tv.teleclub.xyz/envivo/Cultura/TLC/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JRVqHBL.png" group-title="Cultura", ComedyCentral http://tv.teleclub.xyz/envivo/Cultura/COMEDYCENTRAL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4bBkM3X.png" group-title="Cultura", Distrito Comedia http://tv.teleclub.xyz/envivo/Cultura/DISTRITO_COMEDIA/index.m3u8
+#EXTINF:-1 ComedyCentral , http://tv.teleclub.xyz/envivo/Cultura/COMEDYCENTRAL/index.m3u8
+#EXTINF:-1 FX , http://tv.teleclub.xyz/envivo/Entretenimiento/FX/index.m3u8
+#EXTINF:-1 TBS , http://tv.teleclub.xyz/envivo/Entretenimiento/TBS/index.m3u8
+#EXTINF:-1 TNT , http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8
+#EXTINF:-1 TNT Series , http://tv.teleclub.xyz/envivo/Entretenimiento/TNT_SERIES/index.m3u8
+#EXTINF:-1 Cinemax , http://tv.teleclub.xyz/envivo/Entretenimiento/CINEMAX/index.m3u8
+#EXTINF:-1 Sony , http://tv.teleclub.xyz/envivo/Entretenimiento/SONY/index.m3u8
