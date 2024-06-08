@@ -10,3 +10,6 @@
 #EXTINF:-1 CNN en Español , http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
 #EXTINF:-1 RT en Español , http://tv.teleclub.xyz/envivo/Mundo/RT_ESPANOL/index.m3u8 
 #EXTINF:-1 Lifetime , http://tv.teleclub.xyz/envivo/Mundo/LIFETIME/index.m3u8
+#EXTINF:-1 RCN , http://tv.teleclub.xyz/envivo/Mundo/RCN/index.m3u8
+#EXTINF:-1 Telefe , http://tv.teleclub.xyz/envivo/Mundo/TELEFE/index.m3u8
+#EXTINF:-1 HolaTV , http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8
