@@ -1,5 +1,5 @@
 #EXTM3U
-#Actualizado version 1.3.4
+#Actualizado version 1.3.5
 #En caso de emergencia
 #
 #EXTINF:-1 group-title="Nacional", Las Estrellas https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
@@ -14,7 +14,7 @@
 #EXTINF:-1 group-title="Nacional", ImagenTV https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:-1 group-title="Nacional", El Nueve https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1 group-title="Nacional", El5 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 group-title="Noticias", ch1 <no-signal>
+#EXTINF:-1 group-title="Nacional", Canal Catorce https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 #EXTINF:-1 group-title="Noticias", MilenioTV https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 group-title="Noticias", Meganoticias https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Noticias", NMas Media https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
