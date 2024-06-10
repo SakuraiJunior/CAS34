@@ -1,4 +1,4 @@
-#EXTM3U
+te#EXTM3U
 #Actualizado version 1.3.5
 #En caso de emergencia
 #
@@ -17,6 +17,7 @@
 #EXTINF:-1 group-title="Nacional", Canal Catorce https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 #EXTINF:-1 group-title="Nacional", Canal22 CONACULTA https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 group-title="Nacional", MX NuestroCine https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
+#EXTINF:-1 group-title="Nacional", JusticiaTV https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 group-title="Noticias", Heraldo Television http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 group-title="Noticias", MilenioTV https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 group-title="Noticias", Meganoticias https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
@@ -35,6 +36,7 @@
 #EXTINF:-1 group-title="Deportes", FutbolNetwork https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
 #EXTINF:-1 group-title="Deportes", AYM Sports https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=6K3oCmmyWwwgUzsgPKyJ
 #EXTINF:-1 group-title="Deportes", Claro Sports https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+#EXTINF:-1 group-title="Deportes", CombaTV https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
 #EXTINF:-1 group-title="Infantil", LatinoKidsTV https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 #EXTINF:-1 group-title="Infantil", Retromagico https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 group-title="Infantil", Boing https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
