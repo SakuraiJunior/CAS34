@@ -32,6 +32,7 @@ te#EXTM3U
 #EXTINF:-1 group-title="Entretenimiento", EstrellaTV https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entretenimiento", Comedy Central http://181.78.105.146:2000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento", DreikoTV https://cloudvideo.servers10.com:8081/8138/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento", Tu Cine https://olympusamagi.amagi.tv/hls/amagi_hls_data_samsungus-tu-cine-us-samsungus/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&us_privacy=1YNY
 #EXTINF:-1 group-title="Deportes", ITV Deportes https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 #EXTINF:-1 group-title="Deportes", FutbolNetwork https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
 #EXTINF:-1 group-title="Deportes", AYM Sports https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=6K3oCmmyWwwgUzsgPKyJ
@@ -45,7 +46,7 @@ te#EXTM3U
 #EXTINF:-1 group-title="Infantil", Animakids https://is.gd/AdHqAP
 #EXTINF:-1 group-title="Infantil", Nickelodeon http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Musica", Teleritmo https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP3
-#EXTINF:-1 group-title="Musica", Tu Cine https://olympusamagi.amagi.tv/hls/amagi_hls_data_samsungus-tu-cine-us-samsungus/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:-1 group-title="Musica", 
 #EXTINF:-1 group-title="Musica", MTV Latino http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Musica", Videorola https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8
 #EXTINF:-1 group-title="Religion", EWTN https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
