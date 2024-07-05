@@ -36,11 +36,10 @@
 #EXTINF:-1 group-title="Deportes", ITV Deportes
 #EXTINF:-1 group-title="Deportes", FutbolNetwork https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
 #EXTINF:-1 group-title="Deportes", AYM Sports
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=6K3oCmmyWwwgUzsgPKyJ
 #EXTINF:-1 group-title="Deportes", Claro Sports https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 group-title="Deportes", CombaTV https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
 #EXTINF:-1 group-title="Infantil", Canela Kids https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-#EXTINF:-1 group-title="Infantil", Retromagico https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
+#EXTINF:-1 group-title="Infantil", Retromagico
 #EXTINF:-1 group-title="Infantil", Boing https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
 #EXTINF:-1 group-title="Infantil", Energeek https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
 #EXTINF:-1 group-title="Infantil", Animakids https://is.gd/AdHqAP
