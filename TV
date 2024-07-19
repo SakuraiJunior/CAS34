@@ -99,3 +99,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6nPAF0Q.png" group-title="Mundo", Caracol TV http://tv.teleclub.xyz/envivo/Mundo/CARACOLTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbrBFPQ.png" group-title="Cultura", Food Network http://tv.teleclub.xyz/envivo/Cultura/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura", Discovery Channel http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFNCuzq.png" group-title="Cultura", Discovery ID http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_ID/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", Discovery H&H http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura", History Channel http://tv.teleclub.xyz/envivo/Cultura/HISTORY/index.m3u8
