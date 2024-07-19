@@ -122,3 +122,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="Entretenimiento", Cinecanal http://tv.teleclub.xyz/envivo/Entretenimiento/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="Entretenimiento", HBO http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="Entretenimiento", HBO 2 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Edge http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_EDGE/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Premier http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_PREMIER/index.m3u8
