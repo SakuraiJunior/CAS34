@@ -131,3 +131,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wmb5sIF.png" group-title="Entretenimiento", SYFY http://tv.teleclub.xyz/envivo/Entretenimiento/SYFY/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica", MTV http://tv.teleclub.xyz/envivo/Musica/MTV/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica", MTV Hits http://tv.teleclub.xyz/envivo/Musica/MTV_HITS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eja3aRk.png" group-title="Musica", Telehit http://tv.teleclub.xyz/envivo/Musica/TELEHIT/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HATrmBq.png" group-title="Musica", TopLatino http://tv.teleclub.xyz/envivo/Musica/TOPLATINO/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Yj2d1q.png" group-title="Musica", MTV 00s http://tv.teleclub.xyz/envivo/Musica/MTV_00s/index.m3u8
