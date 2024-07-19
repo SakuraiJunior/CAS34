@@ -134,3 +134,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eja3aRk.png" group-title="Musica", Telehit http://tv.teleclub.xyz/envivo/Musica/TELEHIT/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HATrmBq.png" group-title="Musica", TopLatino http://tv.teleclub.xyz/envivo/Musica/TOPLATINO/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Yj2d1q.png" group-title="Musica", MTV 00s http://tv.teleclub.xyz/envivo/Musica/MTV_00s/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png" group-title="Deportes", TUDN http://tv.teleclub.xyz/envivo/Deportes/TUDN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LLWkHuv.png" group-title="Deportes", Afizzionados http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jb1eOCi.jpg" group-title="Deportes", Claro Sports http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
