@@ -137,3 +137,8 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png" group-title="Deportes", TUDN http://tv.teleclub.xyz/envivo/Deportes/TUDN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LLWkHuv.png" group-title="Deportes", Afizzionados http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jb1eOCi.jpg" group-title="Deportes", Claro Sports http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9iC8v1.jpg" group-title="Deportes", ESPN 1 MX http://tv.teleclub.xyz/envivo/Deportes/ESPN_MX/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8lWxsCT.jpg" group-title="Deportes", ESPN 2 MX http://tv.teleclub.xyz/envivo/Deportes/ESPN_2_MX/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMt4skq.jpg" group-title="Deportes", Fox Sports 1 MX http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_MX/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ammdun.jpg" group-title="Deportes", Fox Sports 2 MX http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_MX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XZ5pR4M.png" group-title="Deportes", Fox Sports Premium http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
