@@ -24,8 +24,8 @@
 #EXTINF:-1 ComedyCentral , http://tv.teleclub.xyz/envivo/Cultura/COMEDYCENTRAL/index.m3u8 
 #EXTINF:-1 Distrito Comedia , http://tv.teleclub.xyz/envivo/Cultura/DISTRITO_COMEDIA/index.m3u8
 #EXTINF:-1 Star Channel , http://tv.teleclub.xyz/envivo/Entretenimiento/STAR_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento", Universal TV , http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_TV/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento", Warner TV , http://tv.teleclub.xyz/envivo/Entretenimiento/WARNER_TV/index.m3u8 
+#EXTINF:-1 Universal TV , http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_TV/index.m3u8 
+#EXTINF:-1 Warner TV , http://tv.teleclub.xyz/envivo/Entretenimiento/WARNER_TV/index.m3u8 
 #EXTINF:-1 AXN , http://tv.teleclub.xyz/envivo/Entretenimiento/AXN/index.m3u8 
 #EXTINF:-1 Paramount , http://tv.teleclub.xyz/envivo/Entretenimiento/PARAMOUNT/index.m3u8 
 #EXTINF:-1 Studio Universal , http://tv.teleclub.xyz/envivo/Entretenimiento/STUDIO_UNIVERSAL/index.m3u8 
