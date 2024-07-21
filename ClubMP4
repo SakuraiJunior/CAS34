@@ -3,18 +3,18 @@
 #Playlist: https://acortar.link/TeISQd
 #
 
-#EXTINF:-1 Cartoon Network http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 Disney Channel http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 Discovery Kids http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8 
-#EXTINF:-1 Nick http://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8 
-#EXTINF:-1 Nick Jr http://tv.teleclub.xyz/envivo/Infantil/NICK_JR/index.m3u8 
-#EXTINF:-1 Tooncast http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8 
-#EXTINF:-1 Bitme http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
-#EXTINF:-1 CNN en Español http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="Mundo", HolaTV http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6nPAF0Q.png" group-title="Mundo", Caracol TV http://tv.teleclub.xyz/envivo/Mundo/CARACOLTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbrBFPQ.png" group-title="Cultura", Food Network http://tv.teleclub.xyz/envivo/Cultura/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura", Discovery Channel http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:-1 Cartoon Network , http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 Disney Channel , http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 Discovery Kids , http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8 
+#EXTINF:-1 Nick , http://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8 
+#EXTINF:-1 Nick Jr , http://tv.teleclub.xyz/envivo/Infantil/NICK_JR/index.m3u8 
+#EXTINF:-1 Tooncast , http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8 
+#EXTINF:-1 Bitme , http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
+#EXTINF:-1 CNN en Español , http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
+#EXTINF:-1 HolaTV , http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8
+#EXTINF:-1 Caracol TV , http://tv.teleclub.xyz/envivo/Mundo/CARACOLTV/index.m3u8
+#EXTINF:-1 Food Network , http://tv.teleclub.xyz/envivo/Cultura/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 Discovery Channel , http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aFNCuzq.png" group-title="Cultura", Discovery ID http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_ID/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", Discovery H&H http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura", History Channel http://tv.teleclub.xyz/envivo/Cultura/HISTORY/index.m3u8
@@ -45,16 +45,16 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento", SPACE http://tv.teleclub.xyz/envivo/Entretenimiento/SPACE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DByzHja.png" group-title="Entretenimiento", Universal Premiere http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wmb5sIF.png" group-title="Entretenimiento", SYFY http://tv.teleclub.xyz/envivo/Entretenimiento/SYFY/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica", MTV http://tv.teleclub.xyz/envivo/Musica/MTV/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica", MTV Hits http://tv.teleclub.xyz/envivo/Musica/MTV_HITS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eja3aRk.png" group-title="Musica", Telehit http://tv.teleclub.xyz/envivo/Musica/TELEHIT/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HATrmBq.png" group-title="Musica", TopLatino http://tv.teleclub.xyz/envivo/Musica/TOPLATINO/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Yj2d1q.png" group-title="Musica", MTV 00s http://tv.teleclub.xyz/envivo/Musica/MTV_00s/index.m3u8
-#EXTINF:-1 TUDN http://tv.teleclub.xyz/envivo/Deportes/TUDN/index.m3u8
-#EXTINF:-1 Afizzionados http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
-#EXTINF:-1 Claro Sports http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
-#EXTINF:-1 ESPN 1 MX http://tv.teleclub.xyz/envivo/Deportes/ESPN_MX/index.m3u8 
-#EXTINF:-1 ESPN 2 MX http://tv.teleclub.xyz/envivo/Deportes/ESPN_2_MX/index.m3u8 
-#EXTINF:-1 Fox Sports 1 MX http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_MX/index.m3u8 
-#EXTINF:-1 Fox Sports 2 MX http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_MX/index.m3u8
-#EXTINF:-1 Fox Sports Premium http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
+#EXTINF:-1 MTV , http://tv.teleclub.xyz/envivo/Musica/MTV/index.m3u8 
+#EXTINF:-1 MTV Hits , http://tv.teleclub.xyz/envivo/Musica/MTV_HITS/index.m3u8
+#EXTINF:-1 Telehit , http://tv.teleclub.xyz/envivo/Musica/TELEHIT/index.m3u8 
+#EXTINF:-1 TopLatino , http://tv.teleclub.xyz/envivo/Musica/TOPLATINO/index.m3u8 
+#EXTINF:-1 MTV 00s , http://tv.teleclub.xyz/envivo/Musica/MTV_00s/index.m3u8
+#EXTINF:-1 TUDN , http://tv.teleclub.xyz/envivo/Deportes/TUDN/index.m3u8
+#EXTINF:-1 Afizzionados , http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
+#EXTINF:-1 Claro Sports , http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
+#EXTINF:-1 ESPN 1 MX , http://tv.teleclub.xyz/envivo/Deportes/ESPN_MX/index.m3u8 
+#EXTINF:-1 ESPN 2 MX , http://tv.teleclub.xyz/envivo/Deportes/ESPN_2_MX/index.m3u8 
+#EXTINF:-1 Fox Sports 1 MX , http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_MX/index.m3u8 
+#EXTINF:-1 Fox Sports 2 MX , http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_MX/index.m3u8
+#EXTINF:-1 Fox Sports Premium , http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
