@@ -19,29 +19,29 @@
 #EXTINF:-1 Discovery H&H , http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8
 #EXTINF:-1 History Channel , http://tv.teleclub.xyz/envivo/Cultura/HISTORY/index.m3u8
 #EXTINF:-1 A&E , http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fYvrHY2.png" group-title="Cultura", El Gourmet , http://tv.teleclub.xyz/envivo/Cultura/EL_GOURMET/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XW8CuxK.jpg" group-title="Cultura", TLC , http://tv.teleclub.xyz/envivo/Cultura/TLC/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JRVqHBL.png" group-title="Cultura", ComedyCentral , http://tv.teleclub.xyz/envivo/Cultura/COMEDYCENTRAL/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4bBkM3X.png" group-title="Cultura", Distrito Comedia , http://tv.teleclub.xyz/envivo/Cultura/DISTRITO_COMEDIA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Entretenimiento", Star Channel , http://tv.teleclub.xyz/envivo/Entretenimiento/STAR_CHANNEL/index.m3u8
+#EXTINF:-1 El Gourmet , http://tv.teleclub.xyz/envivo/Cultura/EL_GOURMET/index.m3u8
+#EXTINF:-1 TLC , http://tv.teleclub.xyz/envivo/Cultura/TLC/index.m3u8 
+#EXTINF:-1 ComedyCentral , http://tv.teleclub.xyz/envivo/Cultura/COMEDYCENTRAL/index.m3u8 
+#EXTINF:-1 Distrito Comedia , http://tv.teleclub.xyz/envivo/Cultura/DISTRITO_COMEDIA/index.m3u8
+#EXTINF:-1 Star Channel , http://tv.teleclub.xyz/envivo/Entretenimiento/STAR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento", Universal TV , http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_TV/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento", Warner TV , http://tv.teleclub.xyz/envivo/Entretenimiento/WARNER_TV/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento", AXN , http://tv.teleclub.xyz/envivo/Entretenimiento/AXN/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Entretenimiento", Paramount , http://tv.teleclub.xyz/envivo/Entretenimiento/PARAMOUNT/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Entretenimiento", Studio Universal , http://tv.teleclub.xyz/envivo/Entretenimiento/STUDIO_UNIVERSAL/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento", FX , http://tv.teleclub.xyz/envivo/Entretenimiento/FX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EOS4pd9.jpg" group-title="Entretenimiento", TBS , http://tv.teleclub.xyz/envivo/Entretenimiento/TBS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="Entretenimiento", TNT , http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Entretenimiento", TNT Series , http://tv.teleclub.xyz/envivo/Entretenimiento/TNT_SERIES/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Entretenimiento", Cinemax , http://tv.teleclub.xyz/envivo/Entretenimiento/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento", Sony , http://tv.teleclub.xyz/envivo/Entretenimiento/SONY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="Entretenimiento", Cinecanal , http://tv.teleclub.xyz/envivo/Entretenimiento/CINECANAL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="Entretenimiento", HBO , http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="Entretenimiento", HBO 2 , http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden , http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Edge , http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_EDGE/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Premier , http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_PREMIER/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Entretenimiento", AMC , http://tv.teleclub.xyz/envivo/Entretenimiento/AMC/index.m3u8
+#EXTINF:-1 AXN , http://tv.teleclub.xyz/envivo/Entretenimiento/AXN/index.m3u8 
+#EXTINF:-1 Paramount , http://tv.teleclub.xyz/envivo/Entretenimiento/PARAMOUNT/index.m3u8 
+#EXTINF:-1 Studio Universal , http://tv.teleclub.xyz/envivo/Entretenimiento/STUDIO_UNIVERSAL/index.m3u8 
+#EXTINF:-1 FX , http://tv.teleclub.xyz/envivo/Entretenimiento/FX/index.m3u8
+#EXTINF:-1 TBS , http://tv.teleclub.xyz/envivo/Entretenimiento/TBS/index.m3u8
+#EXTINF:-1 TNT , http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8 
+#EXTINF:-1 TNT Series , http://tv.teleclub.xyz/envivo/Entretenimiento/TNT_SERIES/index.m3u8 
+#EXTINF:-1 Cinemax , http://tv.teleclub.xyz/envivo/Entretenimiento/CINEMAX/index.m3u8
+#EXTINF:-1 Sony , http://tv.teleclub.xyz/envivo/Entretenimiento/SONY/index.m3u8
+#EXTINF:-1 Cinecanal , http://tv.teleclub.xyz/envivo/Entretenimiento/CINECANAL/index.m3u8
+#EXTINF:-1 HBO , http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
+#EXTINF:-1 HBO 2 , http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8
+#EXTINF:-1 Golden , http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN/index.m3u8 
+#EXTINF:-1 Golden Edge , http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_EDGE/index.m3u8 
+#EXTINF:-1 Golden Premier , http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_PREMIER/index.m3u8
+#EXTINF:-1 AMC , http://tv.teleclub.xyz/envivo/Entretenimiento/AMC/index.m3u8
 #EXTINF:-1 SPACE , http://tv.teleclub.xyz/envivo/Entretenimiento/SPACE/index.m3u8
 #EXTINF:-1 Universal Premiere , http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
 #EXTINF:-1 Syfy , http://tv.teleclub.xyz/envivo/Entretenimiento/SYFY/index.m3u8 
