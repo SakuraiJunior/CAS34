@@ -8,9 +8,9 @@
 #EXTINF:-1 Discovery Kids http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8 
 #EXTINF:-1 Nick http://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8 
 #EXTINF:-1 Nick Jr http://tv.teleclub.xyz/envivo/Infantil/NICK_JR/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Infantil", Tooncast http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Infantil", Bitme http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="Mundo", CNN en Español http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
+#EXTINF:-1 Tooncast http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8 
+#EXTINF:-1 Bitme http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
+#EXTINF:-1 CNN en Español http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="Mundo", HolaTV http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6nPAF0Q.png" group-title="Mundo", Caracol TV http://tv.teleclub.xyz/envivo/Mundo/CARACOLTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbrBFPQ.png" group-title="Cultura", Food Network http://tv.teleclub.xyz/envivo/Cultura/FOOD_NETWORK/index.m3u8
@@ -50,33 +50,11 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eja3aRk.png" group-title="Musica", Telehit http://tv.teleclub.xyz/envivo/Musica/TELEHIT/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HATrmBq.png" group-title="Musica", TopLatino http://tv.teleclub.xyz/envivo/Musica/TOPLATINO/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Yj2d1q.png" group-title="Musica", MTV 00s http://tv.teleclub.xyz/envivo/Musica/MTV_00s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png" group-title="Deportes", TUDN http://tv.teleclub.xyz/envivo/Deportes/TUDN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LLWkHuv.png" group-title="Deportes", Afizzionados http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jb1eOCi.jpg" group-title="Deportes", Claro Sports http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d9iC8v1.jpg" group-title="Deportes", ESPN 1 MX http://tv.teleclub.xyz/envivo/Deportes/ESPN_MX/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8lWxsCT.jpg" group-title="Deportes", ESPN 2 MX http://tv.teleclub.xyz/envivo/Deportes/ESPN_2_MX/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rMt4skq.jpg" group-title="Deportes", Fox Sports 1 MX http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_MX/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ammdun.jpg" group-title="Deportes", Fox Sports 2 MX http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_MX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XZ5pR4M.png" group-title="Deportes", Fox Sports Premium http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g7Csa8G.png" group-title="24_7", Principe del Rap http://tv.teleclub.xyz/envivo/24_7/PRINCIPE_DEL_RAP/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kcfLruN.png" group-title="24_7", Correcaminos http://tv.teleclub.xyz/envivo/24_7/CORRECAMINOS/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FkxGND0.png" group-title="24_7", Dinosaurios http://tv.teleclub.xyz/envivo/24_7/DINOSAURIOS/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wSQ95AD.png" group-title="24_7", Ben 10 http://tv.teleclub.xyz/envivo/24_7/BEN_10/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CTGEBdg.png" group-title="24_7", Los Pitufos http://tv.teleclub.xyz/envivo/24_7/SIMPSONS_247/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FS44Hp0.png" group-title="24_7", Dragon Ball http://tv.teleclub.xyz/envivo/24_7/DRAGON_BALL/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kpP4ARk.png" group-title="24_7", South Park http://tv.teleclub.xyz/envivo/24_7/SOUTH_PARK/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xX3Ksnj.png" group-title="24_7", ALF http://tv.teleclub.xyz/envivo/24_7/ALF/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JquJMTJ.png" group-title="24_7", Familia Peluche http://tv.teleclub.xyz/envivo/24_7/FAMILIA_PELUCHE/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JZGBqhd.png" group-title="24_7", Chavo del 8 http://tv.teleclub.xyz/envivo/24_7/CHAVO_8/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4vGK5VS.png" group-title="24_7", CHESPIRITO http://tv.teleclub.xyz/envivo/24_7/CHESPIRITO/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OLgiV4Y.png" group-title="24_7", Don Gato y su Pandilla http://tv.teleclub.xyz/envivo/24_7/DON_GATO/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m0lPshk.png" group-title="24_7", Mi Bella Genio http://tv.teleclub.xyz/envivo/24_7/BELLA_GENIO/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/izriGGO.png" group-title="24_7", El Chapulin Colorado http://tv.teleclub.xyz/envivo/24_7/CHAPULIN_COLORADO/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i2xKu4B.png" group-title="24_7", Digimon http://tv.teleclub.xyz/envivo/24_7/DIGIMON/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24_7", Terror 24/7 http://tv.teleclub.xyz/envivo/24_7/TERROR_247/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ePRV57v.png" group-title="24_7", LOONEY TOONS http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jylQ77z.png" group-title="24_7", Alerta Aeropuerto http://tv.teleclub.xyz/envivo/24_7/ALERTA_AEROPUERTO/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="24_7", La Rosa de Guadalupe http://tv.teleclub.xyz/envivo/24_7/LAROSA_DEGUADALUPE/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q3KJSUO.png" group-title="24_7", Padre de Familia http://tv.teleclub.xyz/envivo/24_7/PADRE_DE_FAMILIA/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CWFgnoI.png" group-title="24_7", Los Simpsons http://tv.teleclub.xyz/envivo/24_7/LOS_SIMPSONS/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/it1OidM.png" group-title="24_7", Doraemon http://tv.teleclub.xyz/envivo/24_7/DORAEMON/index.m3u8
+#EXTINF:-1 TUDN http://tv.teleclub.xyz/envivo/Deportes/TUDN/index.m3u8
+#EXTINF:-1 Afizzionados http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
+#EXTINF:-1 Claro Sports http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
+#EXTINF:-1 ESPN 1 MX http://tv.teleclub.xyz/envivo/Deportes/ESPN_MX/index.m3u8 
+#EXTINF:-1 ESPN 2 MX http://tv.teleclub.xyz/envivo/Deportes/ESPN_2_MX/index.m3u8 
+#EXTINF:-1 Fox Sports 1 MX http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_MX/index.m3u8 
+#EXTINF:-1 Fox Sports 2 MX http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_MX/index.m3u8
+#EXTINF:-1 Fox Sports Premium http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
