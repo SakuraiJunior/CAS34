@@ -16,9 +16,9 @@
 #EXTINF:-1 Food Network , http://tv.teleclub.xyz/envivo/Cultura/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 Discovery Channel , http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_CHANNEL/index.m3u8
 #EXTINF:-1 Discovery ID , http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_ID/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", Discovery H&H , http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura", History Channel , http://tv.teleclub.xyz/envivo/Cultura/HISTORY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cultura", A&E , http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
+#EXTINF:-1 Discovery H&H , http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8
+#EXTINF:-1 History Channel , http://tv.teleclub.xyz/envivo/Cultura/HISTORY/index.m3u8
+#EXTINF:-1 A&E , http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYvrHY2.png" group-title="Cultura", El Gourmet , http://tv.teleclub.xyz/envivo/Cultura/EL_GOURMET/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XW8CuxK.jpg" group-title="Cultura", TLC , http://tv.teleclub.xyz/envivo/Cultura/TLC/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRVqHBL.png" group-title="Cultura", ComedyCentral , http://tv.teleclub.xyz/envivo/Cultura/COMEDYCENTRAL/index.m3u8 
@@ -42,7 +42,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Edge , http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_EDGE/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Premier , http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_PREMIER/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Entretenimiento", AMC , http://tv.teleclub.xyz/envivo/Entretenimiento/AMC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento", SPACE , http://tv.teleclub.xyz/envivo/Entretenimiento/SPACE/index.m3u8
+#EXTINF:-1 SPACE , http://tv.teleclub.xyz/envivo/Entretenimiento/SPACE/index.m3u8
 #EXTINF:-1 Universal Premiere , http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
 #EXTINF:-1 Syfy , http://tv.teleclub.xyz/envivo/Entretenimiento/SYFY/index.m3u8 
 #EXTINF:-1 MTV , http://tv.teleclub.xyz/envivo/Musica/MTV/index.m3u8 
