@@ -26,6 +26,8 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 #EXTINF:-1 group-title="Nacional", JusticiaTV
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1 group-title="Nacional", XHAK-TV
+https://ythls-v3.onrender.com/channel/UCyzWMHGS7bs0sot6KZk5EZg.m3u8
 
 #EXTINF:-1 group-title="Noticias", Heraldo Television
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
