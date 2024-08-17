@@ -94,3 +94,5 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/SPACE/index.m3u8
 http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
 #EXTINF :-1 group-title="Eventos", TNT SPORTS
 http://tv.teleclub.xyz/envivo/Entretenimiento/CINEMAX/index.m3u8
+#EXTINF :-1 group-title="Eventos", Golden Premier
+http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_PREMIER/index.m3u8
