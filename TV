@@ -35,7 +35,7 @@
 #EXTINF:-1 group-title="Infantil", tvg-channel="105", Canela Kids https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 group-title="Infantil", tvg-channel="110", Energeek https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
 #EXTINF:-1 group-title="Infantil", tvg-channel="115", Nickelodeon https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Infantil", tvg-channel="120", Pandamax https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 group-title="Infantil", tvg-channel="120", none
 #EXTINF:-1 group-title="Infantil", tvg-channel="125", Toonizaki https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 group-title="Infantil", tvg-channel="130", Anime Onegai https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Infantil", tvg-channel="135", Anime Onegai2 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
