@@ -1,11 +1,11 @@
 #EXTM3U
-#Actualizado version 1.5.1
+#Actualizado version 1.5.2
 #Playlist: https://raw.githubusercontent.com/SakuraiJunior/CAS34/main/TV.m3u
 #
 #EXTINF:-1 group-title="Nacional", Las Estrellas https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="Noticias", ForoTV https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 group-title="Nacional", Azteca Uno https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 group-title="Nacional", Azteca 7 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="Variedad", Azteca 7 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="Noticias", ADN 40 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 group-title="Variedad", A+ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 group-title="Cultura", Canal Once https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
@@ -49,6 +49,6 @@
 #EXTINF:-1 tvg-channel="175", EWTN https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-channel="180", Mariavision https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-channel="185", AYMSports https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
-#EXTINF:-1 tvg-channel="190", none
+#EXTINF:-1 tvg-channel="190", Retromagico https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-channel="195", none
 #EXTINF:-1 tvg-channel="200", none
