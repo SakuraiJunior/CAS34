@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="Nacional", Las Estrellas https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="Noticias", ForoTV https://www.youtube.com/embed/Ulwgdf5t46o?si=-H1414T1jNvDCgUX&amp;controls=0
 #EXTINF:-1 group-title="Nacional", Azteca Uno https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
-#EXTINF:-1 group-title="Variedad", Azteca 7 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="Variedad", Azteca 7 
 #EXTINF:-1 group-title="Noticias", ADN 40 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 group-title="Variedad", AMas https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 group-title="Cultura", Canal Once https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
@@ -52,4 +52,4 @@
 #EXTINF:-1 tvg-channel="185", AYMSports https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 #EXTINF:-1 tvg-channel="190", Retromagico https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-channel="195", Azteca Deportes Network http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-channel="200", none
+#EXTINF:-1 tvg-channel="200", Videorola https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8
