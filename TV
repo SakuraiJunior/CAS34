@@ -1,5 +1,5 @@
 #EXTM3U
-#Actualizado version 1.5.9
+#Actualizado version 1.6.0
 #Playlist: https://acortar.link/cEjHWW
 #
 #EXTINF:-1 group-title="Nacional", Las Estrellas https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -16,7 +16,7 @@
 #EXTINF:-1 tvg-channel="012", Heraldo Television http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-channel="014", MilenioTV https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-channel="016", Meganoticias https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-channel="028", 
+#EXTINF:-1 tvg-channel="028", Once digital https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
 #EXTINF:-1 tvg-channel="0210", Canal44 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1 tvg-channel="0312", MVS https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-channel="0314", Estrella TV https://estrellatv-plex.amagi.tv/playlist.m3u8
