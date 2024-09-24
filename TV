@@ -38,10 +38,7 @@
 #EXTINF:-1 tvg-channel="1146", Nickelodeon https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-channel="1248", AMX Noticias https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-channel="1250", Toonizaki https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-channel="1352", Anime Onegai https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-channel="1354", Anime Onegai 2 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
-#EXTINF:-1 tvg-channel="1356", Anime Onegai 3 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11058
-#EXTINF:-1 tvg-channel="1358", Anime Onegai 4 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061
+#EXTINF:-1 tvg-channel="1352", Anime Onegai https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/playlist.m3u8 
 #EXTINF:-1 tvg-channel="1360", Hola Play https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-channel="1362", Sudoeste TV https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 #EXTINF:-1 tvg-channel="1464", Teleritmo https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP3
