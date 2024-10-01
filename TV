@@ -55,4 +55,12 @@
 #EXTINF:-1 tvg-channel="178", Videorola https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8
 #EXTINF:-1 tvg-channel="180", CN City https://envivo.cncity.live/hls/cncity.m3u8?fbclid=IwY2xjawFoYvBleHRuA2FlbQIxMQABHeofII78fNEOld1h-GdgvdkR8c6fxQc-hxq2AOr0HmDGsz95BI7BEkPdBA_aem_HKzGOUedGOH0q0jkfJTzfA
 #EXTINF:-1 tvg-channel="182", VAMas http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 tvg-channel="184", 
+#EXTINF:-1 tvg-channel="184", MVSTV https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 tvg-channel="186",
+#EXTINF:-1 tvg-channel="188",
+#EXTINF:-1 tvg-channel="190",
+#EXTINF:-1 tvg-channel="192",
+#EXTINF:-1 tvg-channel="194",
+#EXTINF:-1 tvg-channel="196",
+#EXTINF:-1 tvg-channel="198",
+#EXTINF:-1 tvg-channel="200",
