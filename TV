@@ -57,8 +57,8 @@
 #EXTINF:-1 tvg-channel="182", VAMas http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1 tvg-channel="184", MVSTV https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-channel="186", NMas Regio https://channel09-onlymex.akamaized.net/hls/live/2094418/event01/index.m3u8
-#EXTINF:-1 tvg-channel="188",
-#EXTINF:-1 tvg-channel="190",
+#EXTINF:-1 tvg-channel="188", MuchMusic https://streaming-cl.sh1ny.space/memfs/b4803e28-d393-4d4b-a76d-a3fb5d3485fe.m3u8
+#EXTINF:-1 tvg-channel="190", 
 #EXTINF:-1 tvg-channel="192",
 #EXTINF:-1 tvg-channel="194",
 #EXTINF:-1 tvg-channel="196",
