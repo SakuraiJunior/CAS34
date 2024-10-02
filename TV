@@ -61,5 +61,5 @@
 #EXTINF:-1 tvg-channel="192", Mundo Series https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 #EXTINF:-1 tvg-channel="194", BayresTV https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-channel="196", WOWTV http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
-#EXTINF:-1 tvg-channel="198", Jasmin.TV http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-channel="200", Miami TV https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-channel="198", PPV1 http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
+#EXTINF:-1 tvg-channel="200", PPV2 http://tv.teleclub.xyz/envivo/Entretenimiento/SPACE/index.m3u8
