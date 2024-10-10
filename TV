@@ -1,5 +1,5 @@
 #EXTM3U
-#Actualizado version 1.7.0
+#Actualizado version 1.7.1
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/CAS34/main/TV
 
 #EXTINF:-1 group-title="Nacional" ,Las Estrellas https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -14,7 +14,7 @@
 #EXTINF:-1 tvg-channel="100" ,Heraldo Television http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-channel="102" ,MilenioTV https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-channel="104" ,Meganoticias https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-channel="106" ,Once digital https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
+#EXTINF:-1 tvg-channel="106" ,Oncepuntodos https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
 #EXTINF:-1 tvg-channel="108" ,Canal44 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1 tvg-channel="110" ,MVS https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-channel="112" ,Estrella TV https://estrellatv-plex.amagi.tv/playlist.m3u8
@@ -25,7 +25,7 @@
 #EXTINF:-1 tvg-channel="122" ,Comedy Central https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-channel="124" ,Sony Comedias http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492bb931054f00073c0b4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-channel="126" ,DreikoTV https://cloudvideo.servers10.com:8081/8138/index.m3u8
-#EXTINF:-1 tvg-channel="127" ,SYFY https://streaming-cl.sh1ny.space/memfs/4f2393d1-64eb-4e8f-a2f4-f60feea9e63d.m3u8
+#EXTINF:-1 tvg-channel="127" ,no-signal
 #EXTINF:-1 tvg-channel="128" ,TerrorTV https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1 tvg-channel="130" ,FutbolNetwork https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
 #EXTINF:-1 tvg-channel="132" ,Teleformula https://rdf-tf.otteravision.com/rdf/tf/tf_720p_low.m3u8
