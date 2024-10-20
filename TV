@@ -1,5 +1,5 @@
 #EXTM3U
-#Actualizado version 1.8.2
+#Actualizado version 1.8.3
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/CAS34/main/TV
 
 #EXTINF:-1 group-title="Nacional" ,Las Estrellas https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -34,7 +34,7 @@
 #EXTINF:-1 tvg-channel="134" ,CombaTV https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
 #EXTINF:-1 tvg-channel="136" ,ITV Deportes https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
 #EXTINF:-1 tvg-channel="138" ,Lucha AAA Network http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-channel="140" ,KanadeTV https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
+#EXTINF:-1 tvg-channel="140" ,KanadeHD https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 #EXTINF:-1 tvg-channel="142" ,Energeek https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
 #EXTINF:-1 tvg-channel="144" ,Nickelodeon https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-channel="146" ,AMX Noticias https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
@@ -62,10 +62,10 @@
 #EXTINF:-1 tvg-channel="184" ,MVSTV https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-channel="186" ,NMas Regio https://channel09-onlymex.akamaized.net/hls/live/2094418/event01/index.m3u8
 #EXTINF:-1 tvg-channel="188" ,MuchMusic https://streaming-cl.sh1ny.space/memfs/b4803e28-d393-4d4b-a76d-a3fb5d3485fe.m3u8
-#EXTINF:-1 tvg-channel="190" ,Toonami https://ssh101-fl.bozztv.com/ssh101/toonamitv/playlist.m3u8
+#EXTINF:-1 tvg-channel="190" ,Canal LMS https://ssh101-fl.bozztv.com/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-channel="192" ,Mundo Series https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 #EXTINF:-1 tvg-channel="194" ,BayresTV https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-channel="196" ,WOWTV http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
 #EXTINF:-1 tvg-channel="197" ,Toonizaki https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-channel="198" ,WOWMovies https://ssh101-fl.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
-#EXTINF:-1 tvg-channel="200" ,Retrox https://ssh101-fl.bozztv.com/ssh101/retroxcr/playlist.m3u8
+#EXTINF:-1 tvg-channel="200" ,
