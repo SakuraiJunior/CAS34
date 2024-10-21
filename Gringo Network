@@ -323,25 +323,25 @@ http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 http://fl5.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1 group-title="PPV", TNT
 http://fl5.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", TRAVEL CHANNEL
+#EXTINF:-1 group-title="Live TV", TRAVEL CHANNEL
 http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", TRU TV
+#EXTINF:-1 group-title="Live TV", TRU TV
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", TSN 1
+#EXTINF:-1 group-title="Live TV", TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", TSN 2
+#EXTINF:-1 group-title="Live TV", TSN 2
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", TSN 3
+#EXTINF:-1 group-title="Live TV", TSN 3
 http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", TSN 4
+#EXTINF:-1 group-title="Live TV", TSN 4
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", TSN 5
+#EXTINF:-1 group-title="Live TV", TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", TV LAND
+#EXTINF:-1 group-title="Live TV", TV LAND
 http://fl2.moveonjoy.com/TV_Land/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", TV ONE
+#EXTINF:-1 group-title="Live TV", TV ONE
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", TVG
+#EXTINF:-1 group-title="Live TV", TVG
 http://fl2.moveonjoy.com/TVG/index.m3u8
 #EXTINF:-1 group-title="PPV", UFC
 http://fl1.moveonjoy.com/UFC/index.m3u8
