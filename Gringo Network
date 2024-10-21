@@ -42,30 +42,18 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Live TV", CRAVE 1 http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
 #EXTINF:-1 group-title="Live TV", CRAVE 2 http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
 #EXTINF:-1 group-title="Live TV", CRAVE 3 http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
-#EXTINF:-1 group-title="Live TV", CRAVE 4
-http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
-#EXTINF:-1 group-title="Live TV", CURIOSITY STREAM
-http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
-#EXTINF:-1 group-title="Live TV", DESTINATION AMERICA
-http://fl3.moveonjoy.com/Destination_America/index.m3u8
-#EXTINF:-1 group-title="Live TV", DISCOVERY CHANNEL
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 group-title="Live TV", DISCOVERY FAMILY
-http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Live TV", DISCOVERY LIFE
-http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 group-title="Live TV", DISCOVERY SCIENCE
-http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 group-title="Live TV", DISNEY CHANNEL
-http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Live TV", DISNEY JR
-http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="Live TV", DISNEY XD
-http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="Live TV", DIY
-http://fl2.moveonjoy.com/DIY/index.m3u8
-#EXTINF:-1 group-title="Live TV", E!
-http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 group-title="Live TV", CRAVE 4 http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 group-title="Live TV", CURIOSITY STREAM http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
+#EXTINF:-1 group-title="Live TV", DESTINATION AMERICA http://fl3.moveonjoy.com/Destination_America/index.m3u8
+#EXTINF:-1 group-title="Live TV", DISCOVERY CHANNEL http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 group-title="Live TV", DISCOVERY FAMILY http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Live TV", DISCOVERY LIFE http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 group-title="Live TV", DISCOVERY SCIENCE http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 group-title="Live TV", DISNEY CHANNEL http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Live TV", DISNEY JR http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="Live TV", DISNEY XD http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="Live TV", DIY http://fl2.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 group-title="Live TV", E! http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 group-title="Live TV", EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 group-title="Live TV", EPIX 2
