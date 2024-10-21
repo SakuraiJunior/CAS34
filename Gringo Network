@@ -35,7 +35,7 @@ http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Live TV", BLOOMBERG
 http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1 group-title="Live TV", BLOOMBERG
+#EXTINF:-1 group-title="Live TV", BOOMERANG
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1 group-title="Live TV", BOUNCE TV
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
@@ -53,23 +53,21 @@ http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Live TV", CINEMAX
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
-#EXTINF:-1 group-title="PPV", CINEMAX EAST
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", CINEMAX WEST
+#EXTINF:-1 group-title="PPV", CINEMAX WEST
 http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", CINEMAX MOREMAX
+#EXTINF:-1 group-title="Live TV", CINEMAX MOREMAX
 http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", CLEO TV
+#EXTINF:-1 group-title="Live TV", CLEO TV
 http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", CMT
+#EXTINF:-1 group-title="Live TV", CMT
 http://fl3.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", CNBC
+#EXTINF:-1 group-title="Live TV", CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", CNN
+#EXTINF:-1 group-title="Live TV", CNN
 http://fl2.moveonjoy.com/CNN/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", CNN INTERNACIONAL
+#EXTINF:-1 group-title="Live TV", CNN INTERNACIONAL
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", COMEDY CENTRAL
+#EXTINF:-1 group-title="Live TV", COMEDY CENTRAL
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 group-title="Live TV (MoveOnJoy)", COMEDY TV
 http://fl3.moveonjoy.com/Comedy_TV/index.m3u8
