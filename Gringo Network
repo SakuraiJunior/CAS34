@@ -77,7 +77,7 @@ http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 http://fl3.moveonjoy.com/COURT_TV/index.m3u8
 #EXTINF:-1 group-title="Live TV", COZI TV
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
-#EXTINF:-1 group-title="Live TV", CRIME AND INVESTIGATION NET
+#EXTINF:-1 group-title="Live TV", CRIME AND INVESTIGATION
 http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 #EXTINF:-1 group-title="Live TV", CRAVE 1
 http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
@@ -91,41 +91,41 @@ http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
 http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 #EXTINF:-1 group-title="Live TV", DESTINATION AMERICA
 http://fl3.moveonjoy.com/Destination_America/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", DISCOVERY CHANNEL
+#EXTINF:-1 group-title="Live TV", DISCOVERY CHANNEL
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", DISCOVERY FAMILY CHANNEL
+#EXTINF:-1 group-title="Live TV", DISCOVERY FAMILY
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", DISCOVERY LIFE
+#EXTINF:-1 group-title="Live TV", DISCOVERY LIFE
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", DISCOVERY SCIENCE
+#EXTINF:-1 group-title="Live TV", DISCOVERY SCIENCE
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", DISNEY CHANNEL
+#EXTINF:-1 group-title="Live TV", DISNEY CHANNEL
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", DISNEY JR
+#EXTINF:-1 group-title="Live TV", DISNEY JR
 http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", DISNEY XD
+#EXTINF:-1 group-title="Live TV", DISNEY XD
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", DIY
+#EXTINF:-1 group-title="Live TV", DIY
 http://fl2.moveonjoy.com/DIY/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", E!
+#EXTINF:-1 group-title="Live TV", E!
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", EPIX
+#EXTINF:-1 group-title="Live TV", EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", EPIX 2
+#EXTINF:-1 group-title="Live TV", EPIX 2
 http://fl2.moveonjoy.com/EPIX_2/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", EPIX DRIVE IN
+#EXTINF:-1 group-title="Live TV", EPIX DRIVE IN
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", EPIX HITS
+#EXTINF:-1 group-title="Live TV", EPIX HITS
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", ESPN
+#EXTINF:-1 group-title="Live TV", ESPN
 http://fl2.moveonjoy.com/ESPN/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", ESPN 2
+#EXTINF:-1 group-title="Live TV", ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", ESPN NEWS
+#EXTINF:-1 group-title="Live TV", ESPN NEWS
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", ESPN U
+#EXTINF:-1 group-title="PPV", ESPN U
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", FOOD NETWORK
+#EXTINF:-1 group-title="Live TV", FOOD NETWORK
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Local", FOX
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
@@ -159,39 +159,39 @@ http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/GET_TV/index.m3u8
 #EXTINF:-1 group-title="PPV", GOLF CHANNEL
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", GRIT TV
+#EXTINF:-1 group-title="Live TV", GRIT TV
 http://fl2.moveonjoy.com/GRIT_TV/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", HALLMARK CHANNEL
+#EXTINF:-1 group-title="Live TV", HALLMARK CHANNEL
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", HALLMARK DRAMA
+#EXTINF:-1 group-title="Live TV", HALLMARK DRAMA
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", HBO
+#EXTINF:-1 group-title="Live TV", HBO
 http://fl5.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 group-title="PPV", HBO 2
 http://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", HBO COMEDY
+#EXTINF:-1 group-title="Live TV", HBO COMEDY
 http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", HBO FAMILY
+#EXTINF:-1 group-title="Live TV", HBO FAMILY
 http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", HBO ZONE
+#EXTINF:-1 group-title="Live TV", HBO ZONE
 http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", HGTV
+#EXTINF:-1 group-title="Live TV", HGTV
 http://fl5.moveonjoy.com/HGTV/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", HLN
+#EXTINF:-1 group-title="Live TV", HLN
 http://fl2.moveonjoy.com/HLN/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", HSN
+#EXTINF:-1 group-title="Live TV", HSN
 http://fl2.moveonjoy.com/HSN/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", INSP
+#EXTINF:-1 group-title="Live TV", INSP
 http://fl2.moveonjoy.com/INSP/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", ID
+#EXTINF:-1 group-title="Live TV", ID
 http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", ION TV
+#EXTINF:-1 group-title="Live TV", ION TV
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", ION PLUS
+#EXTINF:-1 group-title="Live TV", ION PLUS
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", LIFETIME
+#EXTINF:-1 group-title="Live TV", LIFETIME
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", LIFETIME MOVIE NET
+#EXTINF:-1 group-title="Live TV", LIFETIME MOVIE NET
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Live TV (MoveOnJoy)", LOGO
 http://fl3.moveonjoy.com/Logo/index.m3u8
@@ -205,25 +205,25 @@ http://fl2.moveonjoy.com/ME_TV/index.m3u8
 http://fl3.moveonjoy.com/Military_History/index.m3u8
 #EXTINF:-1 group-title="PPV", MLB NETWORK
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", MOTOR TREND
+#EXTINF:-1 group-title="Live TV", MOTOR TREND
 http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", MSG
+#EXTINF:-1 group-title="Live TV", MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", MSNBC
+#EXTINF:-1 group-title="Live TV", MSNBC
 http://fl2.moveonjoy.com/MSNBC/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", MTV
+#EXTINF:-1 group-title="Live TV", MTV
 http://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", MTV 2
+#EXTINF:-1 group-title="Live TV", MTV 2
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", MTV CLASSIC
+#EXTINF:-1 group-title="Live TV", MTV CLASSIC
 http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", MTV LIVE
+#EXTINF:-1 group-title="PPV", MTV LIVE
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", MTV U
+#EXTINF:-1 group-title="Live TV", MTV U
 http://fl2.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", NAT GEO
+#EXTINF:-1 group-title="Live TV", NAT GEO
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", NAT GEO WILD
+#EXTINF:-1 group-title="Live TV", NAT GEO WILD
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="PPV", NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
@@ -269,13 +269,13 @@ http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 http://fl3.moveonjoy.com/Pop_TV/index.m3u8
 #EXTINF:-1 group-title="Live TV", PURSUIT CHANNEL
 http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", QVC
+#EXTINF:-1 group-title="Live TV", QVC
 http://fl2.moveonjoy.com/QVC/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", REELZ
+#EXTINF:-1 group-title="Live TV", REELZ
 http://fl2.moveonjoy.com/REELZ/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", REVOLT
+#EXTINF:-1 group-title="Live TV", REVOLT
 http://fl2.moveonjoy.com/REVOLT/index.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", SEC NETWORK [Not Working]
+#EXTINF:-1 group-title="PPV", SEC NETWORK [Not Working]
 http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8 
 #EXTINF:-1 group-title="PPV", SHOWTIME 2
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
