@@ -43,7 +43,7 @@ http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 group-title="Live TV", BUZZR
 http://fl3.moveonjoy.com/Buzzr/index.m3u8
-#EXTINF:-1 group-title="Live TV", C SPAN
+#EXTINF:-1 group-title="Live TV", CSPAN
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="Live TV", CARTOON NETWORK
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
@@ -61,14 +61,10 @@ http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
 http://fl3.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 group-title="Live TV", CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 group-title="Live TV", CNN
-http://fl2.moveonjoy.com/CNN/index.m3u8
 #EXTINF:-1 group-title="Live TV", CNN INTERNACIONAL
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:-1 group-title="Live TV", COMEDY CENTRAL
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 group-title="Live TV", COMEDY TV
-http://fl3.moveonjoy.com/Comedy_TV/index.m3u8
 #EXTINF:-1 group-title="Live TV", COMET
 http://fl3.moveonjoy.com/COMET/index.m3u8
 #EXTINF:-1 group-title="Live TV", COOKING CHANNEL
