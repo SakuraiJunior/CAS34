@@ -23,7 +23,7 @@
 #EXTINF:-1 group-title="Live TV", BRAVO http://fl2.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 group-title="Live TV", BUZZR http://fl3.moveonjoy.com/Buzzr/index.m3u8
 #EXTINF:-1 group-title="Live TV", CSPAN http://fl2.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1 group-title="Live TV", CARTOON NETWORK http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Live TV", CARTOON NET.CA http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="National", CBS http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 group-title="Live TV", CBS SPORTS NETWORK http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="PPV", CINEMAX http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
