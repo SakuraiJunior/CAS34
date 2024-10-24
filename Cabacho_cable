@@ -26,7 +26,7 @@
 #EXTINF:-1 group-title="National", CBS http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 group-title="Live TV", CBS Sports Network http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="PPV", Cinemax http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
-#EXTINF:-1 group-title="Live TV", Cinemax Moremax http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 group-title="Live TV", CNN http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
 #EXTINF:-1 group-title="Live TV", Cleo TV http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 group-title="Live TV", CMT http://fl3.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 group-title="Live TV", CNBC http://fl2.moveonjoy.com/CNBC/index.m3u8
