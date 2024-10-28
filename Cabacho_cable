@@ -163,7 +163,7 @@
 #EXTINF:-1 group-title="PPV", TSN 5 http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 group-title="Live TV", TV Land http://fl2.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 group-title="Live TV", TV One http://fl2.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 group-title="Live TV", TVG http://fl2.moveonjoy.com/TVG/index.m3u8
+#EXTINF:-1 group-title="Live TV", Fanduel TV http://fl2.moveonjoy.com/TVG/index.m3u8
 #EXTINF:-1 group-title="PPV", UFC http://fl1.moveonjoy.com/UFC/index.m3u8
 #EXTINF:-1 group-title="Live TV", USA Network http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 group-title="Live TV", VH1 http://fl2.moveonjoy.com/VH1/index.m3u8
