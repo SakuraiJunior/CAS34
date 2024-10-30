@@ -26,7 +26,7 @@
 #EXTINF:-1 group-title="National", CBS http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 group-title="Live TV", CBS Sports Network http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="PPV", Cinemax http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
-#EXTINF:-1 group-title="Live TV", CNN http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 group-title="Live TV", Cinemax Moremax http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
 #EXTINF:-1 group-title="Live TV", Cleo TV http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 group-title="Live TV", CMT http://fl3.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 group-title="Live TV", CNBC http://fl2.moveonjoy.com/CNBC/index.m3u8
@@ -57,7 +57,7 @@
 #EXTINF:-1 group-title="Live TV", EPIX Drive In http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 group-title="Live TV", EPIX Hits http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1 group-title="Live TV", ESPN http://fl2.moveonjoy.com/ESPN/index.m3u8
-#EXTINF:-1 group-title="Live TV", ESPN 2 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="PPV", ESPN 2 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 group-title="Live TV", ESPN News http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="PPV", ESPN U http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 group-title="Live TV", Food Network http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
@@ -98,7 +98,7 @@
 #EXTINF:-1 group-title="Live TV", ME TV http://fl2.moveonjoy.com/ME_TV/index.m3u8
 #EXTINF:-1 group-title="Live TV", Military History http://fl3.moveonjoy.com/Military_History/index.m3u8
 #EXTINF:-1 group-title="PPV", MLB http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Live TV", Motor Trend http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 group-title="PPV", Motor Trend http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
 #EXTINF:-1 group-title="Live TV", MSG http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 group-title="Live TV", MSNBC http://fl2.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1 group-title="Live TV", MTV http://fl2.moveonjoy.com/MTV/index.m3u8
@@ -108,7 +108,7 @@
 #EXTINF:-1 group-title="Live TV", NatGeo http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Live TV", NatGeo Wild http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="PPV", NBA http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="Local", NBC http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 group-title="National", NBC http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="Live TV", NBC Sports http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Live TV", News Nation http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 group-title="Live TV", NEWSY http://fl3.moveonjoy.com/Newsy/index.m3u8
@@ -150,10 +150,10 @@
 #EXTINF:-1 group-title="Live TV", SYFY http://fl5.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 group-title="PPV", TBS http://fl2.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 group-title="Live TV", TCM http://fl2.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1 group-title="PPV", TENNIS CHANNEL http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="PPV", TENNIS http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Live TV", The Weather Channel http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Live TV", TLC http://fl5.moveonjoy.com/TLC/index.m3u8
-#EXTINF:-1 group-title="PPV", TNT http://fl5.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 group-title="Live TV", TNT http://fl5.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1 group-title="Live TV", Travel Channel http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
 #EXTINF:-1 group-title="Live TV", Tru TV http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 #EXTINF:-1 group-title="Live TV", TSN 1 http://fl5.moveonjoy.com/TSN_1/index.m3u8
@@ -163,7 +163,6 @@
 #EXTINF:-1 group-title="PPV", TSN 5 http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 group-title="Live TV", TV Land http://fl2.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 group-title="Live TV", TV One http://fl2.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 group-title="Live TV", Fanduel TV http://fl2.moveonjoy.com/TVG/index.m3u8
 #EXTINF:-1 group-title="PPV", UFC http://fl1.moveonjoy.com/UFC/index.m3u8
 #EXTINF:-1 group-title="Live TV", USA Network http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 group-title="Live TV", VH1 http://fl2.moveonjoy.com/VH1/index.m3u8
