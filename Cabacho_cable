@@ -23,7 +23,7 @@ http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1 Bravo
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 Cartoon Network
+#EXTINF:-1 Cartoon Network(-5hr)
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 CBS Sports Network
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
