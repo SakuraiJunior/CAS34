@@ -1,6 +1,6 @@
 #EXTM3U
 #Actualizado version 1.9.0
-#playlist: https://raw.githubusercontent.com/SakuraiJunior/CAS34/main/IPTV
+#playlist: https://raw.githubusercontent.com/SakuraiJunior/CAS34/main/IPTV.m3u8
 
 #EXTINF:-1 group-title="Nacional" , Las Estrellas https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="Nacional" , Azteca Uno https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
