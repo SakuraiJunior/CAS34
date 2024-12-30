@@ -15,7 +15,7 @@
 #EXTINF:-1 group-title="Nacional" , Canal Once https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 group-title="Nacional2" , Oncepuntodos https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
 #EXTINF:-1 group-title="Nacional" , Canal Catorce https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
-#EXTINF:-1 group-title="Nacional" , JusticiaTV https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1 group-title="Nacional2" , JusticiaTV https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 group-title="Nacional" , Canal22 CONACULTA https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 group-title="Nacional2" , MX Nuestro Cine https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 #EXTINF:-1 tvg-channel="100" , Heraldo Television http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
