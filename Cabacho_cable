@@ -1,80 +1,42 @@
 #EXTM3U
-#EXTINF:-1 ACC Network 
-http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 AMC
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 American Heroes Channel
-http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
-#EXTINF:-1 Animal Planet
-http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1 BBC America
-http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 BBC World News HD
-http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 BET
-http://fl2.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1 BET Her
-http://fl2.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1 Big Ten Network
-http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 Bloomberg
-http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1 Boomerang
-http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
-#EXTINF:-1 Bravo
-http://fl2.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 Cartoon Network(-5hr)
-http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 CBS Sports Network
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 Cinemax
-http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
-#EXTINF:-1 CMT
-http://fl3.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1 CNBC
-http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 CNN
-http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
-#EXTINF:-1 Comedy Central 
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 Cooking Channel
-http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1 CSPAN
-http://fl2.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1 Crime and Investigation
-http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
-#EXTINF:-1 Destination American
-http://fl3.moveonjoy.com/Destination_America/index.m3u8
-#EXTINF:-1 Discovery
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 Discovery Family
-http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 Discovery Life
-http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 Disney Channel
-http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 Disney Junior
-http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 Disney XD
-http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 E!
-http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 ESPN
-http://fl2.moveonjoy.com/ESPN/index.m3u8
-#EXTINF:-1 ESPN2
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 ESPN U
-http://fl2.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 Food Network
-http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 Fox Business
-http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
-#EXTINF:-1 Fox News
-http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
-#EXTINF:-1 FoxSports 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 FoxSports 2
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+#EXTINF:-1 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8 , ACC Network
+#EXTINF:-1 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8 , AMC
+#EXTINF:-1 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8 , American Heroes
+#EXTINF:-1 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8 , Animal Planet
+#EXTINF:-1 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8 , BBC America
+#EXTINF:-1 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8 , BBC World News
+#EXTINF:-1 http://fl2.moveonjoy.com/BET_EAST/index.m3u8 , BET
+#EXTINF:-1 http://fl2.moveonjoy.com/BET_HER/index.m3u8 , BET Her
+#EXTINF:-1 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8 , Big Ten Network
+#EXTINF:-1 http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8 , Bloomberg
+#EXTINF:-1 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8 , Boomerang
+#EXTINF:-1 http://fl2.moveonjoy.com/BRAVO/index.m3u8 , Bravo
+#EXTINF:-1 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8 , Cartoon Network
+#EXTINF:-1 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8 , CBS Sports Network
+#EXTINF:-1 http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8 , Cinemax
+#EXTINF:-1 http://fl3.moveonjoy.com/CMT/index.m3u8 , CMT
+#EXTINF:-1 http://fl2.moveonjoy.com/CNBC/index.m3u8 , CNBC
+#EXTINF:-1 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8 , CNN
+#EXTINF:-1 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8 , Comedy Central
+#EXTINF:-1 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8 , Cooking Channel
+#EXTINF:-1 http://fl2.moveonjoy.com/C-SPAN/index.m3u8 , CSPAN
+#EXTINF:-1 http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8 , Crime and Investigation
+#EXTINF:-1 http://fl3.moveonjoy.com/Destination_America/index.m3u8 , Destination American
+#EXTINF:-1 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8 , Discovery Channel
+#EXTINF:-1 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8 , Discovery Family
+#EXTINF:-1 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8 , Discovery Life
+#EXTINF:-1 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8 , Disney Channel
+#EXTINF:-1 http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8 , Disney Junior
+#EXTINF:-1 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8 , Disney XD
+#EXTINF:-1 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8 , E Entertainment
+#EXTINF:-1 http://fl2.moveonjoy.com/ESPN/index.m3u8 , ESPN
+#EXTINF:-1 http://fl2.moveonjoy.com/ESPN_2/index.m3u8 , ESPN2
+#EXTINF:-1 http://fl2.moveonjoy.com/ESPN_U/index.m3u8 , ESPN U
+#EXTINF:-1 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8 , Food Network
+#EXTINF:-1 http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8 , FOX Business
+#EXTINF:-1 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8 , FOXNews
+#EXTINF:-1 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8 , FOX Sports 1
+#EXTINF:-1 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8 , FOX Sports 2
 #EXTINF:-1 Freeform
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1 Fuse HD
@@ -163,32 +125,19 @@ http://fl2.moveonjoy.com/TCM/index.m3u8
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8 
 #EXTINF:-1 Weather Channel
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-#EXTINF:-1 TLC
-http://fl5.moveonjoy.com/TLC/index.m3u8
-#EXTINF:-1 TNT
-http://fl5.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 Travel Channel
-http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
-#EXTINF:-1 TruTV
-http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1 TV One
-http://fl2.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 USA Network
-http://fl2.moveonjoy.com/USA_Network/index.m3u8
-#EXTINF:-1 VH1
-http://fl2.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 VICE
-http://fl2.moveonjoy.com/VICELAND/index.m3u8
-#EXTINF:-1 WABC
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 WNBC
-http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 WFOX
-http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 WCBS
-http://fl2.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1 WE tv
-http://fl2.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 http://fl5.moveonjoy.com/TLC/index.m3u8 , TLC
+#EXTINF:-1 http://fl5.moveonjoy.com/TNT/index.m3u8 , TNT
+#EXTINF:-1 http://fl2.moveonjoy.com/Travel_Channel/index.m3u8 , Travel Channel
+#EXTINF:-1 http://fl2.moveonjoy.com/TRU_TV/index.m3u8 , TruTV
+#EXTINF:-1 http://fl2.moveonjoy.com/TV_ONE/index.m3u8 , TV One
+#EXTINF:-1 http://fl2.moveonjoy.com/USA_Network/index.m3u8 , USA Network
+#EXTINF:-1 http://fl2.moveonjoy.com/VH1/index.m3u8 , VH1
+#EXTINF:-1 http://fl2.moveonjoy.com/VICELAND/index.m3u8 , VICE
+#EXTINF:-1 http://fl2.moveonjoy.com/WE_TV/index.m3u8 , WEtv
+#EXTINF:-1 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8 , WABC
+#EXTINF:-1 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8 , WNBC
+#EXTINF:-1 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8 , WNYW
+#EXTINF:-1 http://fl2.moveonjoy.com/CBSEAST/index.m3u8 , WCBS
 
 #EXTINF:-1 group-title="PPV", BEIN Sports http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="PPV", MAV TV http://fl2.moveonjoy.com/MAV_TV/index.m3u8
