@@ -108,8 +108,6 @@
 #EXTINF:-1 group-title="PPV", TSN 3 http://fl5.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1 group-title="PPV", TSN 4 http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 group-title="PPV", TSN 5 http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 group-title="PPV", UFC http://fl1.moveonjoy.com/UFC/index.m3u8
-#EXTINF:-1 group-title="PPV", WWE http://fl2.moveonjoy.com/WWE/index.m3u8
 #EXTINF:-1 group-title="PPV", YES Network http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="Extras", Antenna http://fl3.moveonjoy.com/Antenna/index.m3u8
