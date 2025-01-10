@@ -1,5 +1,5 @@
 #EXTM3U
-#playlist: 
+#playlist: https://raw.githubusercontent.com/SakuraiJunior/CAS34/main/DelmiTV.m3u
 
 #EXTINF:-1 tvg-name="ZTV By zplay.cl" tvg-id="Ztv" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="JOVENES Y ADULTOS",ZTV By zplay.cl HD
 https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
