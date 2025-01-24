@@ -1,6 +1,11 @@
 #EXTM3U
 #Playlist: https://raw.githubusercontent.com/SakuraiJunior/CAS34/refs/heads/main/M3UCL
 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149 , ImagenTV
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/57b4dbf5dbbfc8f16bb63ce1/56a3e60cbd7f4933b1c97937668b884d/f624fec49dadc88894ebeff1d974eab019af7757/media.m3u8?aid=579bd29dc99290cf08362c3b&pid=evXwwUjNpDPl5cRCv9mC8iz204Jm21hT&sid=m81b4r5iHtkBE3SBTZI4oOLheLHIKoHm&uid=6tpuP0hz75AqlqEucHE0dMxP92MfwQsm&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1737339046923&ot=k97FuA9Owa6fbQMiEEjSZg&proto=https&pz=us , Multimedios
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8 , Azteca7
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8 , Azteca Uno
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8 , Las Estrellas
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8 , AYMSports
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8 , Canal Once
 https://stream.gia.tv/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8 , GogoplayMax
@@ -22,9 +27,4 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8 , WOW
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8 , FoxSports2
 https://estrellatv-plex.amagi.tv/playlist.m3u8 , EstrellaTV
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8 , Telemundo
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8 , BayresTV 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149 , ImagenTV
-https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/57b4dbf5dbbfc8f16bb63ce1/56a3e60cbd7f4933b1c97937668b884d/f624fec49dadc88894ebeff1d974eab019af7757/media.m3u8?aid=579bd29dc99290cf08362c3b&pid=evXwwUjNpDPl5cRCv9mC8iz204Jm21hT&sid=m81b4r5iHtkBE3SBTZI4oOLheLHIKoHm&uid=6tpuP0hz75AqlqEucHE0dMxP92MfwQsm&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1737339046923&ot=k97FuA9Owa6fbQMiEEjSZg&proto=https&pz=us , Multimedios
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8 , Azteca7
-https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8 , Azteca Uno
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8 , Las Estrellas 
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8 , BayresTV
