@@ -1,31 +1,31 @@
 #EXTM3U
-#Playlist: https://m3u.cl/playlist/Zaid67.m3u
+#Playlist: https://raw.githubusercontent.com/SakuraiJunior/CAS34/refs/heads/main/M3UCL.m3u
 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149 , ImagenTV
-https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/57b4dbf5dbbfc8f16bb63ce1/56a3e60cbd7f4933b1c97937668b884d/f624fec49dadc88894ebeff1d974eab019af7757/media.m3u8?aid=579bd29dc99290cf08362c3b&pid=evXwwUjNpDPl5cRCv9mC8iz204Jm21hT&sid=m81b4r5iHtkBE3SBTZI4oOLheLHIKoHm&uid=6tpuP0hz75AqlqEucHE0dMxP92MfwQsm&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1737339046923&ot=k97FuA9Owa6fbQMiEEjSZg&proto=https&pz=us , Multimedios
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8 , Azteca7
-https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8 , Azteca Uno
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8 , Las Estrellas
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8 , El Nueve
-https://aym-as.otteravision.com/aym/as/as_1080p.m3u8 , AYMSports
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8 , Canal Once
-https://stream.gia.tv/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8 , GogoplayMax
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8 , AnimeStation
-http://crtvg-america.flumotion.cloud/crtvg/america_high/chunks.m3u8 , Galicia America
-https://ssh101-fl.bozztv.com/ssh101/canallms/playlist.m3u8 , Canal LMS
-https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8 , Canal Sur
-https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8 , MX NuestroCine
-https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8 , Videorola
-https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES , ZTV
-https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8 , KanadeHD
-https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8 , InternetTV
-https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8 , Futbol Network
-https://tv.streaming-chile.com:19360/8140/8140.m3u8 , TerrorTV
-https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8 , LKTVU
-https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8 , AMC
-https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8 , Sony Comedias
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8 , WOWTV
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8 , FoxSports2
-https://estrellatv-plex.amagi.tv/playlist.m3u8 , EstrellaTV
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8 , Telemundo
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8 , BayresTV
+#EXTINF:-1 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149 , ImagenTV
+#EXTINF:-1 https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/57b4dbf5dbbfc8f16bb63ce1/56a3e60cbd7f4933b1c97937668b884d/f624fec49dadc88894ebeff1d974eab019af7757/media.m3u8?aid=579bd29dc99290cf08362c3b&pid=evXwwUjNpDPl5cRCv9mC8iz204Jm21hT&sid=m81b4r5iHtkBE3SBTZI4oOLheLHIKoHm&uid=6tpuP0hz75AqlqEucHE0dMxP92MfwQsm&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1737339046923&ot=k97FuA9Owa6fbQMiEEjSZg&proto=https&pz=us , Multimedios
+#EXTINF:-1 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8 , Azteca7
+#EXTINF:-1 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8 , Azteca Uno
+#EXTINF:-1 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8 , Las Estrellas
+#EXTINF:-1 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8 , El Nueve
+#EXTINF:-1 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8 , AYMSports
+#EXTINF:-1 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8 , Canal Once
+#EXTINF:-1 https://stream.gia.tv/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8 , GogoplayMax
+#EXTINF:-1 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8 , AnimeStation
+#EXTINF:-1 http://crtvg-america.flumotion.cloud/crtvg/america_high/chunks.m3u8 , Galicia America
+#EXTINF:-1 https://ssh101-fl.bozztv.com/ssh101/canallms/playlist.m3u8 , Canal LMS
+#EXTINF:-1 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8 , Canal Sur
+#EXTINF:-1 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8 , MX NuestroCine
+#EXTINF:-1 https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8 , Videorola
+#EXTINF:-1 https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES , ZTV
+#EXTINF:-1 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8 , KanadeHD
+#EXTINF:-1 https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8 , InternetTV
+#EXTINF:-1 https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8 , Futbol Network
+#EXTINF:-1 https://tv.streaming-chile.com:19360/8140/8140.m3u8 , TerrorTV
+#EXTINF:-1 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8 , LKTVU
+#EXTINF:-1 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8 , AMC
+#EXTINF:-1 https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8 , Sony Comedias
+#EXTINF:-1 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8 , WOWTV
+#EXTINF:-1 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8 , FoxSports2
+#EXTINF:-1 https://estrellatv-plex.amagi.tv/playlist.m3u8 , EstrellaTV
+#EXTINF:-1 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8 , Telemundo
+#EXTINF:-1 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8 , BayresTV
