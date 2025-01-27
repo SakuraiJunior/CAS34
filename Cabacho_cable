@@ -93,17 +93,3 @@
 #EXTINF:-1 WCBS http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 WE tv http://fl2.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 WNYW http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="PPV", BEIN Sports http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 group-title="PPV", MAV TV http://fl2.moveonjoy.com/MAV_TV/index.m3u8
-#EXTINF:-1 group-title="PPV", Motor Trend http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
-#EXTINF:-1 group-title="PPV", MSG http://fl3.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 group-title="PPV", MTV Live http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="PPV", NBC Sports http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="PPV", Outside TV http://fl2.moveonjoy.com/OUTSIDE_TV/index.m3u8
-#EXTINF:-1 group-title="PPV", STADIUM http://fl2.moveonjoy.com/STADIUM/index.m3u8
-#EXTINF:-1 group-title="PPV", TSN 1 http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 group-title="PPV", TSN 2 http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 group-title="PPV", TSN 3 http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 group-title="PPV", TSN 4 http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 group-title="PPV", TSN 5 http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 group-title="PPV", YES Network http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
