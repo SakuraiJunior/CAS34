@@ -14,7 +14,7 @@
 #EXTINF:-1 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8 , Canal Catorce
 #EXTINF:-1 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8 , TMX Digital
 #EXTINF:-1 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8 , AYMSports
-#EXTINF:-1 https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8 , Gogoplay
+#EXTINF:-1 https://ssh101-fl.bozztv.com/ssh101/gogoplay/playlist.m3u8 , Gogoplay
 #EXTINF:-1 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8 , AnimeStation
 #EXTINF:-1 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8 , Fanpop
 #EXTINF:-1 http://crtvg-america.flumotion.cloud/crtvg/america_high/chunks.m3u8 , Galicia America
@@ -43,3 +43,5 @@
 #EXTINF:-1 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8 , El Sonorense
 #EXTINF:-1 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8 , Zapping Music
 #EXTINF:-1 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8 , Popcorn Central
+#EXTINF:-1 https://tv.streaming-chile.com:19360/8142/8142.m3u8 , MasCine
+#EXTINF:-1 https://blitztv.vercel.app/ninjaz , NinjaZ
