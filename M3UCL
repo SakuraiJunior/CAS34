@@ -1,6 +1,3 @@
-#EXTM3U
-#Playlist: https://raw.githubusercontent.com/SakuraiJunior/CAS34/refs/heads/main/M3UCL
-
 #EXTINF:-1 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149 , ImagenTV
 #EXTINF:-1 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8 , Multimedios
 #EXTINF:-1 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8 , Azteca7
@@ -50,4 +47,4 @@
 #EXTINF:-1 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827 , AZClic
 #EXTINF:-1 https://d2jqgm8hyia1n3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBD800001RJ , Cine Friki
 #EXTINF:-1 http://160.20.165.246:8000/play/a006/index.m3u8 , Clover Channel
-#EXTINF:-1 https://d39mlvgry5t1hu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f351ogneq6tnr/Hallmark_en_Espanol.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US1300001GM , Hallmark 
+#EXTINF:-1 https://d39mlvgry5t1hu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f351ogneq6tnr/Hallmark_en_Espanol.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US1300001GM , Hallmark
