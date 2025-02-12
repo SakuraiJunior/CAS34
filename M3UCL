@@ -45,3 +45,7 @@
 #EXTINF:-1 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8 , Popcorn Central
 #EXTINF:-1 https://tv.streaming-chile.com:19360/8142/8142.m3u8 , MasCine
 #EXTINF:-1 https://blitztv.vercel.app/ninjaz , NinjaZ
+#EXTINF:-1 https://dai.google.com/linear/hls/pa/event/yINISWAPQ0CPhPixe-40wQ/stream/4aee1e53-e9d8-4fc6-816d-d4af58f4dba4:TUL/master.m3u8 , ClaroSports
+#EXTINF:-1 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-63f0ca427b78030ed9990309.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=dAAbGubyZsFV7TEyHcUe , CombaTV
+#EXTINF:-1 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827 , AZClic
+#EXTINF:-1 https://d2jqgm8hyia1n3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBD800001RJ , Cine Friki
