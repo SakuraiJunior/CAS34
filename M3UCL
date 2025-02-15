@@ -11,7 +11,7 @@
 #EXTINF:-1 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8 , Canal Catorce
 #EXTINF:-1 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8 , TMX Digital
 #EXTINF:-1 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8 , AMX Noticias
-#EXTINF:-1 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY , Milenio
+#EXTINF:-1 https://cuturl.cc/n3e , Milenio
  * * * * * * * * * * * * * * * * *
 #EXTINF:-1 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8 , AYMSports
 #EXTINF:-1 https://ssh101-fl.bozztv.com/ssh101/gogoplay/playlist.m3u8 , Gogoplay
@@ -44,7 +44,7 @@
 #EXTINF:-1 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8 , Zapping Music
 #EXTINF:-1 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8 , Popcorn Central
 #EXTINF:-1 https://tv.streaming-chile.com:19360/8142/8142.m3u8 , MasCine
-#EXTINF:-1 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024 , Comedy Central
+#EXTINF:-1 http://cut.co.zw/zeyoc , Comedy Central
 #EXTINF:-1 https://dai.google.com/linear/hls/pa/event/yINISWAPQ0CPhPixe-40wQ/stream/4aee1e53-e9d8-4fc6-816d-d4af58f4dba4:TUL/master.m3u8 , ClaroSports
 #EXTINF:-1 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-63f0ca427b78030ed9990309.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=dAAbGubyZsFV7TEyHcUe , CombaTV
 #EXTINF:-1 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827 , AZClic
