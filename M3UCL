@@ -12,6 +12,7 @@
 #EXTINF:-1 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8 , TMX Digital
 #EXTINF:-1 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8 , AMX Noticias
 #EXTINF:-1 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY , Milenio
+ * * * * * * * * * * * * * * * * *
 #EXTINF:-1 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8 , AYMSports
 #EXTINF:-1 https://ssh101-fl.bozztv.com/ssh101/gogoplay/playlist.m3u8 , Gogoplay
 #EXTINF:-1 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8 , AnimeStation
