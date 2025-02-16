@@ -14,7 +14,8 @@
 #EXTINF:-1 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8 , AMX Noticias
  * * * * * * * * * * * * * * * * *
 #EXTINF:-1 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8 , AYMSports
-#EXTINF:-1 https://ssh101-fl.bozztv.com/ssh101/gogoplay/playlist.m3u8 , Gogoplay
+#EXTINF:-1 https://ssh101-fl.bozztv.com/ssh101/gogoplay/playlist.m3u8 , GogoplayTV
+#EXTINF:-1 http://ssh101-fl.bozztv.com/ssh101/gogoplaysd/playlist.m3u8 , GogoplaySD
 #EXTINF:-1 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8 , AnimeStation
 #EXTINF:-1 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8 , Fanpop
 #EXTINF:-1 http://crtvg-america.flumotion.cloud/crtvg/america_high/chunks.m3u8 , Galicia America
@@ -52,4 +53,3 @@
 #EXTINF:-1 http://160.20.165.246:8000/play/a006/index.m3u8 , Clover Channel
 #EXTINF:-1 https://d39mlvgry5t1hu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f351ogneq6tnr/Hallmark_en_Espanol.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US1300001GM , Hallmark
 #EXTINF:-1 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8 , IUTV
-#EXTINF:-1 
