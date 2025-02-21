@@ -4,4 +4,4 @@
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8 , ESPN
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_1/deportes/foxsports1mx/index.m3u8 , FoxSports 1
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_1/deportes/foxsports2mx/index.m3u8 , FoxSports 2
-#EXTINF:-1
+#EXTINF:-1 http://tv.teleclub.xyz/club/server_2/mundo/adn40/index.m3u8 , ADN40
