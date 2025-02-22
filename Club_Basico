@@ -15,6 +15,7 @@
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/cultura/nationalgeographic/index.m3u8 , NatGeo
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/entretenimiento/amc/index.m3u8 , AMC
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_1/entretenimiento/adultswim/index.m3u8 , AdultSwim
+#EXTINF:-1 http://tv.teleclub.xyz/club/server_2/infantil/tooncast/index.m3u8 , Tooncast
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_3/entretenimiento/cinecanal/index.m3u8 , Cinecanal
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/entretenimiento/comedycentral/index.m3u8 , ComedyCentral
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/entretenimiento/distritocomedia/index.m3u8 , Distrito Comedia
