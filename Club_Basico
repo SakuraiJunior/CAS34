@@ -25,6 +25,5 @@
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/entretenimiento/starchannel/index.m3u8 , Star Channel
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/entretenimiento/syfy/index.m3u8 , Syfy
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/entretenimiento/tnt/index.m3u8 , TNT
-#EXTINF:-1
-#EXTINF:-1
-#EXTINF:-1
+#EXTINF:-1 http://tv.teleclub.xyz/club/server_2/musica/mtv/index.m3u8 , MTV
+#EXTINF:-1 http://tv.teleclub.xyz/club/server_2/musica/telehit/index.m3u8 , Telehit
