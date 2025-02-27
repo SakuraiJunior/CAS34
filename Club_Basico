@@ -1,4 +1,4 @@
-S#EXTM3U
+#EXTM3U
 #
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_1/deportes/clarosports/index.m3u8 , ClaroSports
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8 , ESPN
@@ -29,4 +29,4 @@ S#EXTM3U
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/entretenimiento/tnt/index.m3u8 , TNT
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/musica/mtv/index.m3u8 , MTV
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/musica/telehit/index.m3u8 , Telehit
-http://tv.teleclub.xyz/club/server_2/entretenimiento/sony/index.m3u8
+#EXTINF:-1 http://tv.teleclub.xyz/club/server_2/entretenimiento/sony/index.m3u8 , SONY Channel
