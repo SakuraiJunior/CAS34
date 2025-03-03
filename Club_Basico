@@ -4,17 +4,17 @@
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8 , ESPN
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_1/deportes/foxsports1mx/index.m3u8 , FoxSports 1
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_1/deportes/foxsports2mx/index.m3u8 , FoxSports 2
+#EXTINF:-1 http://tv.teleclub.xyz/club/server_2/mundo/aztecauno/index.m3u8 , Azteca Uno
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/mundo/adn40/index.m3u8 , ADN40
+#EXTINF:-1 http://tv.teleclub.xyz/club/server_2/mundo/azteca7/index.m3u8 , Azteca7
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_1/deportes/foxsportspremiummx/index.m3u8 , FoxSportsPremium
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_1/deportes/tudnvixplus/index.m3u8 , TUDN
-#EXTINF:-1 http://tv.teleclub.xyz/club/server_2/mundo/galavision/index.m3u8 , Galavision
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/mundo/imagenmx/index.m3u8 , ImagenTV
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/mundo/unimas/index.m3u8 , Unimas
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/cultura/disccoveryid/index.m3u8 , Discovery ID
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/cultura/history/index.m3u8 , History
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/cultura/nationalgeographic/index.m3u8 , NatGeo
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/entretenimiento/amc/index.m3u8 , AMC
-#EXTINF:-1 http://tv.teleclub.xyz/club/server_2/mundo/azteca7/index.m3u8 , Azteca7
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/infantil/tooncast/index.m3u8 , Tooncast
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/infantil/cartoonnetwork/index.m3u8 , Cartoon Network
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_3/entretenimiento/cinecanal/index.m3u8 , Cinecanal
@@ -31,3 +31,4 @@
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/musica/telehit/index.m3u8 , Telehit
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/entretenimiento/sony/index.m3u8 , SONY Channel
 #EXTINF:-1 http://tv.teleclub.xyz/club/server_2/mundo/lasestrellas/index.m3u8 , Las Estrellas
+#EXTINF:-1 http://tv.teleclub.xyz/club/server_2/mundo/galavision/index.m3u8 , Galavision
