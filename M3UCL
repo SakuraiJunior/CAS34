@@ -9,7 +9,7 @@
 #EXTINF:-1 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8 , AMas
 #EXTINF:-1 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8 , ADN40
 #EXTINF:-1 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8 , Canal Catorce
-#EXTINF:-1 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8 , TMX Digital
+#EXTINF:-1 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8 , Telemax
 #EXTINF:-1 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8 , AMX Noticias
  * * * * * * * * * * * * * * * * *
 #EXTINF:-1 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8 , AYMSports
@@ -30,7 +30,6 @@
 #EXTINF:-1 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8 , Energeek
 #EXTINF:-1 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8 , LKTVU
 #EXTINF:-1 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8 , AMC
-#EXTINF:-1 https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8 , Sony Comedias
 #EXTINF:-1 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8 , WOWTV
 #EXTINF:-1 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8 , FoxSports2
 #EXTINF:-1 https://estrellatv-plex.amagi.tv/playlist.m3u8 , EstrellaTV
