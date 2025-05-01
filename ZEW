@@ -16,20 +16,16 @@
 * * * * * * * * * * * * * * * * *
 #EXTINF:-1 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8 , AYMSports
 #EXTINF:-1 http://crtvg-america.flumotion.cloud/crtvg/america_high/chunks.m3u8 , Galicia America
-#EXTINF:-1 https://ssh101-fl.bozztv.com/ssh101/canallms/playlist.m3u8 , Canal LMS
 #EXTINF:-1 https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8 , Videorola
 #EXTINF:-1 https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES , ZTV
 #EXTINF:-1 https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8 , InternetTV
 #EXTINF:-1 https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8 , Futbol Network
-#EXTINF:-1 https://tv.streaming-chile.com:19360/8140/8140.m3u8 , TerrorTV
-#EXTINF:-1 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8 , Energeek
 #EXTINF:-1 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8 , AMC
 #EXTINF:-1 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8 , WOWTV
 #EXTINF:-1 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8 , FoxSports2
 #EXTINF:-1 https://estrellatv-plex.amagi.tv/playlist.m3u8 , EstrellaTV
 #EXTINF:-1 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8 , Telemundo
 #EXTINF:-1 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8 , BayresTV
-#EXTINF:-1 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8 , Tastemade
 #EXTINF:-1 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8 , TVPacifico
 #EXTINF:-1 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8 , MyTime Movies Network
 #EXTINF:-1 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8 , Milenio Television
