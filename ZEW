@@ -22,7 +22,6 @@
 #EXTINF:-1 https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8 , Futbol Network
 #EXTINF:-1 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8 , AMC
 #EXTINF:-1 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8 , WOWTV
-#EXTINF:-1 https://dai.google.com/linear/hls/pa/event/yINISWAPQ0CPhPixe-40wQ/stream/42dde917-5d80-4d76-9c4b-24cdc2ac0906:DLS/master.m3u8 ,ClaroSports
 #EXTINF:-1 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8 , FoxSports2
 #EXTINF:-1 https://estrellatv-plex.amagi.tv/playlist.m3u8 , EstrellaTV
 #EXTINF:-1 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8 , Telemundo
