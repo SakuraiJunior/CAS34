@@ -30,7 +30,6 @@
 #EXTINF:-1 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8 , Popcorn Central
 #EXTINF:-1 https://tv.streaming-chile.com:19360/8142/8142.m3u8 , MasCine
 #EXTINF:-1 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827 , AZClic
-#EXTINF:-1 https://d2jqgm8hyia1n3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBD800001RJ , Cine Friki
 #EXTINF:-1 http://160.20.165.246:8000/play/a006/index.m3u8 , Clover Channel
 #EXTINF:-1 https://d39mlvgry5t1hu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f351ogneq6tnr/Hallmark_en_Espanol.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US1300001GM , Hallmark
 #EXTINF:-1 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8 , IUTV
@@ -40,5 +39,4 @@
 #EXTINF:-1 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11059 , Anime Onegai
 #EXTINF:-1 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061 , Anime Onegai II
 #EXTINF:-1 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8 , MVStv
-#EXTINF:-1 https://stitcher.pluto.tv/stitch/hls/channel/64df7a9a44fe100009b6ac5alivestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a&profilesFromStream=true , DAZN
 #EXTINF:-1 https://stitcher.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6 , MTV Latino
