@@ -33,7 +33,7 @@
 #EXTINF:-1 http://160.20.165.246:8000/play/a006/index.m3u8 , Clover Channel
 #EXTINF:-1 https://d39mlvgry5t1hu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f351ogneq6tnr/Hallmark_en_Espanol.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US1300001GM , Hallmark
 #EXTINF:-1 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8 , IUTV
-#EXTINF:-1 https://cl-live.elekta.lat/live/c7eds/EnerGeek_FAN/SA_LIVE_hls_enc/master.m3u8 , Energeei Fan
+#EXTINF:-1 https://cl-live.elekta.lat/live/c7eds/EnerGeek_FAN/SA_LIVE_hls_enc/master.m3u8 , Energeek Fan
 #EXTINF:-1 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8 , KanadeTV
 #EXTINF:-1 https://stitcher.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6 , Comedy Central LATAM
 #EXTINF:-1 https://tv.teleclub.xyz/club/server_2/mundo/galavision/index.m3u8 , Galavision
