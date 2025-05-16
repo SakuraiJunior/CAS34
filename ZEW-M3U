@@ -20,7 +20,8 @@
 #EXTINF:-1 https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8 , Futbol Network
 #EXTINF:-1 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8 , AMC
 #EXTINF:-1 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8 , WOWTV
-#EXTINF:-1 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8 , FoxSports2
+#EXTINF:-1 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8 , Fox Deportes
+#EXTINF:-1 https://dai.google.com/linear/hls/pa/event/yINISWAPQ0CPhPixe-40wQ/stream/93906708-3871-4f79-a02b-1bd5a4cbc283:TUL/master.m3u8 , ClaroSports
 #EXTINF:-1 https://estrellatv-plex.amagi.tv/playlist.m3u8 , EstrellaTV
 #EXTINF:-1 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8 , Telemundo
 #EXTINF:-1 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8 , BayresTV
@@ -39,3 +40,11 @@
 #EXTINF:-1 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11059 , Anime Onegai
 #EXTINF:-1 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061 , Anime Onegai II
 #EXTINF:-1 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8 , MVStv
+#EXTINF:-1 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8 , Latin Pop
+#EXTINF:-1 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8 , Season
+#EXTINF:-1 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8 , Romance latino
+#EXTINF:-1 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991742 , The 80s
+#EXTINF:-1 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991120 , Greatest Hits
+#EXTINF:-1 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8 , Teleformula
+#EXTINF:-1 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024 , ComedyCentral
+#EXTINF:-1 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId= , MTV Latino
