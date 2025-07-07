@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8 , AztecaUno
+#EXTINF:-1 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8 , Azteca7
+#EXTINF:-1 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8 , NIMTV
+#EXTINF:-1 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8 , Las Estrellas
+#EXTINF:-1 https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/playlist.m3u8 , WepaTV
+#EXTINF:-1 https://tv.invasivamedia.com/hls/limtv.m3u8 , LIMtv
+#EXTINF:-1 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8 , WOWMovies
+#EXTINF:-1 http://85.239.54.197:81/live/loco_hi/index.m3u8 , LocomotionTV
+#EXTINF:-1 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8 , ToonamiTV
+#EXTINF:-1 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8 , ZyoonTV
+#EXTINF:-1 https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40c , Anime Onegai
+#EXTINF:-1 https://streams.kanade.cl/webtv/kanadeweb/playlist.m3u8?token=deM0kanADeweB , KanadeHD
+#EXTINF:-1 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8 , Big Retro
+#EXTINF:-1 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8 , Canal LMS
+#EXTINF:-1 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8 , Gogoplay
+#EXTINF:-1 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8 , BayresTV
+#EXTINF:-1 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8 , WowTv
