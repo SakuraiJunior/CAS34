@@ -2,6 +2,7 @@
 
 #EXTINF:-1 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8 , AztecaUno
 #EXTINF:-1 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8 , Azteca7
+#EXTINF:-1 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8 , Multimedios 
 #EXTINF:-1 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8 , NIMTV
 #EXTINF:-1 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8 , Las Estrellas
 #EXTINF:-1 https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/playlist.m3u8 , WepaTV
@@ -17,3 +18,4 @@
 #EXTINF:-1 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8 , Gogoplay
 #EXTINF:-1 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8 , BayresTV
 #EXTINF:-1 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8 , WowTv
+#EXTINF:-1 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8 , Videorola
