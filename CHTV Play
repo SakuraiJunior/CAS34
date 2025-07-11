@@ -12,7 +12,6 @@
 #EXTINF:-1 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8?WebM3UCL&PlaylistM3UCL , ZTV
 #EXTINF:-1 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8 , ToonamiTV
 #EXTINF:-1 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8 , ZyoonTV
-#EXTINF:-1 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8 , Goku TV 
 #EXTINF:-1 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8 , Big Retro
 #EXTINF:-1 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8 , Canal LMS
 #EXTINF:-1 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8 , Gogoplay
@@ -30,3 +29,6 @@
 #EXTINF:-1 https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8 , TV del Este HD
 #EXTINF:-1 https://live20.bozztv.com/akamaissh101/ssh101/gentv/playlist.m3u8 , GenTV
 #EXTINF:-1 https://stream.4fun.tv:8888/hls/4f_med/index.m3u8 , 4FunTV
+#EXTINF:-1 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8 , Dragon Ball
+#EXTINF:-1 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8?PlaylistM3UCL , Mr. Bean
+#EXTINF:-1 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8 , Pitufos
