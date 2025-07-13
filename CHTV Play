@@ -12,7 +12,7 @@
 #EXTINF:-1 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8?WebM3UCL&PlaylistM3UCL , ZTV
 #EXTINF:-1 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8 , ToonamiTV
 #EXTINF:-1 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8 , ZyoonTV
-#EXTINF:-1 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8 , Big Retro
+#EXTINF:-1 https://gia.tv/watchssh101.php?sn=bigtv  , Big Retro
 #EXTINF:-1 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8 , Canal LMS
 #EXTINF:-1 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8 , Gogoplay
 #EXTINF:-1 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8 , BayresTV
