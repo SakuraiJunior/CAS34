@@ -12,9 +12,8 @@
 #EXTINF:-1 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8?WebM3UCL&PlaylistM3UCL , ZTV
 #EXTINF:-1 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8 , ToonamiTV
 #EXTINF:-1 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8 , ZyoonTV
-#EXTINF:-1 https://gia.tv/watchssh101.php?sn=bigtv  , Big Retro
 #EXTINF:-1 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8 , Canal LMS
-#EXTINF:-1 https://ssh101.com/securelive/index.php?id=gogoplaysd  , Gogoplay
+#EXTINF:-1 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8 , Gogoplay
 #EXTINF:-1 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8 , BayresTV
 #EXTINF:-1 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8 , WowTv
 #EXTINF:-1 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8 , Videorola
@@ -28,7 +27,11 @@
 #EXTINF:-1 http://185.189.225.150:85/boing/playlist.m3u8 , Boing
 #EXTINF:-1 https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8 , TV del Este HD
 #EXTINF:-1 https://live20.bozztv.com/akamaissh101/ssh101/gentv/playlist.m3u8 , GenTV
-#EXTINF:-1 https://stream.4fun.tv:8888/hls/4f_med/index.m3u8 , 4FunTV
+#EXTINF:-1 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8?PlaylistM3UCL , ToonamiTV
+#EXTINF:-1 https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8?PlaylistM3UCL , FunTV
 #EXTINF:-1 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8 , Dragon Ball
 #EXTINF:-1 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8 , Mr. Bean
 #EXTINF:-1 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8 , Pitufos
+#EXTINF:-1 https://live20.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/chunks.m3u8?PlaylistM3UCL , Anifun
+#EXTINF:-1 https://live20.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/chunks.m3u8?PlaylistM3UCL , Cartoon Clasico
+#EXTINF:-1 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner= , Nick Clasico
