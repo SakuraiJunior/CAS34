@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ACC Network , http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 ACC Network , http://fl5.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 AMC East , http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 Aspire , http://fl3.moveonjoy.com/Aspire/index.m3u8
 #EXTINF:-1 BBC News , http://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
@@ -24,7 +24,7 @@
 #EXTINF:-1 MSG , http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 MTV East , http://fl3.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 Natgeo , http://fl3.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 NBA TV , http://fl3.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 NBA TV , http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 NBC Sports , http://fl3.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 NFL Network , http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 NHL Network , http://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
