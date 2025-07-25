@@ -1,28 +1,29 @@
 #EXTM3U
 #EXTINF:-1 ACC Network , http://fl5.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 AMC East , http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 AMC , http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 Aspire , http://fl3.moveonjoy.com/Aspire/index.m3u8
 #EXTINF:-1 BBC News , http://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 BET East , http://fl3.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1 Bravo East , http://fl3.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 CBS East , http://fl3.moveonjoy.com/CBS_News/index.m3u8
-#EXTINF:-1 CBS Sports Network USA , http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 Bravo , http://fl3.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 CBS News , http://fl3.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 CBS Sports USA , http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 Cartoon Network , https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 Comedy Central East , http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 Disney Channel East , http://fl5.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 Disney Junior East , http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 Disney XD West , http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 E! East , http://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 Comedy Central , http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 Disney , http://fl5.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 Disney Junior , http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 Disney XD , http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 E! Entertainment , http://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 Fox News Channel , http://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 Fox Sports , http://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 FX East , http://fl5.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 FXM East , http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 FXX East , http://fl3.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 Lifetime East , http://fl3.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 Lifetime Movies East , http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 FX , http://fl5.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 FXM , http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 FXX , http://fl3.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 HBO , https://fl5.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 Lifetime , http://fl3.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 Lifetime Movies , http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 MLB Network , http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 MSG , http://fl3.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 MTV East , http://fl3.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 MTV , http://fl3.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 Natgeo , http://fl3.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 NBA TV , http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 NBC Sports , http://fl3.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
@@ -32,4 +33,3 @@
 #EXTINF:-1 TNT , https://fl1.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1 TBS , https://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 USA Network , https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
-#EXTINF:-1 HBO , https://fl5.moveonjoy.com/HBO/index.m3u8
