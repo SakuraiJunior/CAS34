@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ADN40 , https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/684db5b4-967b-4ba2-92b6-6ce266cb2e85:TUL/master.m3u8?aid=5fea0f3673148d5d52cf6a76&adInsertionGoogleStreamId=684db5b4-967b-4ba2-92b6-6ce266cb2e85%3ATUL&pid=nnU8cc7JXjNOKzOvXL3s74pbMa21P4ey&sid=oYOWJmebhn1CoSgdi3oyZdnhWzmU3FgU&uid=5nvsrzkJJ7qkCTfeOI2IkYoZ2haRCv7v&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1754519030702&ot=d0PIDOCGDk3PobIl9XWdmQ&proto=https&pz=us
+#EXTINF:-1 ImagenTV , https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 #EXTINF:-1 AztecaUno , https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 Las estrellas , https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 Multimedios , https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
