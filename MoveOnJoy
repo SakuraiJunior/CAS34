@@ -6,6 +6,7 @@
 #EXTINF:-1 Azteca7 , https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 EstrellaTV , https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 MVS , https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 EXAtv , https://mvs.daioncdn.net/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
 #EXTINF:-1 ACC Network , http://fl5.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 AMC , http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 Aspire , http://fl3.moveonjoy.com/Aspire/index.m3u8
